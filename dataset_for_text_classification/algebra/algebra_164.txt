@@ -1,0 +1,1 @@
+Let G be a finite group and A,B subgroups of G. Prove that if |A : (A B)| > 21|G : B|, then A  B = G.

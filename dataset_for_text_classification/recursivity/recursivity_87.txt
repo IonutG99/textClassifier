@@ -1,0 +1,1 @@
+Write a program that determines whether two logical expressions are equivalent or not.

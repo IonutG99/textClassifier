@@ -1,0 +1,1 @@
+Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding side lengths.

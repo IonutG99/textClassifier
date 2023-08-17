@@ -1,0 +1,1 @@
+Prove Thales' theorem which states that if a line is parallel to one side of a triangle, it divides the other two sides proportionally.

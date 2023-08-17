@@ -1,0 +1,1 @@
+Let T be the set of matrices of the form  xyy x where x and y go through the set 3 of residue classes modulo 3. (i) Determine the number of elements of the set T; (ii) Determine the set G of matrices  xyy x from T a.. x2 + y2 = 1 ; (iii) Prove that the set G forms a group with respect to the matrix multiplication operation;

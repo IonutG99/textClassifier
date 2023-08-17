@@ -1,0 +1,7 @@
+Leta,b,a n d cbe positive numbers. Find the value of
+lim
+n→∞n
+∑
+k=1k+a√
+n2+kn+b·√
+n2+kn+c.

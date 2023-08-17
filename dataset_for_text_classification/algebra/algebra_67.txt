@@ -1,0 +1,1 @@
+Let G be a group a.. x2 = 1, for any x G. Prove that G is commutative and if G is finite, then |G| is a natural power of 2.

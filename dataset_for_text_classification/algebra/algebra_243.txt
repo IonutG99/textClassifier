@@ -1,0 +1,1 @@
+Let G be a group a.. G/Z(G) is cyclic. Show that G is an abelian group.

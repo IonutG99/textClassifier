@@ -1,0 +1,5 @@
+Letm>0 be a real number. Calculate
+/integraldisplay1
+0tm/braceleftbigg1
+t/bracerightbigg
+dt.

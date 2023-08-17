@@ -1,0 +1,1 @@
+Let G = { a 1, a2,, a n} be a subgroup of the group ( *, ) and k*. Show that: (i) G = U n ; (ii) There is a relationship:

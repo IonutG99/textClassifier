@@ -1,0 +1,1 @@
+Let M be a commutative monoid with the property that if x,yM and xy = xz then y = z. Prove that there exists a group G M and an injective morphism of monoids i M : M  GM a.. for any abelian group G and any monoid morphism u : M  G there is a unique group morphism u  : G M  G a.. uoiM = u. Notice. This result is due to Malev.

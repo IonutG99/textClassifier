@@ -1,0 +1,6 @@
+Letkbe a positive real number. Find the value of
+lim
+n→∞/integraldisplay1
+0/braceleftBign
+x/bracerightBigk
+dx.

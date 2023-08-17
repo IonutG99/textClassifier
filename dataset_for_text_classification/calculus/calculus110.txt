@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{4}{11} \cdot \frac{6}{21} \cdot \frac{8}{32} \cdot \ldots \cdot \frac{2n+2}{11n+12}\), for \(n \geq 1\).

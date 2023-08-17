@@ -1,0 +1,1 @@
+Two non-zero natural numbers n and k are read. Display, in lexicographic order, the arrangements of k elements of the set {1,2,..,n}.

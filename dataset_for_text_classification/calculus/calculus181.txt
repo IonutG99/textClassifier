@@ -1,0 +1,1 @@
+Prove that the function \(f\) is differentiable for all points \((x,y)\) except \((0,0)\).

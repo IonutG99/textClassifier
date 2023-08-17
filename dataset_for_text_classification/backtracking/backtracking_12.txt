@@ -1,0 +1,1 @@
+A natural number n is read. Display, in reverse lexicographic order, the permutations of the set {1,2,..,n}.

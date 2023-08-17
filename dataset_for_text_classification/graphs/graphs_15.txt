@@ -1,0 +1,1 @@
+Given a matrix of integers with n rows and n columns, check whether or not it is the adjacency matrix associated with an undirected graph.

@@ -1,0 +1,1 @@
+Given a number n, we want to find the number of n-digit numbers that have the sum and product of the same digits.

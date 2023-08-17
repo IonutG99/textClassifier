@@ -1,0 +1,5 @@
+Letm>−1 be a real number. Prove that
+/integraldisplay1
+0{lnx}xmdx=em+1
+(m+1)(em+1−1)−1
+(1+m)2.

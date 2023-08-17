@@ -1,0 +1,1 @@
+Those who have seen the movie The Immortal, know that the phrase with which the immortals begin the fight is "Only one can remain". Let's try to simulate the story of the immortals.

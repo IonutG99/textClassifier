@@ -1,0 +1,1 @@
+Let (G, ) be a finite abelian group. We say that the subgroup H of G has the property (A) if G  H and the product of the elements of H is equal to the product of the elements of G \ H. Show that if G has a subgroup with the property (A), then any subgroup of G, different from G has property (A).

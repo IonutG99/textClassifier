@@ -1,0 +1,1 @@
+Let (G, ) be a group in which the implication xyn = znx  y = z takes place, where n*. Show that (G,) is an abelian group.

@@ -1,0 +1,1 @@
+In the group of permutations () we consider the elements , defined as follows: (x) = x + 1 and (x) = 2x, for any x  and G = < , >  ( ). For n *, let n = -n  n  G and H n = < n >  G. Prove that for any n  1, H n  Hn+1 and H = U1nHn is not a finite generated subgroup of G.

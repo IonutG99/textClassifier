@@ -1,0 +1,1 @@
+Failing to find his true identity, Brush takes refuge in the magical realm of trees. The arborist calls her and gives her the following problem: given a tree with N nodes, a fixed root, and M questions of the form: how many unordered pairs of nodes can they form, taking nodes only from subtrees of node X (including X).

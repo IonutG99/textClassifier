@@ -1,0 +1,1 @@
+Let G be a group with the property that x3= 1 and x2 y2 = y2 x2, whatever x,yG. Prove that G is commutative.

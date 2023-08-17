@@ -1,0 +1,1 @@
+Give a careful proof that $\sin(x) \leq x$ for all $x \geq 0$.

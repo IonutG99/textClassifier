@@ -1,0 +1,15 @@
+Let f:[0,1]→Rbe continuous and let g:[0,1]→Rbe a continuously
+differentiable function. Prove that
+L=lim
+n→∞n/integraldisplay1
+0xnf(xn)g(x)dx=g(1)/integraldisplay1
+0f(x)dx
+and
+lim
+n→∞n/parenleftbigg
+n/integraldisplay1
+0xnf(xn)g(x)dx−L/parenrightbigg
+=−(g(1)+g/prime(1))/integraldisplay1
+0/integraltextx
+0f(t)dt
+xdx.

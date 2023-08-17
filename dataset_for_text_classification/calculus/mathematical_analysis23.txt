@@ -1,0 +1,1 @@
+Letx∈R. Prove that if lim n→∞cos(nx)=1,then xis a multiple of 2 π.

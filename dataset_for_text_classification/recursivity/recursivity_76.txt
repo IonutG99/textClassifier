@@ -1,0 +1,1 @@
+Write the complete definition of the C++ recursive subroutine num that has 2 parameters: n – by which it receives a natural number and v, by which it receives a one-dimensional array with n elements, natural numbers with at most 4 digits.

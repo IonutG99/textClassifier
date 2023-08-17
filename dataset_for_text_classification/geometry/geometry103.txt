@@ -1,0 +1,3 @@
+
+           Translate the triangle with vertices $A(2, 3)$, $B(5, 1)$, and $C(4, 6)$ by a vector $\mathbf{v} = \begin{bmatrix} -1 \\ 2 \end{bmatrix}$.
+           

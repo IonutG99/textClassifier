@@ -1,0 +1,1 @@
+Consider the sequence defined by \(x_0 \in (0, \frac{1}{2})\) and \(x_{n+1} = x_n - 2x_n^2\) for \(n \in \mathbb{N}\). Determine whether this sequence is monotonic. If it is, state whether it is increasing or decreasing. Additionally, analyze the convergence of the sequence and calculate its limit if it exists.

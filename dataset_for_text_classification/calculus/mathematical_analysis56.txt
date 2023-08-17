@@ -1,0 +1,6 @@
+Letk≥1 be an integer. Calculate
+limn→∞/integraldisplayk√n
+0/parenleftbigg
+1−xk
+n/parenrightbiggn
+dx.

@@ -1,0 +1,3 @@
+
+           In a circle with radius $9 \, \text{cm}$, find the length of a chord that subtends a central angle of $90^\circ$.
+           

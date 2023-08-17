@@ -1,0 +1,1 @@
+Prove that on any open interval bounded by real numbers an algebraic operation can be defined that determines a group structure on that interval.

@@ -1,0 +1,1 @@
+Consider a text stored in a matrix M, defined by the coordinates of the upper left corner (x1,y1) and the coordinates of the lower right corner (x2,y2).

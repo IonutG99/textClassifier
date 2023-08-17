@@ -1,0 +1,1 @@
+In a rooted tree, the level of a node is the length of the chain from the root to that node. Thus, the root is at level 0, the children of the root at level 1, the children of the children of the root at level 2, etc.

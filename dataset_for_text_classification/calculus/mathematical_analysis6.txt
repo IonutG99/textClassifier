@@ -1,0 +1,10 @@
+Find
+lim
+n→∞/parenleftBigg/parenleftBigg
+2n
+∑
+k=n+1(22k√
+2k−k√
+k)/parenrightBigg
+−n/parenrightBigg
+.

@@ -1,0 +1,1 @@
+Read from the keyboard a word s consisting of distinct lowercase letters and a natural number n. Display on the screen all words that can be obtained from s by removing exactly n letters.

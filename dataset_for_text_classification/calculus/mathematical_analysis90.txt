@@ -1,0 +1,9 @@
+Letk≥1b ea ni n t e g e r .P r o v et h a t
+/integraldisplay1
+0/braceleftbiggk
+x/bracerightbigg2
+dx=k/parenleftbigg
+ln(2π)−γ+1+1
+2+···+1
+k+2klnk−2k−2lnk!/parenrightbigg
+.

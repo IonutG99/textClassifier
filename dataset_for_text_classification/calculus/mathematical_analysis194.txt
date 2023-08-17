@@ -1,0 +1,20 @@
+(a) Calculate
+∞
+∏
+n=1/parenleftbigg/radicalbigg
+π
+2·(2n−1)!!√
+2n+1
+2nn!/parenrightbigg(−1)n
+.
+(b) More generally, if x/negationslash=nπis a real number, ﬁnd the value of
+∞
+∏
+n=1/parenleftbiggx
+sinx/parenleftbigg
+1−x2
+π2/parenrightbigg
+···/parenleftbigg
+1−x2
+(nπ)2/parenrightbigg/parenrightbigg (−1)n
+.

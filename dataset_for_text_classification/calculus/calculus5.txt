@@ -1,0 +1,1 @@
+The inequality $|x + 4| < 7$ can be expressed in the form $a < x < b$ where $a = b =$.

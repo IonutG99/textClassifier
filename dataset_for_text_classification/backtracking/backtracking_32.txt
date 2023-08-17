@@ -1,0 +1,1 @@
+Write a program that reads a natural number n with distinct digits and calculates and displays the sum S of all numbers obtained by rearranging the digits of n.

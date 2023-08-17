@@ -1,0 +1,1 @@
+Show that a quadrilateral is a parallelogram if and only if both pairs of opposite sides are congruent.

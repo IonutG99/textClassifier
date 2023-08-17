@@ -1,0 +1,1 @@
+Give a careful proof that at one time your height (in inches) was exactly equal to your weight (in pounds). Be explicit about any physical assumptions you make.

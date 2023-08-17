@@ -1,0 +1,1 @@
+Show how to use the method of cross-sections to derive the formula for the volume of a right circular cone with base radius \(r\) and height \(h\).

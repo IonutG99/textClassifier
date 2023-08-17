@@ -1,0 +1,1 @@
+On the set M =    we define the algebraic operation: (x1, y1) o (x2, y2) = (x 1x2, x2y1 + y 2). Prove that (M,o) is monoid and then determine U(M,o).

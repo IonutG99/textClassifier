@@ -1,0 +1,6 @@
+
+           Calculate the radius of convergence and the interval of convergence for the power series:
+           \[
+           \sum_{n=1}^\infty\frac{(-1)^n}{n}(x-3)^n.
+           \]
+           

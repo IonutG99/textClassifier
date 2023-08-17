@@ -1,0 +1,23 @@
+Write
+n2/parenleftbigg/integraldisplay1
+0n/radicalbig
+f(xn)g(x)dx−/integraldisplay1
+0g(x)dx/parenrightbigg
+=/integraldisplay1
+0lnf(y)
+yexp(θn(y))g/parenleftBig
+y1
+n/parenrightBig
+y1
+ndy,
+where the equality follows based on Lagrange’s Mean Value Theorem applied to
+the function x→exp(x)andθn(y)is between1
+nlnf(y)and1
+nlnf(0)=0.Then,
+calculate the limit of the last integral by using Lebesgue Convergence Theorem.
+1.61.Follow the ideas from the hint of Problem 1.60.
+1.63.Use the ε−δdeﬁnition of lim x→0+f(x)/xand calculate the limit of the
+integral
+/integraldisplay1
+0f(y)
+yg(y1/n)y1/ndy.

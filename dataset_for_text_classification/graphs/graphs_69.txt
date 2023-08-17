@@ -1,0 +1,1 @@
+Swimming pools were built at the Junior beach in our town. Each pool was equipped with a tap for filling it with water. Between m distinct pairs of basins, a pipe was installed through which the water from the two basins in each pair could circulate. Thus, the two basins in the pair can be filled by opening a single tap.

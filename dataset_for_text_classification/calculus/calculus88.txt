@@ -1,0 +1,1 @@
+Evaluate the integral: \(\int_{-2}^{2} \left| x^2 - 4 \right| \, dx\)

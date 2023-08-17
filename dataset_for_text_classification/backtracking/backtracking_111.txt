@@ -1,0 +1,1 @@
+It is considered a string of decimal digits (from 0 to 9). In this string we must insert commas, thus separating the digits in order to form numbers.

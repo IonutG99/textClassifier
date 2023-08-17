@@ -1,0 +1,1 @@
+They are given in distinct words made up of small letters. Display the string consisting of the maximum number of distinct words from the given ones that obeys the rule of the Pheasant game.

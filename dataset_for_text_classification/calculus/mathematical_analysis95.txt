@@ -1,0 +1,19 @@
+(a)A quadratic integral and Euler’s constant. Prove that
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbigg2/braceleftbigg1
+1−x/bracerightbigg2
+dx=4ln(2π)−4γ−5.
+(b)A class of fractional part integrals. Letn≥2b ea ni n t e g e r .T h e n
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbiggn/braceleftbigg1
+1−x/bracerightbiggn
+dx=2n−1
+∑
+j=2(−1)n+j−1(ζ(j)−1)+(−1)n
+−2n∞
+∑
+m=0ζ(2m+n)−ζ(2m+n+1)
+n+m,
+where ζis the Riemann zeta function and the ﬁrst sum is missing when n=2.

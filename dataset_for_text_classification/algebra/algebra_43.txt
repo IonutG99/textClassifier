@@ -1,0 +1,1 @@
+Let A =  4 4 82 2 41 1 2 and M A = { xI3 + yA | (x,y) *  }. Show that:

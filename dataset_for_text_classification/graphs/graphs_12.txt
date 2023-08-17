@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes. Determine the root of the tree and its leaves.

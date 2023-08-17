@@ -1,0 +1,1 @@
+Consider an undirected graph with n vertices and m edges. The m edges are removed one by one from the graph. For each removed edge you must say how many connected components the graph has.

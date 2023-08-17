@@ -1,0 +1,1 @@
+A natural number n is read. Let n be written as the sum of increasing powers of 2.

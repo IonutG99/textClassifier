@@ -1,0 +1,1 @@
+Let M 1,M2 be monoids, f : M 1M2 a morphism of monoids. We consider the following statements: (i) f is an injective application; (ii) If M 0 is another monoid and g,h :M 0 M 1 are morphisms of monoids a.. f og = foh, then g = h ; (iii) Ker(f) = {1}. Prove that (i)  (ii) and (ii)  (iii). Notice. A morphism that verifies (ii) is called a monomorphism of monoids.

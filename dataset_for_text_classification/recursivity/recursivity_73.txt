@@ -1,0 +1,1 @@
+Write the complete definition of the recursive subprogram P that receives a non-zero natural number (n≤100) via the parameter n, and a one-dimensional array with n integer components, of maximum eight digits each, via the parameter x.

@@ -1,0 +1,1 @@
+Given a connected undirected graph with n vertices and an even number of edges. Determine a partial graph of the given one that is connected and is obtained by removing half of the number of edges.

@@ -1,0 +1,1 @@
+Let a* be fixed, M = { -arctg a1+k | k}, the groups G = (,+) and H = (*,) and f : G  H a function defined by: f(x) =  +MGxx x aMx tgx \ , cos sin, .

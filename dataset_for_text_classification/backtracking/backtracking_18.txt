@@ -1,0 +1,1 @@
+Consider a rectangular game board, divided into n lines and m columns. In this way, n*m zones are obtained and the height of each zone is known. At a known position - line istart, column jstart there is a ball that can move to a neighboring position (up, down, left, right) only if the height of the neighboring position is strictly lower than the height of the current position.

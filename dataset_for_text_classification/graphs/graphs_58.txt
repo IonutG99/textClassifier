@@ -1,0 +1,1 @@
+Given an undirected graph with n nodes and m edges, determine the number of connected components.

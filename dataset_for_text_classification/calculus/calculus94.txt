@@ -1,0 +1,1 @@
+Evaluate the integral \(\int e^x \sin x \, dx\).

@@ -1,0 +1,3 @@
+
+           Find the volume of a pyramid with base area 36 square units and height 9 units.
+           

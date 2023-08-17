@@ -1,0 +1,1 @@
+A natural number n is given. To generate a square matrix of size 2n, according to a given pattern.

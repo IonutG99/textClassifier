@@ -1,0 +1,1 @@
+n and m are given, representing the dimensions of a two-dimensional array consisting of elements 0 and 1. A parcel is defined as a grouping of neighboring elements with the value 1. Determine the number of parcels nr, the maximum area of ​​a parcel amax and respectively the number of the parcel with maximum area pmax.

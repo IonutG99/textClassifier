@@ -1,0 +1,1 @@
+Characterize finite groups with the property that all its proper subgroups have the same number of elements.

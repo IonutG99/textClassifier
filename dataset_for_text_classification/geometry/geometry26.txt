@@ -1,0 +1,1 @@
+In a right triangle, the length of one leg is 8 cm and the length of the hypotenuse is 17 cm. Find the length of the other leg.

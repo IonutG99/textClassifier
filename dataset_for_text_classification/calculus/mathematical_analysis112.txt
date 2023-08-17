@@ -1,0 +1,13 @@
+Letk≥1 be an integer. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbigg
+kx
+y/bracerightbigg
+dxdy=k
+2/parenleftbigg
+1+1
+2+···+1
+k−lnk−γ/parenrightbigg
++1
+4.

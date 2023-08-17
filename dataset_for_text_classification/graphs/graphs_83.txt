@@ -1,0 +1,1 @@
+We are given a completely infinite binary tree rooted at node 1 in which for any node i its children are 2*i, respectively 2*i+1 and Q pairs of numbers u v. It is required to find for each pair the length of the path ( as number of edges) between nodes u and v in the tree.

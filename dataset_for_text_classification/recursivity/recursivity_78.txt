@@ -1,0 +1,1 @@
+The Elf Fairy Castle is built on a rectangular surface with n*m identical, square-shaped rooms, arranged m in the Ox direction and n in the Oy direction as in the drawing below where n=3 and m=6. From each room you can enter any neighboring room, room that has a common wall with it. Each room is identified by its coordinates, as in the figure.

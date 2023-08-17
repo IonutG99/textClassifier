@@ -1,0 +1,1 @@
+Given n words consisting of lowercase letters and a number m. Display in lexicographic order all strings of m words among the given ones that obey the rule of the Pheasant game.

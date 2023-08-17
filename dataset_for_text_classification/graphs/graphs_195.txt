@@ -1,0 +1,1 @@
+Lara's residence has been invaded by rats. We can describe Laura's residence as a tree with N nodes rooted at node 1. Initially no node is infested. Various events can happen in turn, each event being of the following four types:

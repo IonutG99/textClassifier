@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{1}{2} \cdot \frac{3}{4}\)

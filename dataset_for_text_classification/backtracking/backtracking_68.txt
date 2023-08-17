@@ -1,0 +1,1 @@
+A square matrix with n rows and n columns and distinct natural number elements is given. Determine the largest sum of n elements in the matrix, with the property that any two elements lie on distinct rows and columns.

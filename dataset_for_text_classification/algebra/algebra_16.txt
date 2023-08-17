@@ -1,0 +1,1 @@
+Let A = {f : * }. On A we define the algebraic operation  as follows: (fg) =ndf(n)g(n/d). Prove that (A, ) is a commutative monoid and f  U(A, )  f(1)  0. Remark. The functions in A are called arithmetic functions and the algebraic operation  is called the convolution product or Dirichlet product.

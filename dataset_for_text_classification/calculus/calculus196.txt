@@ -1,0 +1,5 @@
+
+           Locate the oblique asymptotes of the function:
+           
+           $f:(-\infty,0)\cup(0,\infty)\to\mathbb{R}$, $f(x)=\frac{x^3+1}{x^2-1}$.
+           

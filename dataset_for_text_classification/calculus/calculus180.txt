@@ -1,0 +1,1 @@
+Show that the function \(f\) is differentiable at every point in \(\mathbb{R}^2\).

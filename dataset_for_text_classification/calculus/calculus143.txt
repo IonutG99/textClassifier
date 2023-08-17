@@ -1,0 +1,1 @@
+Investigate the convergence properties of the series \(\displaystyle \sum _{ n=1}^{\infty } \frac{{ n+1}}{{ n^{ a}+n+2}}\) for varying values of \( a\) in the positive real numbers.

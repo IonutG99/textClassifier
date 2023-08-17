@@ -1,0 +1,1 @@
+Let $a, b \in \mathbb{R}$. Show that $||a| - |b|| \leq |a - b|$.

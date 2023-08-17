@@ -1,0 +1,8 @@
+An alternating Euler constant series. Prove that
+∞
+∑
+n=1(−1)n−1/parenleftbigg1
+n−lnn+1
+n/parenrightbigg
+=ln4
+π.

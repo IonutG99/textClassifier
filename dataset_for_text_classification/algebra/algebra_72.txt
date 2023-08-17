@@ -1,0 +1,1 @@
+Let G be a group and H  G a proper subgroup of s. Prove that < G \ H > = G.

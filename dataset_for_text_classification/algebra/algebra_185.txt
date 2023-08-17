@@ -1,0 +1,1 @@
+(i) Let M = =+ 1 ,0 , ,000002 2 2i b aRbaa ibib a. Suppose that M is a group in relation to matrix multiplication, isomorphic to the group (*,) ; (ii) If A = 1000001ii, calculate A2002 (possibly using the isomorphism between the groups ( *,) and (M,)).

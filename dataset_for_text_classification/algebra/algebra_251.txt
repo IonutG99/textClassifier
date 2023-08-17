@@ -1,0 +1,1 @@
+Determine all groups G with the property that any automorphism, different from the identical one, admits a fixed point.

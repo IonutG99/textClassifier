@@ -1,0 +1,1 @@
+Let $f(x) = (x^4 + x^3 + x^2 + x + 1)(x^5 + x^3 + x + 2)$. Find the equation of the tangent line to the curve $y = f(x)$ at the point on the curve whose $x$-coordinate is $-1$.

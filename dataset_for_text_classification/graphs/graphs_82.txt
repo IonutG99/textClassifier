@@ -1,0 +1,1 @@
+Several undirected graphs are given by the adjacency matrix. Check that each graph is complete.

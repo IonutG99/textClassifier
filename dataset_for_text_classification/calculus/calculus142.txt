@@ -1,0 +1,1 @@
+Explore the convergence behavior of the series \(\displaystyle \sum _{ n=1}^{\infty } \frac{{ n+1}}{{ n^{ a}+n+2}}\) with respect to different values of the parameter \( a\).

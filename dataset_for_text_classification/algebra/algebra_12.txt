@@ -1,0 +1,1 @@
+Let n be a natural number, n 2 and M n = {x: (n,x)  1}. Prove that Mn is a stable part of (,+)  n is a natural power of a prime number.

@@ -1,0 +1,1 @@
+A natural number n is given. Determine, in lexicographical order, all the ways to write n as a sum of powers of 2 written in ascending order.

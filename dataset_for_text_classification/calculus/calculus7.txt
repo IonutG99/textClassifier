@@ -1,0 +1,1 @@
+Find all numbers $x$ which satisfy $|x^2 - 9| = |x^2 - 5|$.

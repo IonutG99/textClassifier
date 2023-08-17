@@ -1,0 +1,1 @@
+Two natural numbers n and m are read. List in lexicographic order all the words that are made up of n distinct letters using the first n uppercase letters of the alphabet.

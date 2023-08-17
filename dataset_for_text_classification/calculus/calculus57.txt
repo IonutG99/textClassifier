@@ -1,0 +1,1 @@
+Suppose that $f$ is a differentiable function such that $f'(x) \geq 3$ for all $x$ and that $f(0) = -4$. Prove that $f(3) \geq 5$.

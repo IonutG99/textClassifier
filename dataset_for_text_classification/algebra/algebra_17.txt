@@ -1,0 +1,1 @@
+Let (M, ) be a monoid and 1 its element neutral. (i) Show that if M is a finite set, then there is no a,bM a.. ab = 1 and ba  1; (ii) Give an example of two applications f,g :   a.. f og = 1 and gof  1 ; (iii) Let a and b be in M a.. ab = 1 and ba  1. Show that if bn am = bq ap with m,n,p,q *, then n = q and m = p.

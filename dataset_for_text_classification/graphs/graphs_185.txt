@@ -1,0 +1,1 @@
+We consider a graph that initially consists of P isolated nodes, labeled from 1 to P. We also consider N entries, where entry can mean:

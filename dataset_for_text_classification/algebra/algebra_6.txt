@@ -1,0 +1,1 @@
+Let M  and an associative algebraic operation with the property that there exists n* a.. (xy)n = yx, for any x,y M. Then the algebraic operation is commutative.

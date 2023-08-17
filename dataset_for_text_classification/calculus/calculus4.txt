@@ -1,0 +1,1 @@
+Sketch the graph of the equation $x - 2 = |y - 3|$.

@@ -1,0 +1,1 @@
+Let the group (,+) Show that: (i) The functions f m :  defined by f m(x) = mx are group morphisms; (ii) Any morphism from ( ,+) to (,+) is of this type; (iii) Determine the automorphisms of the group ( ,+).

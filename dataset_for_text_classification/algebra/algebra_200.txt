@@ -1,0 +1,1 @@
+Let G 1,G2 be two groups, (G 2 commutative) and Hom(G 1,G2) ={ f: G 1 G2 | f group morphism}. For f,g Hom(G 1,G2) we define fg:G 1G2 by (fg)(x)=f(x) g(x). Prove that: (i) The doublet (Hom(G 1,G2),) is a commutative group; (ii) If G1 = (,+), then Hom( ,G2)  G2; (iii) If G 1 = (m,+), G 2 = (n,+), then Hom( m,n)  d, where d = (m,n), (m,n *) .

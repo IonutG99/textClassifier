@@ -1,0 +1,1 @@
+Let \(f(x) = \sin x\). Use an appropriate polynomial of degree 3 to approximate \(\sin(0.3)\). Show that the error in this approximation is less than \(2.1 \times 10^{-5}\).

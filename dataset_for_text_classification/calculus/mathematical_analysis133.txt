@@ -1,0 +1,7 @@
+Letfandgbe functions on [0,1]with gintegrable and g(x)=g(1−x).
+Prove that
+/integraldisplay1
+0{f(x)−f(1−x)}g(x)dx=1
+2/integraldisplay1
+0g(x)dx,
+where{a}denotes the fractional part of a.

@@ -1,0 +1,1 @@
+Let (G, ) be a group and fEnd (G). (i) If the applications x  xf(x) and x  x2f(x) are endomorphisms of G, then G is abelian; (ii) If the applications x  x2f(x) and x  x4f(x) are endomorphisms of G, then G is abelian.

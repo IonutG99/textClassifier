@@ -1,0 +1,1 @@
+Let G be a finite group a.. |Z(G)| > 21|G|. Prove that the group G is commutative.

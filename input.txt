@@ -1,0 +1,38 @@
+Study the monotony and limitation of the sequence
+\begin{equation*}
+x_{n}=\frac{3}{12}\cdot\frac{5}{19}\cdot\frac{7}{26}\cdot\ldots\cdot\frac{%
+2n+1}{7n+5},\text{ }n\geq1.
+\end{equation*}
+
+<!====================================!>
+
+Find the values of $a,b\in\mathbb{R}$, $b\neq 0$ for which the equality is true:
+\begin{equation*}
+\lim_{n\to\infty}\left(a+\frac{n}{bn^2+2n+1}\right)^{n+1}=,\frac{1}{e}.
+\end{equation*}
+
+<!====================================!>
+
+Let $(a_{n}){n\geq 0}$ be the sequence defined by $a{0}\in \lbrack 2,3]$ and $a_{n+1}=a_{n}^{2}-4a_{n}+6$ for all $n\geq 0.$
+
+i) Show that the sequence $(a_{n})_{n\geq 0}$ is bounded.
+
+ii) Show that the sequence $(a_{n})_{n\geq 0}$ is convergent.
+
+ii) Calculate the limit of the sequence $(a_{n})_{n\geq 0}$.
+
+<!====================================!>
+
+Given the sequence:
+\begin{equation*}
+x_0\in\left(0,\frac{1}{2}\right);\quad x_{n+1}=x_n-2x_n^2,\ n\in\mathbb{N}.
+\end{equation*}
+Is this sequence monotonic? What about convergent? Can you calculate its limit?
+
+<!====================================!>
+
+Consider the series:
+\begin{equation*}
+\sum_{n=1}^\infty\frac{2n+1}{n^2(n+1)^2}.
+\end{equation*}
+Study the convergence of this series and find its sum.

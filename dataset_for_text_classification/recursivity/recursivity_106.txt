@@ -1,0 +1,1 @@
+You are given a natural number n and a sequence b[1], ..., b[n] ∊ {true, false}. It is guaranteed that there exists a natural number k for which n = 2k - 1. You need to generate a permutation p of the elements {1, 2, ..., n} that satisfies certain conditions. Let S(p) be the number of indices i ∈ {1, 2, ..., n} for which binary_search(n, p, i) does not return b[i].

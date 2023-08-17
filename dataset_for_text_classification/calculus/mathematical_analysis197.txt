@@ -1,0 +1,18 @@
+A Stirling product. Prove that
+∞
+∏
+n=1/parenleftbiggn!√
+2πn(n/e)n/parenrightbigg(−1)n−1
+=A3
+27/12π1/4.
+3.4 Harmonic Series
+. . . and I already see a way for ﬁnding the sum1
+1+1
+4+1
+9+1
+16
+etc.
+Johann Bernoulli (1667–1748)
+The nth harmonic number, Hn, is the rational number deﬁned by Hn=1+1/2+
+1/3+···+1/n.The ﬁrst four harmonic numbers are H1=1,H2=3/2,H3=11/6,
+H4=25/12.

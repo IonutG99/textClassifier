@@ -1,0 +1,1 @@
+Find the area bounded by the curve \(y = x^2\) and the x-axis from \(x = 0\) to \(x = 3\).

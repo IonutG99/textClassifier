@@ -1,0 +1,1 @@
+Four natural numbers n a x y are given. Display the elements of the set M with the following properties:

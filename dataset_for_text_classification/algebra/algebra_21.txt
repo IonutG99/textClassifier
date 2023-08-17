@@ -1,0 +1,1 @@
+Let the matrix A = 1021M2(). (i) Determine X M2() a.. AX = XA ; (ii) Let the equation Xn = A (n , n  2) be solved in M 2().

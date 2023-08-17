@@ -1,0 +1,1 @@
+Determine a way for a horse that moves in the manner specific to a chess horse to traverse a whole board, so that it does not pass through the same position twice.

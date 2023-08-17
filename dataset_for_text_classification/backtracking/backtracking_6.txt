@@ -1,0 +1,1 @@
+Given a natural number n. Determine, in lexicographical order, all the ways to write n as a sum of distinct natural numbers.

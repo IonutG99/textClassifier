@@ -1,0 +1,1 @@
+The list of arcs of a directed graph is given. Display, in lexicographic order, all cycles of length three.

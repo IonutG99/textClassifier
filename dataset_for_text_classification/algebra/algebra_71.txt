@@ -1,0 +1,1 @@
+Let (G, ) be a group, x, y G and m, n* a.. (m,n) = 1. Show that if x commutes with ym and yn, then x also commutes with y.

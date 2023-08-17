@@ -1,0 +1,1 @@
+Let d be a square free natural number (d  2) and [d] = {x+y d| x,y}. We define N : [d][d] by N(x+y d) = x2- dy2, for any x,y . Prove that ([d],) is commutative monoid and z U([d],)  N(z){1}.

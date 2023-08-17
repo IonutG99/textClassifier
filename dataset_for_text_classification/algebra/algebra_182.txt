@@ -1,0 +1,1 @@
+We would say that the set M of matrices of the form A=cha shasha cha, a, forms a multiplicative group isomorphic to ( , +).

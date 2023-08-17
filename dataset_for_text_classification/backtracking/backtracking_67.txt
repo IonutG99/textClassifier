@@ -1,0 +1,1 @@
+Given a natural number s. Determine, in lexicographical order, all the ways to write s as a product of distinct proper divisors of s.

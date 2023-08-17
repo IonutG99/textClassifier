@@ -1,0 +1,7 @@
+Prove that
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbigg2/braceleftbigg1
+1−x/bracerightbigg
+dx=5
+2−γ−ln(2π).

@@ -1,0 +1,1 @@
+The natural numbers n and k are given. Generate in lexicographic order all the permutations of the set {1,2,...,n} with the property that the difference in mode between any two adjacent numbers in the permutation is at most k.

@@ -1,0 +1,1 @@
+Use the mean value theorem to show that \( x + 1 < e^x < 2x + 1 \) whenever \( 0 < x \leq \ln 2 \).

@@ -1,0 +1,15 @@
+The limit of a multiple sum. Letk≥2 be an integer and let mbe a
+nonnegative integer. Prove that
+lim
+n→∞1
+nk−1n
+∑
+i1=1···n
+∑
+ik=11
+i1+i2+···+ik+m=k
+(k−1)!k
+∑
+j=2(−1)k−jjk−2/parenleftbiggk−1
+j−1/parenrightbigg
+lnj.

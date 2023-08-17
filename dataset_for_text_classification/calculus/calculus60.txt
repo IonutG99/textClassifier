@@ -1,0 +1,1 @@
+Give a careful proof that $1 - \cos(x) \leq x$ for all $x \geq 0$.

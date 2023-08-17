@@ -1,0 +1,1 @@
+Let $f(x) = x + 7$, $g(x) = x + 2$, and $h(x) = x^2$. Find $(h \circ ((f \circ g) - (g \circ f)))(7)$.

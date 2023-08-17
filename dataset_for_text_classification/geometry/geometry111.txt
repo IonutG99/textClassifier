@@ -1,0 +1,3 @@
+
+           Translate the figure with vertices $A(2, 1)$, $B(4, 3)$, $C(5, 6)$, and $D(3, 5)$ by a vector $\mathbf{v} = \begin{bmatrix} 1 \\ -2 \end{bmatrix}$.
+           

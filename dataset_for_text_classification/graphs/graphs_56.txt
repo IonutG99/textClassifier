@@ -1,0 +1,1 @@
+Given a tournament graph with n nodes. Determine an elementary path containing all the nodes of the graph.

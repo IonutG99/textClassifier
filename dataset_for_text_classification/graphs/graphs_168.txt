@@ -1,0 +1,1 @@
+A large project is being worked on at a software company. The project consists in the execution of n (n natural number) development phases, numbered with the numbers 1, 2, ..., n. Some phases can be executed in parallel (at the same time), but the execution of other phases cannot be started until complete the execution of certain phases.

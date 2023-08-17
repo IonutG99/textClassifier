@@ -1,0 +1,9 @@
+Letaandbbe positive real numbers. Prove that
+lim
+n→∞n2/parenleftBigg/integraldisplay1
+0n/radicalbigg
+1+axn
+1+bxndx−1/parenrightBigg
+=−/integraldisplayb
+aln(1+x)
+xdx.

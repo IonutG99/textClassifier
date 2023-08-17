@@ -1,0 +1,1 @@
+Find the domain and range of the function $f(x) = 2\sqrt{4 - x^2} - 3$.

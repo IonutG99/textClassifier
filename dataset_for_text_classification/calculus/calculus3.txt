@@ -1,0 +1,1 @@
+Find all numbers $x$ which satisfy $|x^2 + 2| = |x^2 - 11|$.The inequality $-4 \leq x \leq 10$ can be expressed in the form $|x - a| \leq b$ where $a = b =$.

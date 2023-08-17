@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes and a node k. Each node of the tree has an integer value associated with it. Determine the sum of the values ​​associated with the nodes in the subtree rooted in k.

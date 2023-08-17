@@ -1,0 +1,1 @@
+Write a program that reads two natural numbers n and m and displays the largest number that can be obtained by removing exactly m digits from n, where m is less than the number of digits of n.

@@ -1,0 +1,1 @@
+Prove that a group cannot be written as the union of two of its own subgroups.

@@ -1,0 +1,1 @@
+The inequality $-15 \leq x \leq 7$ can be expressed in the form $|x - a| \leq b$ where $a =$ and $b =$.

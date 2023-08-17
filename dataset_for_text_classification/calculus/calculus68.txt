@@ -1,0 +1,1 @@
+Let $m \in \mathbb{R}$. Use Rolle's theorem to show that the function $f$ defined by $f(x) = x^3 - 3x + m$ cannot have two zeros in the interval $[-1, 1]$.

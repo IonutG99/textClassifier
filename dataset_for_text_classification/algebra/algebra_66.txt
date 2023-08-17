@@ -1,0 +1,1 @@
+Let (G, ) be a group with the properties: 1) If x2 = 1, then x = 1; 2) (xy)2 = (yx)2, whatever x,y G. Prove that the group G is abelian.

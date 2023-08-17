@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n. Check whether the graph is bipartite.

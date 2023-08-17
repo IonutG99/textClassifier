@@ -1,0 +1,1 @@
+Let [i]={x+yi : x,y , i, i2 = -1}. Prove that ([i],) is commutative monoid. Let U( [i], ) be determined.

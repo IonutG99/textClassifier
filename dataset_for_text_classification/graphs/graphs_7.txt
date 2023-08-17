@@ -1,0 +1,1 @@
+The list of edges of an undirected graph is given. Display the adjacency matrix of the graph.

@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n. Remove from this graph all edges with an endpoint in a vertex of maximum degree. Determine the number of removed edges and display the adjacency matrix of the obtained partial graph.

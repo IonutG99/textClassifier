@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes. Each node of the tree has an integer value associated with it. Determine the nodes p in the tree for which the sum of the values ​​associated with the nodes in the subtree rooted at p is maximal.

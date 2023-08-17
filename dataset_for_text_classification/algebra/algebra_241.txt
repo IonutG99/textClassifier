@@ -1,0 +1,1 @@
+Show that any matrix group in M 2 () with respect to matrix multiplication, whose neutral element is different from I 2, is isomorphic to a subgroup of the group ( *, )

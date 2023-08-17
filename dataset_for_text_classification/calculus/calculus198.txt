@@ -1,0 +1,5 @@
+
+           Find the vertical asymptotes of the function:
+           
+           $f:(1,\infty )\to\mathbb{R}$, $f(x)=\frac{\ln(x^2-1)}{x^2-4}$.
+           

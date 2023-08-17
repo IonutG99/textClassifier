@@ -1,0 +1,1 @@
+An algebraic operation with the following properties is defined on the set M: 1) x2 = x, for any x M; 2) (xy)z = (yz)x, for any x,y,z M. Show that the operation is associative and commutative.

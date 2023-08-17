@@ -1,0 +1,1 @@
+Let (G,) be an (abelian) group, G  a set for which there exists a bijection f : G  G. For x,y G we define x oy = f(f-1(x)f-1(y)). Show that in this way (G ,o) becomes an (abelian) group.

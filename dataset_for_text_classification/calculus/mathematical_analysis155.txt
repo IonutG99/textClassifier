@@ -1,0 +1,8 @@
+Prove that
+∞
+∑
+n=1/parenleftbigg
+nln2n+1
+2n−1−1/parenrightbigg
+=1
+2(1−ln2).

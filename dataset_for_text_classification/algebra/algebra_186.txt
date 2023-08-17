@@ -1,0 +1,1 @@
+Show that: (i) The set M = = ZkkDk ,101 forms a group in relation to the matrix multiplication operation, group isomorphic to the group ( ,+ ); (ii) The set M =  += ZkkMk ,1 001 001 211 is an abelian group with respect to matrix multiplication, isomorphic to ( , +) ; (iii) The set M = = RaaAa ,101 is a subgroup of the group of invertible matrices in M 2(), isomorphic to (,+).

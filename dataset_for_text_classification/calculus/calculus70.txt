@@ -1,0 +1,1 @@
+ Prove that the equation $\sin x = 1 - 2x$ has exactly one solution. Explain how the intermediate value theorem can be used to produce an approximation to the solution which is correct to two decimal places.

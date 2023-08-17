@@ -1,0 +1,1 @@
+Let M be a set with n elements. (i) How many algebraic operations can be defined on M ? (ii) How many of these are commutative? (iii) How many of these admit neutral element? (iv) Show that the number of algebraic operations that can be defined on M that are at the same time commutative and with a neutral element is 222+nnn .

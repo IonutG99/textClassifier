@@ -1,0 +1,1 @@
+Let (G,) be a commutative group of finite order. They are equivalent: (i) G is of odd order; (ii) For any a G the equation x2 = a has a unique solution in G.

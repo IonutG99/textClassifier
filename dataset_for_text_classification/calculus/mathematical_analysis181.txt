@@ -1,0 +1,8 @@
+Prove that
+∞
+∑
+n=1(−1)n/parenleftbigg
+nlnn+1
+n−1/parenrightbigg
+=1+(lnπ)/2−6lnA+(ln2)/6,
+where Adenotes the Glaisher–Kinkelin constant.

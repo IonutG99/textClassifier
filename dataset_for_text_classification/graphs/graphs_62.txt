@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n. Remove from this graph all edges with the property that both ends have the same parity. Determine how many edges the obtained partial graph will have.

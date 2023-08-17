@@ -1,0 +1,1 @@
+Prove that for n  4, Z(A n) = {e}.

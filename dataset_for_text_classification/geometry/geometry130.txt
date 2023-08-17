@@ -1,0 +1,3 @@
+
+           Find the volume of a triangular pyramid with base area 24 square units and height 10 units.
+           

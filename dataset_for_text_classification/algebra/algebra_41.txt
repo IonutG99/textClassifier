@@ -1,0 +1,1 @@
+Let E =    and for t , the function f t:EE, f t(x,y) = (x+ ty + t2/2, y + t), whatever (x,y) E . Prove that the set G = {f t : t} forms a commutative group in relation to the composition of functions.

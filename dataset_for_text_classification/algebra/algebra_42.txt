@@ -1,0 +1,1 @@
+Consider the set: G = +++ | || |,0 ) ( ) ()(2 24 db ca db caR Madcbbadccbaddcba. (i) Show that (G,) is an abelian group; (ii) For n  and XG, show that c there exist an, b n, cn, d n   and H = {A,B,C,D}, H  G, let (H, ) be an abelian group and Xn = a nA + b nB + c nC + +d nD for any natural number n (iii) For n * calculate: n2300023000233002.

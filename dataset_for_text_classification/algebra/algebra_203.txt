@@ -1,0 +1,1 @@
+Let k>0. On the set G = (-k,k) we define the algebraic operation ab kbakba++=22) (o . Show that: (i) (G,  ) is an abelian group; (ii) The function f : G  , f(t) =tx kdx012 2 is an isomorphism of groups from (G, o) to (,+).

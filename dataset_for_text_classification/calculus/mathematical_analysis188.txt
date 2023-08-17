@@ -1,0 +1,13 @@
+A quadratic alternating series. Prove that
+∞
+∑
+n=1(−1)n/parenleftbigg
+ln2−1
+n+1−1
+n+2−···−1
+2n/parenrightbigg2
+=π2
+48−π
+8ln2−7
+8ln22+G
+2.

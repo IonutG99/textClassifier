@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n. Remove from this graph all edges with one extremity of maximum degree and the other extremity of minimum degree. Determine the number of removed edges and display the adjacency matrix of the obtained partial graph.

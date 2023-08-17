@@ -1,0 +1,1 @@
+For fixed n  1, denote by M the set of matrices AM2n() of the form: A(x) = x xx xx xx xx x00...000 0...0 0...............00 ... 000 0...0 000...00 with x  0. Let it is shown that: (i) M is an abelian group with respect to matrix multiplication; (ii) The groups (M, ) and (*,) are isomorphic.

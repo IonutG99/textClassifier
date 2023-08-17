@@ -1,0 +1,1 @@
+Show that the function \(f\) is differentiable everywhere in \(\mathbb{R}^2\) except at \((0,0)\).

@@ -1,0 +1,8 @@
+Find
+limn→∞nn
+∏
+m=1/parenleftbigg
+1−1
+m+5
+4m2/parenrightbigg
+.

@@ -1,0 +1,11 @@
+The limit of a harmonic mean. Letf:[0,1]→Rbe a continuous function.
+Find the limit
+lim
+n→∞/integraldisplay1
+0···/integraldisplay1
+0f/parenleftBigg
+n
+1
+x1+···+1
+xn/parenrightBigg
+dx1···dxn.

@@ -1,0 +1,1 @@
+Determine the maximum of the minimum distances between node 1 and the other nodes, in an undirected graph.

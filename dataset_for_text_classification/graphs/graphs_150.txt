@@ -1,0 +1,1 @@
+Given an undirected graph with n vertices that is connected and has degrees of all vertices even. Determine an Eulerian cycle.

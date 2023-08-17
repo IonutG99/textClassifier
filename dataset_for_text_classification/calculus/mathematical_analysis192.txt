@@ -1,0 +1,12 @@
+Calculate
+∞
+∏
+n=1/parenleftbigg
+1+1
+n2/parenrightbigg(−1)n−1
+and∞
+∏
+n=2/parenleftbigg
+1−1
+n2/parenrightbigg(−1)n−1
+.

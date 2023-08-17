@@ -1,0 +1,7 @@
+Calculate∞
+∑
+k=2/parenleftbigg
+(k−1)2lnk2
+k2−1−k−1
+k+1/parenrightbigg
+.

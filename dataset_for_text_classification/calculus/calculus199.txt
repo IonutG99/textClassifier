@@ -1,0 +1,5 @@
+
+Find the radius of convergence and the interval of convergence for the power series:
+\[
+\sum_{n=1}^\infty\frac{5^n}{n^2}x^n.
+\]

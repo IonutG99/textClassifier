@@ -1,0 +1,1 @@
+A program reads an odd nonzero natural value for n and then generates and displays in lexicographically ascending order all combinations of n digits that satisfy the following properties:

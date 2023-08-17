@@ -1,0 +1,1 @@
+Gigel plays with a directed graph with N nodes. Initially all the nodes of the graph are transparent, but Gigel likes the change. Ambitious in nature, he colors some nodes red, some black, and some white (probably because of the 2017 color paint crisis).

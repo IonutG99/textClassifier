@@ -1,0 +1,1 @@
+Before participating in the National Computing Olympiad, Zoli decided to walk around the city. The city where Zoli lives is in the shape of a tree, each node representing a house and moving between them is done by means of the edges.

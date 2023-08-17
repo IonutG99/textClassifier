@@ -1,0 +1,1 @@
+A natural number n is read. Display in lexicographic order all words that are made up of n uppercase letters, that have the letters in strictly ascending alphabetical order, and in which the number of vowels is greater than the number of consonants.

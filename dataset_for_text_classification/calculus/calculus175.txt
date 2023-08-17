@@ -1,0 +1,1 @@
+Show that the function \(f:\mathbb{R}^2 \to \mathbb{R}\) is differentiable on the entire \(\mathbb{R}^2\) domain.

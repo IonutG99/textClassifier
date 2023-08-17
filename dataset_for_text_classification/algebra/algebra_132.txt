@@ -1,0 +1,1 @@
+Let G be a group and x G an element of finite order n. Prove that for any m *, o(xm) = n/(m,n).

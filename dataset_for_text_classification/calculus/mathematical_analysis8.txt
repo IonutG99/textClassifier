@@ -1,0 +1,10 @@
+Leta∈(0,∞). Calculate
+limn→∞/parenleftBig
+e1
+a+1
+a+1+···+1
+a+n−e1
+a+1
+a+1+···+1
+a+n−1/parenrightBig
+.

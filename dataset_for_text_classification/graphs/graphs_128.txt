@@ -1,0 +1,1 @@
+A tree with n nodes and the root r is given, the nodes being labeled with the numbers from 1 to n. It is required to find for each node i, how many nodes in the subtree with the root i have a label smaller than i.

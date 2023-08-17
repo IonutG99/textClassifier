@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices and a vertex p. Determine an elementary cycle containing the vertex p.

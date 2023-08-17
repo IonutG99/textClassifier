@@ -1,0 +1,1 @@
+Given two numbers n m. Let us generate all numbers with exactly n digits less than m with the property that the difference in absolute value between any two consecutive digits is at least 2.

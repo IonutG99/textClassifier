@@ -1,0 +1,1 @@
+Given two natural numbers a and b. Calculate the sum of balanced numbers in the interval [a,b]. A number is balanced if the sum of the even digits is equal to the sum of the odd digits. For example 3467 is balanced and 8333 is not.

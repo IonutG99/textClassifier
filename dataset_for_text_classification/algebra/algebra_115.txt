@@ -1,0 +1,1 @@
+Prove that in S n two permutations are conjugate if and only if they also have a cyclic structure.

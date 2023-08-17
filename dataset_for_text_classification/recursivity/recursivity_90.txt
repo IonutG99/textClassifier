@@ -1,0 +1,1 @@
+Consider three non-zero natural numbers n, k and w.

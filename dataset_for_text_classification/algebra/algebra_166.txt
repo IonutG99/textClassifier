@@ -1,0 +1,1 @@
+Prove that in a group G the intersection of a finite number of subgroups of finite index is a subgroup of finite index.

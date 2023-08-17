@@ -1,0 +1,6 @@
+Letfbe the function deﬁned by f(n)=ln2/2k−1if 2k−1≤n<2k. Prove that
+∞
+∑
+n=1/parenleftbigg1
+n−f(n)/parenrightbigg
+=γ.

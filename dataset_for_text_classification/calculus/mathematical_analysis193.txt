@@ -1,0 +1,6 @@
+Calculate
+∞
+∏
+n=2/parenleftbiggn2+1
+n2−1/parenrightbigg(−1)n−1
+.

@@ -1,0 +1,1 @@
+To escape from the Matrix, Neo must traverse a maze represented by a matrix with n rows and m columns.

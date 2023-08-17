@@ -1,0 +1,1 @@
+Find the value of \(a \in \mathbb{R}\) such that \(f(x)\) has primitives on the interval \([-4, 4]\).

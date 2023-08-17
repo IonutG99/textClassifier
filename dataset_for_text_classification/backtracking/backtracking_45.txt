@@ -1,0 +1,1 @@
+A word s consisting of no more than 11 distinct lowercase letters is read from the keyboard. Generate in alphabetical order and display all anagrams of the word s where the consonants are fixed points.

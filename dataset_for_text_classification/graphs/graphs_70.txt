@@ -1,0 +1,1 @@
+A space expedition aims to determine an optimal route between two solar systems in the galaxy that uses the least amount of energy for propulsion. Determine the minimum energy cost it incurs, if any.

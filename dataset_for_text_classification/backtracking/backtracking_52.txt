@@ -1,0 +1,1 @@
+A set of n natural numbers is read. Display in lexicographic order all permutations of the set read in which the minimum and maximum elements do not change position.

@@ -1,0 +1,11 @@
+Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx−y
+x+y/bracerightbigg
+dxdy=/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx+y
+x−y/bracerightbigg
+dxdy=1
+2.

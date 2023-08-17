@@ -1,0 +1,9 @@
+Letkbe a positive integer. Find the value of
+L=lim
+n→∞/integraldisplay1
+0ln(1+xn+k)
+ln(1+xn)dxand lim
+n→∞n/parenleftbigg/integraldisplay1
+0ln(1+xn+k)
+ln(1+xn)dx−L/parenrightbigg
+.

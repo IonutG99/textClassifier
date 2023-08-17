@@ -1,0 +1,1 @@
+Let $f(x) = (x^2-3)^{10}(x^3+9)^{20}$. The equation of the tangent line to the curve $y = f(x)$ at the point on the curve whose x-coordinate is $-2$ is $y = ax + b$ where $a =$ and $b =$.

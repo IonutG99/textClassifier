@@ -1,0 +1,1 @@
+Given a soccer score, determine how many ways you can go from 0-0 to that score.

@@ -1,0 +1,9 @@
+A Gamma limit. Prove that
+lim
+n→∞n
+∑
+k=1/parenleftbigg
+Γ/parenleftbiggk
+n/parenrightbigg/parenrightbigg−k
+=eγ
+eγ−1.

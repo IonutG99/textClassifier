@@ -1,0 +1,8 @@
+(a) Let n≥2 be a natural number. Prove that
+2−√e
+n−1≤n
+∏
+k=2(2−k√e)<1
+n.
+(b) Prove that lim n→∞n∏n
+k=2(2−k√e)exists.

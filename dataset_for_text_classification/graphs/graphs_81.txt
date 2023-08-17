@@ -1,0 +1,1 @@
+There are n people living in Zoli's country, numbered from 1 to n, and Zoli has the order number 1. Zoli is fed up with the political system, so he decided to go to the streets. Since Zoli is a sociable person, he has friends from various circles that he thought of calling with him. Zoli will notify his friends, who will in turn notify their friends and so on.

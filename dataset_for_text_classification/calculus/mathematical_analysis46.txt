@@ -1,0 +1,7 @@
+A limit of P ´olya and Szeg ¨o.Leta<band let f:[a,b]→[0,∞)be a
+continuous function, with f/negationslash=0. Calculate
+lim
+n→∞/integraltextb
+afn+1(x)dx
+/integraltextb
+afn(x)dx.

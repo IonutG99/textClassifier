@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes and k nodes in the tree. Determine for each of the k nodes the level it is on.

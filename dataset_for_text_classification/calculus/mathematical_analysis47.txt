@@ -1,0 +1,8 @@
+The limit of ntimes a difference of two nth roots. Letf:[a,b]→
+[0,∞)be a continuous function. Calculate
+lim
+n→∞n⎛
+⎝n/radicalBigg/integraldisplayb
+afn+1(x)dx−n/radicalBigg/integraldisplayb
+afn(x)dx⎞
+⎠.

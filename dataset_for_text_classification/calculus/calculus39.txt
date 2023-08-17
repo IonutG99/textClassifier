@@ -1,0 +1,1 @@
+Let $f$ be a real-valued function of a real variable which is differentiable at a point $a$ in its domain. When thinking of a function in terms of its graph, we often write $y = f(x)$, call $x$ the independent variable, and call $y$ the dependent variable.

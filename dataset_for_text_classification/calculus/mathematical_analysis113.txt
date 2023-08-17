@@ -1,0 +1,11 @@
+Letmandnbe positive integers such that m≤n. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggmx
+ny/bracerightbigg
+dxdy=m
+2n/parenleftbigg
+lnn
+m+3
+2−γ/parenrightbigg
+.

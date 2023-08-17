@@ -1,0 +1,1 @@
+A natural number n is read. Display, in lexicographical order, the permutations without fixed points of the set {1,2,..,n}.

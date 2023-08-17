@@ -1,0 +1,1 @@
+Consider a network consisting of n servers, numbered from 1 to n. In the network there are m pairs of known x y servers between which there are direct communication links. Between any two servers in the network there are links, either direct or through other servers.

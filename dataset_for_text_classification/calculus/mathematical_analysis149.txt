@@ -1,0 +1,7 @@
+Discuss the convergence of the series
+∞
+∑
+n=1xsin1
+1+sin1
+2+···+sin1
+n,x∈(0,1).

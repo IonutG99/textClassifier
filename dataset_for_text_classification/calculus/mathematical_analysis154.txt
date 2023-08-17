@@ -1,0 +1,6 @@
+Letn≥1 be an integer. Prove that
+∞
+∑
+k=11
+k(k+1)(k+2)···(k+n)=1
+n·n!.

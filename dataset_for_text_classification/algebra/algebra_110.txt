@@ -1,0 +1,1 @@
+Two permutations ,Sn are said to be disjoint if when one of them changes an element, the other one fixes it. Prove that if  = (i 1,i2,  ,i r),  = (j 1,j2, , j s), r, s  n, then  and  are disjoint  {i 1,i2 ,  , i r }  {j1,j2, , j s} = .

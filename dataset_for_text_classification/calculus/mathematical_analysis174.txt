@@ -1,0 +1,6 @@
+Letp≥2a n d k≥1 be integers. Find the sum
+∞
+∑
+n=1(−1)n
+⌊p√n⌋k,
+where⌊a⌋denotes the greatest integer not exceeding a.

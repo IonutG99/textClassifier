@@ -1,0 +1,1 @@
+Let X be a nonempty set and F(X) = {f : X  X}. Prove that relative to the composition of functions, F(X) is a monoid and U(F(X), o) = {f F(X) : f is a bijection}. Notice. We will write U(F(X), o) = (X); the group ( (X) ,o) is called the group of permutations on the set X . If X is a finite set with n elements, we will denote (X) by S n.

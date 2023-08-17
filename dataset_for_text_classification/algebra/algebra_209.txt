@@ -1,0 +1,1 @@
+Let G be a commutative group a.. the only automorphism of s is the identical one. Show that x2 = 1, whatever x G.

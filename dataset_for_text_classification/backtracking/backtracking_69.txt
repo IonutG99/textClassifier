@@ -1,0 +1,1 @@
+They are given in natural numbers. Determine an arrangement of these numbers on a circle so that the sum of the products of two adjacent numbers is maximal.

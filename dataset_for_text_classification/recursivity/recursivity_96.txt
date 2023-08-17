@@ -1,0 +1,1 @@
+Given a natural number N. Calculate the expression:

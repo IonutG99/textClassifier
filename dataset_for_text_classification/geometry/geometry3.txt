@@ -1,0 +1,1 @@
+Determine the measure of each angle in an equilateral triangle.

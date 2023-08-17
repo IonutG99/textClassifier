@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph and a node k. Determine the nodes in the graph that have degree equal to the degree of node k.

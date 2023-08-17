@@ -1,0 +1,1 @@
+Find $\lim_{{x \to 0^+}} e^{-\frac{1}{x}} \sin(\frac{1}{x}) - (x + 2)^3$ (if it exists) and give a careful argument showing that your answer is correct.

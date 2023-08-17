@@ -1,0 +1,1 @@
+Let G be a group and let x,y G a.. o(x) = m, o(y) = n, (m,n *). Prove that if x and y commute with [x, y], then [x,y]d = 1, where d = (m,n).

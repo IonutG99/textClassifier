@@ -1,0 +1,1 @@
+Prove that if two triangles have proportional side lengths, then they are similar.

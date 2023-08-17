@@ -1,0 +1,1 @@
+Consider a chessboard of size n. Place n queens on the board so that there are no two queens to attack.

@@ -1,0 +1,1 @@
+Determine the value of \(a\) such that \(f(x)\) is integrable on the interval \((0, 4]\).

@@ -1,0 +1,6 @@
+Letm≥1 be an integer. Calculate
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbigg1
+x+y/bracerightbiggm
+dxdy.

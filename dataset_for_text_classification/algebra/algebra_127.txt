@@ -1,0 +1,1 @@
+Prove that in a group G with 2n elements, where n is an odd number, there are at most n elements of order 2.

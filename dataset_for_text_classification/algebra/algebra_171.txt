@@ -1,0 +1,1 @@
+Let n  3. Prove that if n is odd, then |Z(D n)| = 1 and if n is even, then | Z(D n) | = 2.

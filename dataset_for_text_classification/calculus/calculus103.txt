@@ -1,0 +1,1 @@
+Use an appropriate polynomial to approximate \(\ln 1.5\) with an error of \(< 10^{-2}\). (Express your answer as the quotient of two natural numbers.) Give a careful proof that the error in this approximation is less than \(10^{-2}\).

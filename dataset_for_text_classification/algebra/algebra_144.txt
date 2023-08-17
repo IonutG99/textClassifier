@@ -1,0 +1,1 @@
+Let p be a prime number, n * and U np={z* : znp =1}. Prove that: (i) U 0pU 1pU npU 1+np*; (ii) If we denote U p=U0nU np, then U p  (*,); (iii) If H  (U p,) is proper, then there exists n a.. H = U np.

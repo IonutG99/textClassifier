@@ -1,0 +1,1 @@
+Let n, n  2 and A,BMn(). Prove that In- ABU(M n(),)  In- BAU(M n(),).

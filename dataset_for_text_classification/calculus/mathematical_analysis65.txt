@@ -1,0 +1,10 @@
+Letf:[0,1]→Rbe an integrable function and let α∈(0,1). Prove that
+lim
+n→∞/integraldisplay1
+0(1−xn)nf(x)dx=/integraldisplay1
+0f(x)dx
+and
+limn→∞nα/parenleftbigg/integraldisplay1
+0(1−xn)nf(x)dx−/integraldisplay1
+0f(x)dx/parenrightbigg
+=0.

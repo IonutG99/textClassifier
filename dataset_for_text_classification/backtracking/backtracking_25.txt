@@ -1,0 +1,1 @@
+Hercules must cross a maze with traps represented by a matrix with n lines and m columns. For each cell of the maze, the time expressed in minutes after which that cell becomes a trap is known. After a cell becomes a trap, Hercules dies if he enters that cell.

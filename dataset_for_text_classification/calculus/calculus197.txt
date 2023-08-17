@@ -1,0 +1,5 @@
+
+           Determine the asymptotes of the function:
+           
+           $f:(0,\infty )\to\mathbb{R}$, $f(x)=\frac{\sqrt{3x^2+x}}{2x+1}$.
+           

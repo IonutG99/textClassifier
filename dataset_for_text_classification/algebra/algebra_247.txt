@@ -1,0 +1,1 @@
+Let p be a prime number, p  2. Prove that any noncommutative group with 2p elements is isomorphic to the dihedral group Dp.

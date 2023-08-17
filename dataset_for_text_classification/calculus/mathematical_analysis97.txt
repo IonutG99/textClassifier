@@ -1,0 +1,9 @@
+Prove that
+/integraldisplay1
+0/braceleftbigg
+(−1)⌊1
+x⌋1
+x/bracerightbigg
+dx=1+ln2
+π,
+where⌊a⌋denotes the greatest integer not exceeding a.

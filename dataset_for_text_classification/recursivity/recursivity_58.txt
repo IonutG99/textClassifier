@@ -1,0 +1,1 @@
+Write the complete definition of a recursive C++ subroutine that returns the sum of the divisible by 3 elements of a one-dimensional array passed as a parameter.

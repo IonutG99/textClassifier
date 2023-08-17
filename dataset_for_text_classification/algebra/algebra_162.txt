@@ -1,0 +1,1 @@
+Let A,B,C be subgroups of the group G. Prove that: (i) If A  B, then | B : A |  | (CB) : (CA) | ; (ii) | G : (A B) |  | G : A || G : B | ; (iii) | (A  B) : B |  | A : (A B) |.

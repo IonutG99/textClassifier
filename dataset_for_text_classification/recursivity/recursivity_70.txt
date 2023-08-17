@@ -1,0 +1,1 @@
+Consider a matrix with n rows and m columns. We say that a position is free if the element on row i and column j is equal to 0 and 1 otherwise. We say about several occupied elements that they form an area, if the elements are adjacent in the four directions (up, down, right, left).

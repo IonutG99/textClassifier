@@ -1,0 +1,1 @@
+For a nonzero natural number n, consider all nonzero natural numbers less than or equal to n, taking each number twice: 1, 1, 2, 2, 3, 3, ... , n, n. These numbers we mix them randomly, and arrange them on two lines of n elements each. We will call the structure thus obtained a bipermutation. In figures 1, 2 and 3 we have an example of bipermutation for n=5.

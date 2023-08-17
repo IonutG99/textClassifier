@@ -1,0 +1,1 @@
+Write the recursive function ExistOddRec that, receiving as a parameter a natural number n, returns 1 if n contains at least one odd digit, or returns 0 if n contains only even digits.

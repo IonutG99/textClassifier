@@ -1,0 +1,1 @@
+Let n and m be natural numbers. Display in lexicographic order all strings of length m containing numbers from 1 to n and having the following property: any element of a solution is greater than or equal to the previous element, or is less than the previous element by 1.

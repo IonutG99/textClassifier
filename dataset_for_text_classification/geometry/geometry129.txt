@@ -1,0 +1,3 @@
+
+           Find the surface area of a cube with edge length 6 cm.
+           

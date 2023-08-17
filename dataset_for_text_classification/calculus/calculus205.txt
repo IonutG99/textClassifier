@@ -1,0 +1,6 @@
+
+           Find the radius of convergence and the interval of convergence for the power series:
+           \[
+           \sum_{n=1}^\infty\frac{n^2}{3^n}(x-4)^n.
+           \]
+           

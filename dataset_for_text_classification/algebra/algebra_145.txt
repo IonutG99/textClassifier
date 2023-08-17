@@ -1,0 +1,1 @@
+Let A be a unitary ring, n , n  2. We note GL n(A) = ={M Mn(A): det(M)  U(A,)} and SL n(A) = {M Mn(A): det(M)=1}. Prove that GL n(A) is a group relative to matrix multiplication and SL n(A)  GL n(A). Notice. The groups GL n(A) and SL n(A) are called the general (respectively special) linear group of degree n over the ring A.

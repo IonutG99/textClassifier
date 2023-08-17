@@ -1,0 +1,1 @@
+A natural number n is given. Let us generate a square matrix of size 2n-1, according to the following rules:

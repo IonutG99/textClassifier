@@ -1,0 +1,1 @@
+Consider an undirected graph with n vertices and m edges and a known vertex X. Display the vertices visited following a depth-first traversal of the graph starting from vertex X.

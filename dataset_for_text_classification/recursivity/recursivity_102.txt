@@ -1,0 +1,1 @@
+In a city there is a rectangular garden, consisting of n x m squares, arranged in the form of a matrix with n lines and m columns. Only one plant of a certain species can be grown in a square. The species are identified by distinct numbers between 1 and s. Due to meteorological phenomena, there are no more flowers in some squares.

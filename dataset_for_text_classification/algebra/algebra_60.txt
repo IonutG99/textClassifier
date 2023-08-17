@@ -1,0 +1,1 @@
+Let (G.) be a group and a,bG a.. aba = bab. Show that an = 1 if and only if bn = 1.

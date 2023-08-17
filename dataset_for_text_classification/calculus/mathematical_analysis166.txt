@@ -1,0 +1,10 @@
+A quadratic series, ζ(3)andζ(4).Prove that
+∞
+∑
+n=1/parenleftbigg
+ζ(2)−1
+12−1
+22−···−1
+n2/parenrightbigg2
+=3ζ(3)−5
+2ζ(4).

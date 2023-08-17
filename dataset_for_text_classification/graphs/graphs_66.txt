@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n, and a natural number k. All edges that have both extremities in vertices of degree greater than or equal to k are removed from this graph. Display the adjacency matrix of the obtained partial graph.

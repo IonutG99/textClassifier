@@ -1,0 +1,1 @@
+Given a string a0, a1, …, an-1 of nonzero natural numbers. You must rearrange the elements of the string so that at any position i (i=0..n-1) there is a number that has the base 2 bit i set to 1.

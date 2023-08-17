@@ -1,0 +1,9 @@
+Leta>1 be a real number and let f:[1,∞)→Rbe a continuous function
+such that, for some α>0, lim x→∞xαf(x)exists and is ﬁnite. Calculate
+l=lim
+n→∞n/integraldisplaya
+1f(xn)dxand lim
+n→∞n/parenleftbigg
+n/integraldisplaya
+1f(xn)dx−l/parenrightbigg
+.

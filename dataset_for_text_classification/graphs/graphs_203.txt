@@ -1,0 +1,1 @@
+Given an undirected connected graph G with N nodes and M edges, each edge having an associated cost. A partial tree for G is a tree-structured subgraph that contains all the nodes and some of the edges. It is required to find a partial tree of graph G such that the difference between the highest and lowest cost of an edge is minimal.

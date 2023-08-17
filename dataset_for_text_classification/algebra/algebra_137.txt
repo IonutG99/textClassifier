@@ -1,0 +1,1 @@
+Let (G, ) be a finite group. If m and n are divisors of the order of the group, then the equations xm = 1 and xn = 1 have a single common solution if and only if (m,n) = 1.

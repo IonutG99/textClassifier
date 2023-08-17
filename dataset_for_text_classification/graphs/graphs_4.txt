@@ -1,0 +1,1 @@
+The list of edges of a weighted undirected graph is given. Determine the vertex for which the arithmetic mean of the weights of the incident edges is minimal. If there are multiple peaks with the same minimum mean, the numbered peak with the lower value will be displayed.

@@ -1,0 +1,1 @@
+A set with n natural numbers is read. Display all permutations of the read set where the minimal element does not change position.

@@ -1,0 +1,22 @@
+Iterated exponentials.
+(a) Let (xk)k≥1be the sequence deﬁned as follows:
+1
+31
+31
+3
+,1
+51
+51
+51
+51
+5
+,1
+71
+71
+71
+71
+71
+71
+7
+,....
+(continued)

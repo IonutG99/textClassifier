@@ -1,0 +1,1 @@
+Consider an acyclic directed graph with n nodes and m arcs. Determine the lexicographically minimal topological sorting of the graph nodes.

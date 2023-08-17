@@ -1,0 +1,1 @@
+Let " be an associative algebraic operation on the set M. Prove that (M,) is a group if and only if whatever a M, there exists n* a.i. f a: M M, f a(x) = axan be surjective.

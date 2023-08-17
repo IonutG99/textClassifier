@@ -1,0 +1,8 @@
+Find
+lim
+n→∞/parenleftBigg
+n
+∑
+k=1arctan1
+k−lnn/parenrightBigg
+.

@@ -1,0 +1,9 @@
+Letk≥1 be an integer. Calculate
+/integraldisplay1
+0/integraldisplay1−x
+0dxdy
+/parenleftBig/floorleftBig
+x
+y/floorrightBig
++1/parenrightBigk,
+where⌊a⌋denotes the greatest integer not exceeding a.

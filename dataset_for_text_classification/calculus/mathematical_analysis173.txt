@@ -1,0 +1,12 @@
+Prove that
+∞
+∑
+n=0/parenleftbigg1
+n+1−1
+n+2+1
+n+3−···/parenrightbigg2
+=ln2.
+3.2 Alternating Series
+If I have been able to see further, it was only because I stood on
+the shoulders of giants.
+Sir Isaac Newton (1642–1727)

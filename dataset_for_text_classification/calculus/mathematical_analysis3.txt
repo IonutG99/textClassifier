@@ -1,0 +1,9 @@
+Find the value of
+lim
+n→∞1
+nn
+∑
+k=1/braceleftBign
+k/bracerightBig2
+,
+where{a}denotes the fractional part of a.

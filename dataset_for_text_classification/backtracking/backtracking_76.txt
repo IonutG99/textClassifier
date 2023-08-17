@@ -1,0 +1,1 @@
+Given a matrix with n rows and m columns. For k given positions, it is required to determine the minimum length path that starts from position i1 and j1 and passes through all k positions (doesn't matter in which order), finally arriving at position i2 and j2.

@@ -1,0 +1,6 @@
+Letxbe a positive real number. Prove that
+∞
+∑
+n=1(−1)n−11
+n+x=ln2−ψ(x)+ψ(x/2)+1/x,
+where ψdenotes the Digamma function.

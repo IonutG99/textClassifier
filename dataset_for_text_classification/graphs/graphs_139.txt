@@ -1,0 +1,1 @@
+We have a tree in the neighborhood with colored knots. For each node i of the tree display how many distinct colors are in the subtree rooted at i.

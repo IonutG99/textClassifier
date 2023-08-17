@@ -1,0 +1,1 @@
+Show that in the lattice L() for H = m  and K = n, with m, n, H  K = [m,n] and H  K = (m,n). Let us deduce from here the fact that (L(),  ) is a distributive lattice.

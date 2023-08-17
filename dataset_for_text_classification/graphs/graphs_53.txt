@@ -1,0 +1,1 @@
+The city park is made up of n intersections, numbered from 1 to n, connected to each other by m two-way streets, each of a certain length. A concert is organized in a specified intersection C; also, some intersections, also specified, represent entrance gates to the park, access being possible only through these gates.

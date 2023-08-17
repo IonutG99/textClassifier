@@ -1,0 +1,4 @@
+Letk>−1 be a real number and let n≥1b ea ni n t e g e r .P r o v et h a t
+/integraldisplay1
+0{nx}kdx=1
+k+1.

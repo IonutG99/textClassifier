@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{5}{8} \cdot \frac{7}{12} \cdot \frac{9}{16} \cdot \ldots \cdot \frac{2n+3}{4n+7}\), for \(n \geq 1\).

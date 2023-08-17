@@ -1,0 +1,1 @@
+Călinuţa has just found a piece of paper on which is drawn an acyclic directed graph with N nodes and M arcs, each arc having an integer-valued distance. Given N, M and the M arcs with the distances between them, you must calculate for Călinuţa the minimum distance between every two nodes.

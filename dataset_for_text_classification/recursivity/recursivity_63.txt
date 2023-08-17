@@ -1,0 +1,1 @@
+Write the complete definition of a C++ recursive subroutine that returns the sum of the elements of a one-dimensional array with indices outside a given range.

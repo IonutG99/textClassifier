@@ -1,0 +1,1 @@
+On the set  we define the algebraic operation: x o y = xy + 2(x + y + 1). (i) Show that the doublet (,o) is not a group; (ii) Determine the largest subset G   (with respect to inclusion) a.. let the doublet (G, o) be a commutative group.

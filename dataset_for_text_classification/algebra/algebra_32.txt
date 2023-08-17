@@ -1,0 +1,1 @@
+Let a,b,c,d * and the algebraic operation: xoy = xy+ax+by+c. What condition must a, b and c fulfill for ((d, ), o) to be an abelian group?

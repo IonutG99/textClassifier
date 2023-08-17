@@ -1,0 +1,1 @@
+Let (G, ) be a group and L 0 (G) be the set of normal subgroups of G. Show that L0(G) is a modular sublattice of L(G).

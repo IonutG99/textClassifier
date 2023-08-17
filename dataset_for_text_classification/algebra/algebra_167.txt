@@ -1,0 +1,1 @@
+Let G be a group, x G and C G(x) = { y G : xy = yx}. Prove that CG(x)  G and the set of conjugates of x (that is, elements of the form axis-1 with aG) has cardinality equal to | G : C G(x)|.

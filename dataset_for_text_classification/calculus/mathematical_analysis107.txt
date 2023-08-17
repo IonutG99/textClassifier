@@ -1,0 +1,12 @@
+(a) Calculate
+/integraldisplay1
+0/integraldisplay1
+0x/braceleftbigg1
+1−xy/bracerightbigg
+dxdy.
+(b) More generally, if k≥1 is an integer, calculate
+/integraldisplay1
+0/integraldisplay1
+0xk/braceleftbigg1
+1−xy/bracerightbigg
+dxdy.

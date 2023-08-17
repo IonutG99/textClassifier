@@ -1,0 +1,13 @@
+Letf:[−1,1]×[−1,1]→Rbe a continuous function. Prove that
+lim
+t→∞/integraldisplay1
+−1f(sin(xt),cos(xt))dx=1
+π/integraldisplay2π
+0f(sinx,cosx)dx
+and
+limt→∞/integraldisplay1
+−1/integraldisplay1
+−1f(sin(xt),cos(yt))dxdy=1
+π2/integraldisplay2π
+0/integraldisplay2π
+0f(sinx,cosy)dxdy.

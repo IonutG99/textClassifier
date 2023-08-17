@@ -1,0 +1,1 @@
+Knowing the side l of the carpet, the pattern m chosen, the percentage p of the original area of ​​the carpet that can be cut, determine the degree of laciness of the carpet (the stage up to which the modeling can proceed), as well as the length of the contour and the surface of the carpet after cutting (the perimeter and the area will each be displayed by a fraction).

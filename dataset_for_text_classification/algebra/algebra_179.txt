@@ -1,0 +1,1 @@
+Let G be a nonzero subgroup of the group ( ,+) with the property that G  (-a,a) is a finite set, whatever a , a > 0. Show that the group ( G,+) is isomorphic to the group ( ,+).

@@ -1,0 +1,1 @@
+Write a recursive C++ function that determines the factorial of a number passed as a parameter and returns the result via an output parameter.

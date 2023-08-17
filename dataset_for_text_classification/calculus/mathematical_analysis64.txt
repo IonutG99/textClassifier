@@ -1,0 +1,15 @@
+Two forms of Abel’s lemma for integrals.
+(a) Prove that
+lim
+σ→0+σ/integraldisplay∞
+0e−σtf(t)dt=lim
+x→∞f(x),
+where fis a locally integrable1function for which both the integral and the limit
+are ﬁnite.(b) Let
+αbe a positive real number and let g:(0,∞)→Rbe a locally integrable
+function such that/integraltext∞
+0g(t)dt<∞. Prove that
+lim
+p→0+/integraldisplay∞
+0g(t)e−ptαdt=/integraldisplay∞
+0g(t)dt.

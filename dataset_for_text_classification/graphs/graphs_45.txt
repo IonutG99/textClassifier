@@ -1,0 +1,1 @@
+Given an undirected graph with n vertices. Determine the maximum number of vertices in a connected component and the number of connected components that have this maximum number of vertices.

@@ -1,0 +1,11 @@
+Calculate
+L=lim
+n→∞/integraldisplay1
+0/braceleftBign
+x/bracerightBign
+dxand lim
+n→∞n/parenleftbigg/integraldisplay1
+0/braceleftBign
+x/bracerightBign
+dx−L/parenrightbigg
+.

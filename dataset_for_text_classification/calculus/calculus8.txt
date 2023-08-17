@@ -1,0 +1,1 @@
+Solve the inequality $|x - 3| \geq 6$. Express your answer in interval notation.

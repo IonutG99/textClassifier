@@ -1,0 +1,3 @@
+
+           In a circle with radius $r$, find the length of a chord that is at a distance $d$ from the center of the circle.
+           

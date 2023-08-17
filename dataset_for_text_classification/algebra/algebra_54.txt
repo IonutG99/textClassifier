@@ -1,0 +1,1 @@
+Let (G, ) be a group and H = {x2 | xG}. Show that if G is commutative, then H is a subgroup of G. Is the converse true?

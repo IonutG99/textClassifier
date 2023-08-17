@@ -1,0 +1,1 @@
+Let be a string of some numbers. A substring of numbers is called a hill if the values ​​it consists of are in ascending order. After each hill there is a chasm (a value lower than the pre-decline) from where a new hill can start. Display the values ​​from each hill in reverse order.

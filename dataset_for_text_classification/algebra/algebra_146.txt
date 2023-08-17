@@ -1,0 +1,1 @@
+If K is a finite field with q elements, prove that: | GL n(K) | = (qn - 1)(qn - q)(qn - qn-1).

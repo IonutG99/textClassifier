@@ -1,0 +1,1 @@
+Use Rolle's theorem to derive the mean value theorem.

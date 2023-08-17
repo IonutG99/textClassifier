@@ -1,0 +1,7 @@
+Letk≥2 be an integer. Prove that
+/integraldisplay1
+0/braceleftbigg1
+kk√x/bracerightbigg
+dx=1
+k−1−ζ(k)
+kk.

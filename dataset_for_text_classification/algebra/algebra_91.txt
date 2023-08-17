@@ -1,0 +1,1 @@
+Let G be a group with the property that there exists m,n*, (m,n)=1 a.. whatever x,y G, (xy)n = (yx)n and (xy)m = (yx)m. Prove that G is commutative.

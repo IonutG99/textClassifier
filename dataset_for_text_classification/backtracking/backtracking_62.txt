@@ -1,0 +1,1 @@
+A natural number n is read. List in ascending order all numbers that consist of n distinct digits and have more even than odd digits.

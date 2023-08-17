@@ -1,0 +1,1 @@
+Let $f(x) = \frac{1}{{\sqrt{x + 7}}}$. Show how to use the definition of derivative to find $f'(2)$.

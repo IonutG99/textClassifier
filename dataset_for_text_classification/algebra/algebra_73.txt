@@ -1,0 +1,1 @@
+Let (G, ) be a group that has a subgroup H a.. G \ H has a finite number of elements. Show that the group G is finite.

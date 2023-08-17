@@ -1,0 +1,1 @@
+Let \( f \) be a continuous function and \( a < b \). Show that \(\int_{a}^{b} f(-x) \, dx = \int_{-b}^{a} f(x) \, dx\). Hint: Show that if \( F \) is an antiderivative of \( f \), then the function \( G: x \mapsto -F(-x) \) is an antiderivative of the function \( g: x \mapsto f(-x) \).

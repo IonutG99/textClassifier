@@ -1,0 +1,1 @@
+Let  and  be two r-cycles in S n (r  n). Prove that if there exists iSn a.. (i)  i and (i)  i and k(i) = k(i) for any natural k, then  = .

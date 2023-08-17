@@ -1,0 +1,3 @@
+
+           Prove that the line joining the midpoints of two chords of a circle passes through the center of the circle.
+           

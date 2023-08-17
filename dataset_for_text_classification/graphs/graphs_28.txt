@@ -1,0 +1,1 @@
+There are n people in a group, numbered from 1 to n, and one person can know other people – non-reciprocal relationship. To determine the most famous person.

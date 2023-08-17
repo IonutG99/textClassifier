@@ -1,0 +1,1 @@
+Define $f$ on $[0, 4]$ by $f(x) = x + 1$ for $0 \leq x < 2$ and $f(x) = 1$ for $2 \leq x \leq 4$. Use the Extreme Value Theorem 5.1.5 to show that $f$ is not continuous.

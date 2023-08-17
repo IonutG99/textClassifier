@@ -1,0 +1,1 @@
+Determine all commutative and finite groups that have an odd number of automorphisms.

@@ -1,0 +1,1 @@
+Given a tree with N nodes numbered 1 to N rooted at node 1. Each node in the given tree has an integer value attached. Given M questions of the form (x, y), where x is an ancestor of node y: if all nodes on the chain joining x to y (including nodes x and y) were to be removed, what would be the maximum value of nodes not removed?

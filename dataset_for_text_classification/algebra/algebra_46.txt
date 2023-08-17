@@ -1,0 +1,1 @@
+Let K be a set with four elements K = {1,a,b,c}. On K we consider the multiplication operation whose table is:  1 a b c 1 1 a b c a a 1 c b b b c 1 a c c b a 1 Prove that the doublet (K,) is a commutative group. Notice. The group K is called Klein's group.

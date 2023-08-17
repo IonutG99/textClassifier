@@ -1,0 +1,8 @@
+Letg:[0,1]→[0,∞)be an integrable function such that/integraltext1
+0g(x)dx=1a n d
+letf:[0,1]→(0,∞)be a continuous function. Find the value of
+lim
+n→∞/parenleftbigg/integraldisplay1
+0g(x)n/radicalbig
+f(xn)dx/parenrightbiggn
+.

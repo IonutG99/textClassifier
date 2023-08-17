@@ -1,0 +1,1 @@
+Use the mean value theorem to prove that if a function $f$ has a positive derivative at every point in an interval, then it is increasing on that interval.

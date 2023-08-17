@@ -1,0 +1,1 @@
+Let $f, g, h: \mathbb{R} \to \mathbb{R}$. Prove or disprove: $(f + g) \circ h = (f \circ h) + (g \circ h)$.

@@ -1,0 +1,5 @@
+Letα≥2 be an even integer and let x∈[0,1]. Find the value of
+lim
+n→∞n1
+α/integraldisplay1
+0(1−(t−x)α)ndt.

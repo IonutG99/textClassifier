@@ -1,0 +1,1 @@
+We consider n types of banknotes, with the values ​​v[1] v[2] ... v[n], ordered strictly in ascending order. For each type of banknotes, the number of available banknotes c[1] c[2] ... c[n] is known. It is required to determine a way to pay a given amount S in full with the available banknotes so that at least one banknote of each type is used.

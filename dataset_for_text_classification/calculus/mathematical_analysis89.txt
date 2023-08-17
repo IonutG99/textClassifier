@@ -1,0 +1,23 @@
+(a) Let k≥1b ea ni n t e g e r .P r o v et h a t
+/integraldisplay1
+0/braceleftbiggk
+x/bracerightbigg
+dx=k/parenleftbigg
+1+1
+2+···+1
+k−lnk−γ/parenrightbigg
+,
+where γdenotes the Euler–Mascheroni constant.
+(b) More generally, if qis a positive real number, then
+/integraldisplay1
+0/braceleftBigq
+x/bracerightBig
+dx=⎧
+⎨
+⎩q(1−γ−lnq) ifq≤1,
+q/parenleftBig
+1+1
+2+···+1
+1+⌊q⌋−γ−lnq+⌊q⌋({q}−1)
+q(1+⌊q⌋)/parenrightBig
+ifq>1.

@@ -1,0 +1,1 @@
+We read a natural number n having the different digits two by two. List in ascending order the numbers that can be obtained from the digits of n and have the same number of digits as n.

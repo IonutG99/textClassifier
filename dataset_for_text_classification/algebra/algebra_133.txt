@@ -1,0 +1,1 @@
+Let G be a group and x,yG with o(x) = n 1, o(y) = n 2 finite, (n 1,n2) = 1 and xy = yx. Prove that o(xy) = o(x)  o(y). If the condition (n 1,n2) = 1 is replaced by <x>  <y> = {1}, show that o(xy) = [n 1,n2].

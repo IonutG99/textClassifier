@@ -1,0 +1,1 @@
+Given a natural number n. Let all numbers with exactly n prime digits be generated.

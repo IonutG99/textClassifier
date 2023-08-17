@@ -1,0 +1,1 @@
+Write the recursive function DivImpRec that, receiving as a parameter a non-zero natural number n, returns its largest odd divisor.

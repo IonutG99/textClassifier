@@ -1,0 +1,9 @@
+Letαbe a positive real number. Calculate
+lim
+n→∞nα/parenleftBigg
+n+1/radicalbig
+(n+1)!
+n+1−n√
+n!
+n/parenrightBigg
+.

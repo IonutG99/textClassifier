@@ -1,0 +1,1 @@
+Write the recursive function ElimZTRec that, receiving as a parameter a non-zero natural number n, returns the number obtained by removing any digits of 0 at the end of n.

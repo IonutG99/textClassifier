@@ -1,0 +1,1 @@
+Let (X,d) be a metric space, Y  X and SX(Y) = {f Isom (X) | f(Y) = Y}. Prove that SX(Y)  Izom(X). Notice. SX(Y) is called the symmetry group of Y with respect to X.

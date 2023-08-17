@@ -1,0 +1,11 @@
+The limit of a harmonic and a geometric mean. Letf,g:[0,1]→R
+be two continuous functions. Find the limit
+lim
+n→∞/integraldisplay1
+0···/integraldisplay1
+0f/parenleftBigg
+n
+1
+x1+···+1
+xn/parenrightBigg
+·g(n√x1x2···xn)dx1···dxn.

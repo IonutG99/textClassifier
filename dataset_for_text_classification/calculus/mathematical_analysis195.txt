@@ -1,0 +1,16 @@
+The Gamma function and an inﬁnite product.
+(a) Find the value of
+∞
+∏
+n=1/parenleftbigg2m+2n−1
+2n−1/parenrightbigg/parenleftbigg2n
+2m+2n/parenrightbigg
+,
+where mdenotes a positive integer.
+(b) More generally, if ℜ(z)>0, ﬁnd the value of
+∞
+∏
+n=1/parenleftBig
+1+z
+n/parenrightBig(−1)n−1
+.

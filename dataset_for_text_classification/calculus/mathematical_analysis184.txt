@@ -1,0 +1,13 @@
+Prove that
+∞
+∑
+n=1(−1)n/parenleftbigg
+ζ/parenleftbigg
+1+1
+n/parenrightbigg
+−n−γ/parenrightbigg
+=γ1ln2+∞
+∑
+k=2(−1)k
+k!γk(21−k−1)ζ(k),
+where γkdenotes the Stieltjes constant.

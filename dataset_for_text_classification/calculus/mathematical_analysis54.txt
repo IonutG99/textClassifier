@@ -1,0 +1,8 @@
+Letα>0 be a real number and let β≥2b ea ne v e ni n t e g e r .L e t x∈R
+be a ﬁxed real number and let f:R→Rbe a bounded function on Rsuch that
+limt→xf(t)=L. Prove that
+lim
+n→∞nα/β/integraldisplay∞
+−∞f(t)
+1+nα(t−x)βdt=2πL
+βsinπ/β.

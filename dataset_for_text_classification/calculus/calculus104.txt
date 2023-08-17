@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{3}{12} \cdot \frac{5}{19} \cdot \frac{7}{26} \cdot \ldots \cdot \frac{2n+1}{7n+5}\), for \(n \geq 1\).

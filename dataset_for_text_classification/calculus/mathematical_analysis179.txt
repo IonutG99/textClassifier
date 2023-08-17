@@ -1,0 +1,45 @@
+Four Hardy series.
+(a) Prove that
+∞
+∑
+n=1(−1)n/parenleftbigg
+1+1
+2+1
+3+···+1
+n−lnn−γ/parenrightbigg
+=γ−lnπ
+2,
+∞
+∑
+n=1(−1)n/parenleftbigg
+1+1
+3+···+1
+2n−1−lnn
+2−γ
+2−ln2/parenrightbigg
+=ln8
+4−lnπ
+4−π
+8+γ
+4.
+(b) Let k≥1 be an integer. Prove that
+∞
+∑
+n=1(−1)n/parenleftbigg
+1+1
+2+1
+3+···+1
+n−ln(n+2k)−γ/parenrightbigg
+=γ
+2−ln√π(2k−1)!!
+2kk!,
+∞
+∑
+n=1(−1)n/parenleftbigg
+1+1
+2+1
+3+···+1
+n−ln(n+2k+1)−γ/parenrightbigg
+=γ
+2−ln2k+1k!
+(2k+1)!!√π.

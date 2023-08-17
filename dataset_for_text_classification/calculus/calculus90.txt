@@ -1,0 +1,1 @@
+Let \( a < b \), \( f \) be a continuous function defined on the interval \([a, b]\), and \( g \) be the function defined by \( g(t) = \int_{a}^{b} (f(x) - t)^2 \, dx \) for \( t \) in \(\mathbb{R}\). Find the value for \( t \) at which \( g \) assumes a minimum. How do you know that this point is the location of a minimum (rather than a maximum)?

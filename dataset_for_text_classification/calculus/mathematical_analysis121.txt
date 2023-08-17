@@ -1,0 +1,14 @@
+Letn,m>−1 be real numbers. Prove that
+/integraldisplay1
+0/integraldisplay1
+0xmyn/braceleftbiggx
+y/bracerightbigg/braceleftbiggy
+x/bracerightbigg
+dxdy
+=1
+m+n+2/parenleftbigg1
+n+1+1
+m+1−ζ(n+2)
+n+2−ζ(m+2)
+m+2/parenrightbigg
+.

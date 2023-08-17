@@ -1,0 +1,1 @@
+An associative algebraic operation with the following properties is defined on the set S: 1) x3 = x, for any x S 2) xy2x = y x2y, for any x,y S. Show that the operation is commutative.

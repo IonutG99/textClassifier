@@ -1,0 +1,1 @@
+Let $(x_0, y_0)$ be a point in $\mathbb{R}^2$. How many tangent lines to the curve $y = x^2$ pass through the point $(x_0, y_0)$? What are the equations of these lines? Hint: Consider the three cases: $y_0 > x_0^2$, $y_0 = x_0^2$, and $y_0 < x_0^2$.

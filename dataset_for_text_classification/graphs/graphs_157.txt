@@ -1,0 +1,1 @@
+In the country of Zoomba live K friends, each in different localities. There are N cities in this country, any two being connected by at most one two-way road. Since they haven't met for a long time, the K friends decided to meet again in a city. Each has a car with an unlimited number of seats. To move from one city to another, a car consumes 1 liter of gasoline.

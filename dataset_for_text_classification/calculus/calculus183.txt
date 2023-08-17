@@ -1,0 +1,1 @@
+Investigate the differentiability of the function \(f(x,y)\) at every point in the domain.

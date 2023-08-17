@@ -1,0 +1,3 @@
+
+           Prove that the angles subtended by a chord at the circumference of a circle are equal to each other and to the angle subtended by the same chord at the center.
+           

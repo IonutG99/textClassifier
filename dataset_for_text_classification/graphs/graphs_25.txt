@@ -1,0 +1,1 @@
+Given a connected weighted undirected graph with n vertices and m edges - where each edge has an associated cost, strictly positive natural number. Using Prim's algorithm, determine a minimum cost partial tree rooted at vertex 1.

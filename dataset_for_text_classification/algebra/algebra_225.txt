@@ -1,0 +1,1 @@
+Prove that a cyclic group is isomorphic to (,+) or to (n,+), according as the respective group is infinite or has n elements.

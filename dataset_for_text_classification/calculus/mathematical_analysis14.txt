@@ -1,0 +1,8 @@
+Letαandβbe positive numbers. Calculate
+lim
+n→∞n
+∏
+k=1/parenleftbigg
+1+kα
+nβ/parenrightbigg
+.

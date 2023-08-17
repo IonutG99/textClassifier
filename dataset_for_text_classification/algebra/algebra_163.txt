@@ -1,0 +1,1 @@
+Let A, B be subgroups of a group G a.. | G : A | and | G : B | are finite and prime among themselves. Prove that : (i) | G : (A B) | = | G : A || G : B | ; (ii) If in addition G is finite, then G = AB.

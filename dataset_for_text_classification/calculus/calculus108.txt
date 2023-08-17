@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{2}{7} \cdot \frac{4}{15} \cdot \frac{6}{23} \cdot \ldots \cdot \frac{2n}{7n+1}\), for \(n \geq 1\).

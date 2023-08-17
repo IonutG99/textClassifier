@@ -1,0 +1,11 @@
+Ifh,g:[0,∞)→(0,∞)are integrable functions such that for all nonnegative
+integers n,
+/integraldisplay∞
+0h(x)xndx<∞and/integraldisplay∞
+0g(x)xndx<∞,
+then
+limn→∞/integraltext∞
+0h(x)xndx/integraltext∞
+0g(x)xndx=limx→∞h(x)
+g(x),
+provided that the right-hand side limit exists.

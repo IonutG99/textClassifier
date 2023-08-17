@@ -1,0 +1,1 @@
+Let G be a finite generated group. Prove that any subgroup of finite index in G is finitely generated.

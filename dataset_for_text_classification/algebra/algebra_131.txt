@@ -1,0 +1,1 @@
+Let G be a group and let x,y G. Prove that o(xy) = o(yx) and o(x) = o(x-1).

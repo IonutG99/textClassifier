@@ -1,0 +1,1 @@
+Dijkstra needs your help to complete his duty. He wants to know the minimum length roads from his friend Vlad's house to the other neighbors' houses. He doesn't have much time so you have to move fast. Will you help him?

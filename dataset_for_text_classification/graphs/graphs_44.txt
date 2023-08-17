@@ -1,0 +1,1 @@
+A directed graph with n vertices and m arcs is given by the list of arcs and a natural number k. List in lexicographic order the simple paths in the graph that have length equal to k. The length of a path is equal to the number of arcs it contains.

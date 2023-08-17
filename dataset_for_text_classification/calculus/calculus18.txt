@@ -1,0 +1,1 @@
+Let $f(x) = 4x^3 - 18x^2 - 4x + 33$. Find the largest set $S$ on which the function $f$ is bounded above by $15$ and below by $-15$.

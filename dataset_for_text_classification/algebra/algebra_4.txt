@@ -1,0 +1,1 @@
+Let S be a finite semigroup and aS. Show that there exists m  * a.. am is idempotent.

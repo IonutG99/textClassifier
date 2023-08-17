@@ -1,0 +1,9 @@
+Letk≥1 be an integer and let pbe a real number such that k−p>−1.
+Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbiggkyk
+xpdxdy=1
+k−p+1−ζ(2)+ζ(3)+···+ζ(k+1)
+(k+2−p)(k+1).

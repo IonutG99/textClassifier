@@ -1,0 +1,1 @@
+Write the complete definition of the recursive subprogram F, which receives by means of parameter n a non-zero natural number (1≤n≤9), and by means of parameter a, a one-dimensional array containing n natural values, each of which represents a digit of a number. Thus, a0 represents the first digit of the number, a1 the second digit, etc.

@@ -1,0 +1,3 @@
+
+           Prove that the angle subtended by an arc at the center of a circle is twice the angle subtended by the same arc at any point on the circumference.
+           

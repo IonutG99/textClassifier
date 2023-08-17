@@ -1,0 +1,1 @@
+In triangle ABC, angle A is 60 degrees and angle B is 30 degrees. If AB = 7 cm, find the length of AC.

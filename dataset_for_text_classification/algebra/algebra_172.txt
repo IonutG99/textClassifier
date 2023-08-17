@@ -1,0 +1,1 @@
+Prove that the alternating group A 4 (which has order 12) has no subgroups of order 6. Remark. This exercise shows us that the converse of Lagrange's theorem is not true. 4. Morphisms and isomorphisms of groups. Factor group. Cauchy's theorem. Isomorphism theorems for groups.

@@ -1,0 +1,1 @@
+A table representing a picture containing numbers is given. Write a program to determine:

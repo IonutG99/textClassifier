@@ -1,0 +1,1 @@
+Let the equation x2 = (1,2,  ,n) be solved in S n.

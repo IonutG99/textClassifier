@@ -1,0 +1,1 @@
+Let G 1, G 2 be two groups, f : G 1  G2 a morphism of groups. Prove that the following statements are equivalent: (i) f is an injective application; (ii) If G0 is another group and g,h : G 0  G1 are morphisms of groups a.. f og = foh, then g = h. Note. This exercise shows us that in the category of groups, monomorphisms are exactly injective morphisms.

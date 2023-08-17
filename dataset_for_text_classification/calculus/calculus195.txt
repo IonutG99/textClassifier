@@ -1,0 +1,5 @@
+
+           Identify the horizontal asymptotes of the function:
+           
+           $f:(-\infty,-1)\cup(-1,\infty)\to\mathbb{R}$, $f(x)=\frac{x^2+x+1}{x^2-1}$.
+           

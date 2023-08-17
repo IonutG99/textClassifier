@@ -1,0 +1,6 @@
+Letk≥2 be an integer and let f:[0,∞)→Rbe a bounded function which is
+continuous at 0. If xis a positive real number, ﬁnd the value of
+lim
+n→∞k√n/integraldisplayx
+0f(t)
+(1+tk)ndt.

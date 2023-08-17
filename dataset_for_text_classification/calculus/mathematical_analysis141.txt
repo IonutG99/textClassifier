@@ -1,0 +1,14 @@
+Leta>0,letk/negationslash=0 be a real number, and let g:[0,a]×[0,a]→Rbe an
+integrable and symmetric function in xandy. Prove that
+/integraldisplaya
+0/integraldisplaya
+0/braceleftBig
+xk−yk/bracerightBig
+g(x,y)dxdy=1
+2/integraldisplaya
+0/integraldisplaya
+0g(x,y)dxdy,
+where{x}denotes the fractional part of x.
+2.4 Open Problems
+I could never resist an integral.
+G. H. Hardy (1877–1947)

@@ -1,0 +1,1 @@
+Prove that the set: G = Rzyxzyx,,100101 is a group with respect to matrix multiplication, and the group of automorphisms of G is infinite .

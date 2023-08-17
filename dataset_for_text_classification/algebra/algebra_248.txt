@@ -1,0 +1,1 @@
+Let G be a finite group and p a prime number, p  2. Prove that the following statements are equivalent: (i) The order of any element of G is a natural power of p; (ii) Gis a natural power of p.

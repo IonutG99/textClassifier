@@ -1,0 +1,1 @@
+On  we consider the algebraic operation: xoy = xy + ax + by + c (a, b, c ). (i) For which values of a,b,c is the operation "o" associative? (ii) To prove that the operation "o" is associative  has a neutral element; (iii) In the hypothesis that the operation "o" is associative, highlight U(,).

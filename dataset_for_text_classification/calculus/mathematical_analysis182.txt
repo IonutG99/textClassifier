@@ -1,0 +1,7 @@
+Prove that
+∞
+∑
+n=1(−1)nlnn
+n2=π2
+12(ln(4π)−12ln A+γ),
+where Adenotes the Glaisher–Kinkelin constant.

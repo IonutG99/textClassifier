@@ -1,0 +1,6 @@
+Letn≥1 be an integer and let m>−1 be a real number. Calculate
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggnx
+x−y/bracerightbigg
+xmymdxdy.

@@ -1,0 +1,5 @@
+Find the value of
+lim
+n→∞/integraldisplayπ/2
+0n√
+sinnx+cosnxdx.

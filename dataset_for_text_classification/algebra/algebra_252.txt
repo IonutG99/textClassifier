@@ -1,0 +1,1 @@
+Consider we have   (,+). (i) Describe the group as / and prove that any element in this group has finite order; (ii) Show that for any natural number n  2, / has only one subgroup of order n and it is cyclic.

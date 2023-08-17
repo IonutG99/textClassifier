@@ -1,0 +1,7 @@
+A cubic integral. Prove that
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbigg3
+dx=−1
+2−γ+3
+2ln(2π)−6lnA.

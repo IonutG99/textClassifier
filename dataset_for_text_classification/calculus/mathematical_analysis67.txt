@@ -1,0 +1,30 @@
+Letf:[0,1]2→Rbe an integrable function over [0,1]2. Find the value of
+lim
+n→∞/integraldisplay1
+0/integraldisplay1
+0(x−y)nf(x,y)dxdy.
+1.3 Non-standard Limits
+I will be sufﬁciently rewarded if when telling it to others you will
+not claim the discovery as your own, but will say it was mine.
+Thales (circa 600 BC)
+1.69.2A Lalescu limit. Letm≥0b ea ni n t e g e ra n dl e t fbe a polynomial of degree
+mwhose coefﬁcient in the leading term is positive. Then
+limx→∞/parenleftBig
+(f(x+2)Γ(x+2))1
+1+x−(f(x+1)Γ(x+1))1
+x/parenrightBig
+=1
+e
+and
+lim
+x→∞x/parenleftbigg
+(f(x+2)Γ(x+2))1
+1+x−(f(x+1)Γ(x+1))1
+x−1
+e/parenrightbigg
+=1
+e/parenleftbigg
+m+1
+2/parenrightbigg
+,
+where Γdenotes the Gamma function.

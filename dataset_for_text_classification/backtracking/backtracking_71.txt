@@ -1,0 +1,1 @@
+Consider a natural number N that is even. Find the smallest odd natural number M that has the same number of divisors as N.

@@ -1,0 +1,3 @@
+
+           Find the value of $x$ in a parallelogram where one angle measures $3x$ degrees and the adjacent angle measures $5x$ degrees.
+           

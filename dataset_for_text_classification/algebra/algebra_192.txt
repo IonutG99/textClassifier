@@ -1,0 +1,1 @@
+Let G n be the set of quadratic matrices of order n having on each row an element equal to 1 and the other elements equal to 0 and the same is also true for the columns. Prove that Gn is a group relative to the matrix multiplication operation and G n  Sn.

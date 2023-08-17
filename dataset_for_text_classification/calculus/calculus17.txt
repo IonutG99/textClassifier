@@ -1,0 +1,1 @@
+Let $f(x) = x^3 - 4x^2 - 11x - 190$. The set of all numbers $x$ such that $|f(x) - 40| < 260$ is $( , ) \cup ( , )$.Let $f(x) = x^3 - 4$ for all real numbers $x$. Then, for all $x \neq 0$, define a new function $g$ by $g(x) = \frac{1}{2x}[f(1 + x) - f(1 - x)]$. Then $g(x)$ can be written in the form $ax^2 + bx + c$, where $a = $, $b = $, and $c = $.

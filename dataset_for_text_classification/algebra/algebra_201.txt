@@ -1,0 +1,1 @@
+Let the set G = { f n : (2,)  (2,), fn(x) = 2+(x-2)2n, n}. Show that (G, o) is an abelian group isomorphic to the abelian group ( ,+).

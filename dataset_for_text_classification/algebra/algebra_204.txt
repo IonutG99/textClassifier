@@ -1,0 +1,1 @@
+On  we consider the algebraic operation xy = 2 21 1 x y y x +++ . Show that (,) is a commutative group, isomorphic to (,+).

@@ -1,0 +1,1 @@
+Let G be a group, H,K  G and x,y G a.. Hx = Ky. Prove that H = K.

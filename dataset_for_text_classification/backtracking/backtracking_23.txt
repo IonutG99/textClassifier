@@ -1,0 +1,1 @@
+Given a non-zero natural number S, display in ascending order all distinct-digit natural numbers whose sum of digits is equal to S.

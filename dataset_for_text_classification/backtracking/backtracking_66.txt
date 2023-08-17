@@ -1,0 +1,1 @@
+There are n natural numbers, where n is an even number. The n numbers are grouped into pairs and for each pair of numbers there is the remainder of the division of one number from the pair by the other. It is required to find the minimum value of the sum of these remainders.

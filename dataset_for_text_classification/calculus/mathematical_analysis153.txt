@@ -1,0 +1,5 @@
+Letn≥1 be an integer. Calculate the sum
+∞
+∑
+k=11
+kn(k+1).

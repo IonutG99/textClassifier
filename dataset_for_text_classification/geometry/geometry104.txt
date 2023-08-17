@@ -1,0 +1,3 @@
+
+           Rotate the point $P(3, 4)$ by $180^\circ$ counterclockwise about the origin.
+           

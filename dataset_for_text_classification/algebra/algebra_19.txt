@@ -1,0 +1,1 @@
+For the monoid (M, ) we define Z(M) = {x M | xy = yx, for any y M}. Prove that Z(M) is a submonoid of M. Remark. Z(M) is called the center of the monoid M.

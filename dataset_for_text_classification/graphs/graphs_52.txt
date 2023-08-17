@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n. Remove all vertices labeled with prime values ​​from this graph. Determine how many edges the obtained subgraph will have.

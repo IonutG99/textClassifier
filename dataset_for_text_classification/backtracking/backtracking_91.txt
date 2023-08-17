@@ -1,0 +1,1 @@
+Two different digits c1 and c2 (non-zero) are read. Display in ascending order all numbers that contain exactly c1 digits equal to c2 and c2 digits equal to c1.

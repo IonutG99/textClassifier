@@ -1,0 +1,1 @@
+Let G be a finite set on which an associative algebraic operation, denoted multiplicatively, is defined. If the operation has the property that: xy = xz  y = z, yx = zx  y = z, for any x, y, z G, then (G, ) is a group.

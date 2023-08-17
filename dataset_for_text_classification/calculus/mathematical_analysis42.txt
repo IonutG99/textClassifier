@@ -1,0 +1,9 @@
+Letf:[0,1]→Rbe an integrable function which is continuous at 1. Calculate
+lim
+n→∞n/integraldisplay1
+0/parenleftBigg
+∞
+∑
+k=nxk
+k/parenrightBigg2
+f(x)dx.

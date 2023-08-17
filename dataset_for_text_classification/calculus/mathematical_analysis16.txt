@@ -1,0 +1,8 @@
+Letkandαbe positive real numbers. Find the value of
+lim
+n→∞nk/parenleftBigg
+1−∞
+∏
+j=njk+1−α
+jk+1+α/parenrightBigg
+.

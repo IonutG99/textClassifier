@@ -1,0 +1,1 @@
+Solve the inequality $|3x + 7| < 5$. Express your answer in interval notation.

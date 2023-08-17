@@ -1,0 +1,17 @@
+An alternating series in terms of Stieltjes constants.
+(a) Prove that
+∞
+∑
+k=1(−1)k−1lnk
+k=ln22
+2−γln2.
+(b) More generally, if nis a nonnegative integer, show that
+∞
+∑
+k=1(−1)k−1lnnk
+k=lnn+12
+n+1−n−1
+∑
+j=0/parenleftbiggn
+j/parenrightbigg
+γjlnn−j2.

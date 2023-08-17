@@ -1,0 +1,1 @@
+n people live in a country. Certain pairs of people know each other and these pairs know each other. The knowledge relationship between two people is mutual.

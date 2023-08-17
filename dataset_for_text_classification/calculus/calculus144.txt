@@ -1,0 +1,1 @@
+To establish the inequality \(y - \frac{x}{y} < \frac{\ln y}{x} < y - \frac{x}{x}\) for \(0 < x < y\).

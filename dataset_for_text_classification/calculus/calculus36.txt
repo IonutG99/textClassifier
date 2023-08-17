@@ -1,0 +1,1 @@
+The equation $x^5 + 8x = 2x^4 + 6x^2$ has solutions in the open intervals $(m, m+1)$ and $(n, n+1)$ where $m$ and $n$ are distinct positive integers.

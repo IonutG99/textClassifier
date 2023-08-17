@@ -1,0 +1,1 @@
+Let G be the set of matrices of the form M(a,b) = abbbabbba with the property that M(a,b) = 1. Show that G is a group in relation with matrix multiplication.

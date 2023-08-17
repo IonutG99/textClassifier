@@ -1,0 +1,1 @@
+Two natural numbers n and m are read. List in lexicographic order all words that consist of n letters E and m letters M with the property that there are no more than two adjacent M letters and no more than two adjacent E letters.

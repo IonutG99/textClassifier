@@ -1,0 +1,8 @@
+Letf,g:[0,1]→Rbe two continuous functions. Prove that
+lim
+n→∞/integraldisplay1
+0f(xn)g(x)dx=f(0)/integraldisplay1
+0g(x)dx.
+1A measurable function ϕ(t)onRislocally integrable ,ϕ∈L1
+loc,if|ϕ|is integrable over any
+compact set (see [ 56, p. 215]).

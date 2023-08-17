@@ -1,0 +1,1 @@
+Given a natural number n, list in lexicographic order all sequences of binary digits that have as many 0's and as many 1's as the binary representation of n has.

@@ -1,0 +1,1 @@
+An undirected graph is given. Determine a subgraph of it, with as many nodes as possible and in which each node has degree at least 2.

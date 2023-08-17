@@ -1,0 +1,1 @@
+Let G be a group and assume that there exist nN, n2 a.. f : G  G, f(x) = xn, for any x G is an automorphism of G. Prove that for any x G  xn-1 Z(G).

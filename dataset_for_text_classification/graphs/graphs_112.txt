@@ -1,0 +1,1 @@
+A directed graph with n vertices and m arcs is given by the list of arcs. Display hard connected components consisting of maximum number of vertices.

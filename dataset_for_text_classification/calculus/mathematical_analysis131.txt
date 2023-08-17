@@ -1,0 +1,7 @@
+Letk>0a n dl e t m≥0 be real numbers. Calculate
+/integraldisplay1
+0/braceleftBigg/parenleftbigg1
+x/parenrightbiggk
+−/parenleftbigg1
+1−x/parenrightbiggk/bracerightBigg
+xm(1−x)mdx.

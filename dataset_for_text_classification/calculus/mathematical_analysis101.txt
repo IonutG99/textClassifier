@@ -1,0 +1,13 @@
+The ﬁrst Stieltjes constant, γ1,is the special constant deﬁned by
+γ1=limn→∞/parenleftBigg
+n
+∑
+k=1lnk
+k−ln2n
+2/parenrightBigg
+.
+Prove that
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbigg
+lnxdx=γ+γ1−1.

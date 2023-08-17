@@ -1,0 +1,6 @@
+Calculate
+/integraldisplay1
+0/braceleftbigg1
+x−1
+1−x/bracerightbigg
+dx.

@@ -1,0 +1,1 @@
+Let $f(x) = x^4 + x + 3$ for $0 \leq x \leq 2$. Find a point $c$ whose existence is guaranteed by the Mean Value Theorem. Answer: $c = 2p$ where $p =$

@@ -1,0 +1,1 @@
+Let n and k be non-zero natural numbers. Determine the largest natural number of at most k digits that divides nn.

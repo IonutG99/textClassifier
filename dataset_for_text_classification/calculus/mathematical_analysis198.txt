@@ -1,0 +1,6 @@
+Prove that
+m
+∑
+k=0(−1)k/parenleftbiggm+1
+k+1/parenrightbigg1
+k+1=Hm+1.

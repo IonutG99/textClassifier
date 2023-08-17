@@ -1,0 +1,1 @@
+Consider two nonempty sets A and B, with the property that they form a partition of the set {1,2,...,n}. Construct a complete bipartite graph with n vertices, bipartite over the partition formed by the sets A and B.

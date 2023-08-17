@@ -1,0 +1,1 @@
+For \(0 < x < y\), demonstrate that \(\frac{\ln y}{x} > y - \frac{x}{x}\).

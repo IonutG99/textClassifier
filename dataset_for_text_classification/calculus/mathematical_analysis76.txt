@@ -1,0 +1,19 @@
+Letf,g:[0,1]→Rbe two continuous functions. Find the value of
+lim
+n→∞/integraldisplay1
+0···/integraldisplay1
+0f/parenleftBigg
+nn√x1···xn
+1
+x1+···+1
+xn/parenrightBigg
+dx1···dxn.
+1.4 Open Problems
+“Obvious” is the most dangerous word in mathematics.
+Eric Temple Bell (1883–1960)
+In this section we collect several open problems that are motivated by some of the
+exercises and problems from the previous sections. The ﬁrst problem is motivatedby Problem 1.51, with f(x)=x(1−x)being a function that attains its maximum at
+1/2. Problem 1.80, which gives the behavior of a ﬁnite product, is closely related
+to an exercise from the theory of inﬁnite series (see Problem 3.3), Problem 1.82 is
+motivated by Problems 1.70 and1.71, and Problem 1.83 generalizes Problems 1.42
+and

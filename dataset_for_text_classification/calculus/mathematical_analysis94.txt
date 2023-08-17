@@ -1,0 +1,6 @@
+A Euler’s constant integral. Prove that
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbigg/braceleftbigg1
+1−x/bracerightbigg
+dx=2γ−1.

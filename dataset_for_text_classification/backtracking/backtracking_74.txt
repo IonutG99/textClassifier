@@ -1,0 +1,1 @@
+We read a natural number n having the digits different by two and a digit c. List in ascending order the numbers formed by c distinct digits that can be obtained from the digits of n.

@@ -1,0 +1,6 @@
+Leta>0a n d b>1 be real numbers and let f:[0,1]→Rbe a continuous
+function. Calculate
+limn→∞na
+b/integraldisplay1
+0f(x)
+1+naxbdx.

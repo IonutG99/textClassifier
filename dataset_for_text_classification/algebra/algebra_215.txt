@@ -1,0 +1,1 @@
+Let (G, ) be a group. If there exists n* such that the functions f, g : G  G, f(x) = xn , g(x) = xn+1 are surjective group morphisms, then the group G is abelian.

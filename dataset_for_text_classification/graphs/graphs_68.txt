@@ -1,0 +1,1 @@
+A directed graph with n vertices and m arcs is given by the list of arcs and a natural number k. Display the vertices in the graph that are at distance k from vertex 1. The distance between two vertices x and y is equal to k if the shortest path starting at x and ending at y has length k or the shortest short path that starts at y and ends at x has length k.

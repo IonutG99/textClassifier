@@ -1,0 +1,1 @@
+Given a weighted directed graph - where each arc has an associated cost, strictly positive natural number, and a node p. Determine, using Dijkstra's algorithm, the minimum cost of the path from p to each node of the graph.

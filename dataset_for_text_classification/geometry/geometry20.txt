@@ -1,0 +1,1 @@
+Given two similar triangles, if the ratio of their corresponding side lengths is 3:5, find the ratio of their areas.

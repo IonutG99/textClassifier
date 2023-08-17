@@ -1,0 +1,1 @@
+Mei and Satsuki have recently returned to their family's vacation home. This house consists of N rooms, joined together by N-1 color, so that it is possible to reach from any room to any other room. The entrance to the house is through room 1. Since the house has not been lived in for several months, dust elves have settled in each room.

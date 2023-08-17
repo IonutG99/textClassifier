@@ -1,0 +1,1 @@
+In the county of Dorel there are n localities connected to each other by m roads. Dorel is interested in finding out how many ways n-1 roads can be chosen from the given m ones, so that using these roads one can get from any locality to any other.

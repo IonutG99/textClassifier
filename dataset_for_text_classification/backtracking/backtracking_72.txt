@@ -1,0 +1,1 @@
+Three natural numbers a b n are read. Display, in lexicographic order, the strings with n distinct elements from the set {a, a + 1, ..., b}.

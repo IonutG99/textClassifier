@@ -1,0 +1,1 @@
+Let G be a group with the property that (xy)2 = x2 y2, for any x,y G. Prove that G is commutative.

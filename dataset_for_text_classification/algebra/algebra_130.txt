@@ -1,0 +1,1 @@
+Let G be a group, x,y G a.. xy = yx and xm = yn = 1 (m,n ). Prove that (xy)k = 1, where k = [m,n]. Can we have o(xy) < k ?

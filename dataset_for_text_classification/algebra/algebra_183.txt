@@ -1,0 +1,1 @@
+Let the sets be: M =  = + Qba b ab a bb b aQMA ,,1 10 ,2 23 2)(2 22 and G = { x (10) | x = a + b 10, a2  10b2 = 1, a,b }. Show that: (i) (M, ) and (G,) are groups with respect to the usual multiplication operations; (ii) We have the group isomorphism (M,)  (G,).

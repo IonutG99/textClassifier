@@ -1,0 +1,9 @@
+Letp>3 be a real number. Calculate the sum
+∞
+∑
+n=1n/parenleftbigg
+ζ(p)−1
+1p−1
+2p−···−1
+np/parenrightbigg
+.

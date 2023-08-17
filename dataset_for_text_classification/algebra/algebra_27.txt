@@ -1,0 +1,1 @@
+Let M 1,M2 be monoids, f : M 1M2 a morphism of monoids. We consider the following statements: (i) f is an injective application; (ii) Ker(f) = {1}.

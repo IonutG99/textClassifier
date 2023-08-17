@@ -1,0 +1,8 @@
+(a) Let f:[0,1]→Rbe an integrable function such that lim x→0+f(x)/x
+exists and is ﬁnite, and let g:[0,1]→Rbe an integrable function which is
+continuous at 1. Prove that
+lim
+n→∞n/integraldisplay1
+0f(xn)g(x)dx=g(1)/integraldisplay1
+0f(x)
+xdx.

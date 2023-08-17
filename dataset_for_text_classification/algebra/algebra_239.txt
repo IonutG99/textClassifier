@@ -1,0 +1,1 @@
+Prove that the additive groups ( [X],+) and ([X],+) are not isomorphic.

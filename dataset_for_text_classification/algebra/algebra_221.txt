@@ -1,0 +1,1 @@
+Let G be a group and for a G, a : G  G, a(x) = axis-1. (i) Prove that for any a G, aAut(G) ; (ii) The application :G  Aut(G), (a) = a, is a group morphism and Ker() = Z(G); (iii) If we write Im() = Inn(G), show that Inn(G)=1  G is commutative. Notice. a is called the inner automorphism of G.

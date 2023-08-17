@@ -1,0 +1,1 @@
+Use the concept of similarity to find the missing side length in a pair of similar triangles.

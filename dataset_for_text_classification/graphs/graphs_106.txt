@@ -1,0 +1,1 @@
+Consider a connected undirected graph with n nodes, numbered from 1 to n, and m edges. We define the minimum distance between two nodes x and y as the minimum number of edges of an elementary chain that joins x with y.

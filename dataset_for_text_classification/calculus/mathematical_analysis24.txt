@@ -1,0 +1,7 @@
+Leta,b,a n d αbe nonnegative real numbers and let βbe a positive number.
+Find the limit
+lim
+n→∞n
+∑
+k=1(n2+kn+a)α
+(n2+kn+b)β.

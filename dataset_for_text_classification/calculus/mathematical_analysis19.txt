@@ -1,0 +1,7 @@
+Letaandbbe two nonnegative real numbers. Calculate
+lim
+n→∞n
+∑
+k=11
+n+k+b+√
+n2+kn+a.

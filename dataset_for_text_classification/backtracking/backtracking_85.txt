@@ -1,0 +1,1 @@
+A word S consisting of distinct lowercase letters of the English alphabet and a number m is read. List in lexicographical order all words consisting of at most m alphabetically ordered letters from S, which have no adjacent consonants and begin with a vowel.

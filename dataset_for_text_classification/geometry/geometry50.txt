@@ -1,0 +1,3 @@
+
+           In a rectangle with length $12 \, \text{cm}$, find the width if the perimeter is $40 \, \text{cm}$.
+           

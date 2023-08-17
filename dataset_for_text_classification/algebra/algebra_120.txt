@@ -1,0 +1,1 @@
+If p is a prime number, p  n, prove that the equation xp =  has a solution for any  Sn,   e.

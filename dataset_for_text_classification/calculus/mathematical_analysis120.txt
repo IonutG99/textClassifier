@@ -1,0 +1,8 @@
+A surprising appearance of ζ(2).Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbigg/braceleftbiggy
+x/bracerightbigg
+dxdy=1−π2
+12.

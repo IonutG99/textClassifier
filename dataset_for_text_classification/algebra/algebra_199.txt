@@ -1,0 +1,1 @@
+Let G 1,G2 be groups, f:G 1G2 be a group morphism and xG1. Prove that: (i) If o(x) = n *  o(f(x)) | no;

@@ -1,0 +1,1 @@
+Given two congruent triangles, prove that the corresponding sides are also congruent.

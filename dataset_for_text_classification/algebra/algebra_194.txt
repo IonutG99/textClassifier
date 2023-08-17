@@ -1,0 +1,1 @@
+G = (5, ) and the "o" law defined by xoy = xy  5x  5y + 30, whatever x,y G. Show that: (i) (G, o) is an abelian group; (ii) (G, o)  (+, ); (iii) (G, o)  (,+) ; (iv) Calculate xn , where x G and n*.

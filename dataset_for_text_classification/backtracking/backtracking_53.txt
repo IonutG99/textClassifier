@@ -1,0 +1,1 @@
+It is read in the natural number nen. Display in ascending order all numbers that have one digit equal to 1, two digits of 2, …, n digits equal to n.

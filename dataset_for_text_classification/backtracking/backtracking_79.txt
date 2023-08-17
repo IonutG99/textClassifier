@@ -1,0 +1,1 @@
+A natural number n is read. List in lexicographic order all subsets of the set {1, 2, ..., n} that consist of an odd number of elements.

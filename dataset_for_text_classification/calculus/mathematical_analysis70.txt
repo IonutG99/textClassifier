@@ -1,0 +1,10 @@
+Letf,g:[0,1]×[0,1]→Rbe two continuous functions. Prove that
+lim
+n→∞/integraldisplay1
+0/integraldisplay1
+0f({nx},{ny})g(x,y)dxdy=/integraldisplay1
+0/integraldisplay1
+0f(x,y)dxdy·/integraldisplay1
+0/integraldisplay1
+0g(x,y)dxdy,
+where{a}=a−⌊a⌋denotes the fractional part of a.

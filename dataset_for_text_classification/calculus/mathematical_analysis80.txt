@@ -1,0 +1,7 @@
+Letf,g:[0,1]→Rbe two continuous functions. Calculate
+lim
+n→∞/integraldisplay1
+0f({nx})g/parenleftBig/braceleftBign
+x/bracerightBig/parenrightBig
+dx,
+where{a}=a−⌊a⌋denotes the fractional part of a.

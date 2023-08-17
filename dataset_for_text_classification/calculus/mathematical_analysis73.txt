@@ -1,0 +1,5 @@
+Letf:[0,1]→Rbe a continuous function. Find the limit
+lim
+n→∞/integraldisplay1
+0···/integraldisplay1
+0f(n√x1x2···xn)dx1···dxn.

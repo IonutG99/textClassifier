@@ -1,0 +1,1 @@
+Let G be a group, H < G and assume that | H| = m *. We also consider x G and n* a.. (m,n) = 1. Prove that: (i) If o(x) = n, then o(xH) = n (xH considered as an element in G/H); (ii) If o(xH) = n (in G/H), then there exists yG a.. o(y) = n and xH = yH.

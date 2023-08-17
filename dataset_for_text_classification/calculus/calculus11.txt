@@ -1,0 +1,1 @@
+Let $a, b \in \mathbb{R}$. Show that $|ab| \leq \frac{1}{2}(a^2 + b^2)$.

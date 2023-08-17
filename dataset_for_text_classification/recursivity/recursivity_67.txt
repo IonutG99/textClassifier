@@ -1,0 +1,1 @@
+Write a program that, for a given square matrix, determines how many groups it contains.

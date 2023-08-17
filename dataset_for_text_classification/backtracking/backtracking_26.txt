@@ -1,0 +1,1 @@
+A natural number n (n&lt;16) is read. List in lexicographic order all permutations of the set {1,2,…,n} where the even elements are fixed points (do not change position).

@@ -1,0 +1,1 @@
+Let (G,) be a group. Show that the following statements are equivalent: (i) Any stable part of G is its subgroup; (ii) For any x G, there exists k* a.. x k = 1.

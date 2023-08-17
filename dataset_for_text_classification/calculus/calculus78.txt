@@ -1,0 +1,1 @@
+Show that there is exactly one number \( x \) such that \( e^{2x} = 10 - x^3 \). Locate the number between consecutive integers.

@@ -1,0 +1,1 @@
+On a matrix of size m lines and n columns, the coordinates of the castle and k knights are known. It is required to determine:

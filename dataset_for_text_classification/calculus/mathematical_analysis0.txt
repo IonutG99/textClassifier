@@ -1,0 +1,6 @@
+Letαbe a positive number. Find the value of
+lim
+n→∞n
+∑
+k=11
+n+kα.

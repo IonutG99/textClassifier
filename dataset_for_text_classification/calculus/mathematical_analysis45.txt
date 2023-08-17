@@ -1,0 +1,8 @@
+(a) Let f:[0,1]→Rbe a continuous function. Find the value of
+lim
+n→∞√n/integraldisplayπ/2
+0sinnxf(cosx)dx.
+(b) Let g:[0,π/2]→Rbe a continuous function. Find the value of
+lim
+n→∞√n/integraldisplayπ/2
+0g(x)sinnxdx.

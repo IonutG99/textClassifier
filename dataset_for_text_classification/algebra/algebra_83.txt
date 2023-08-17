@@ -1,0 +1,1 @@
+For any n * consider we have H n = {!nk| k}. Prove that: (i) H n is a subgroup of the group ( , +) and that  =nNnH*U ; (ii) If G1,G2,,G m are subgroups of the group ( ,+) and G i  , for any 1  i  m then imiG1=U .

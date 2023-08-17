@@ -1,0 +1,10 @@
+Integrating a product of fractional parts. Letn≥3b ea ni n t e g e r .
+Calculate
+/integraldisplay1
+0···/integraldisplay1
+0/braceleftbiggx1
+x2/bracerightbigg/braceleftbiggx2
+x3/bracerightbigg
+···/braceleftbiggxn
+x1/bracerightbigg
+dx1dx2···dxn.

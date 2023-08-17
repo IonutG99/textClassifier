@@ -1,0 +1,3 @@
+
+           In a parallelogram with base $8 \, \text{cm}$ and height $5 \, \text{cm}$, find the area.
+           

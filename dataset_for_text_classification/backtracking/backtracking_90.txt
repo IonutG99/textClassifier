@@ -1,0 +1,1 @@
+Two nonzero natural numbers n and m are given. We consider the set A={1,2,..,n}. To generate in lexicographic order the elements of the Cartesian product Am=A&amp;#x00D7;A&amp;#x00D7;&amp;#x22EF;&amp;#x00D7;A" role="presentation" style="position: relative;">Am=A ×A×⋯×AAm=A×A×⋯×A A^m=A \times A \times \cdots \times A .

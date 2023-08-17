@@ -1,0 +1,1 @@
+For a natural number n and P n a regular polygon with n sides, we define D n = PPSE()(2 being the outline of P n). Let O be the center of P n,  the rotation around O of angle 2 /n and  the symmetry with respect to one of the symmetry axes of Pn. Prove that Dn = {1, , 2, 3,  , n-1, , ,  , n-1}. Notice. The group D n of order 2n is called the dihedral group of degree n.

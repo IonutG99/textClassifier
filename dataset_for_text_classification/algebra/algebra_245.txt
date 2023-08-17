@@ -1,0 +1,1 @@
+Let G be a commutative group and H the subgroup of elements of finite order. Prove that in G/H any element different from 1 has infinite order.

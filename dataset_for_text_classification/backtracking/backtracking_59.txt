@@ -1,0 +1,1 @@
+Given a set with n elements, natural numbers. List in lexicographic order all permutations of the given set in which there are no two adjacent primes.

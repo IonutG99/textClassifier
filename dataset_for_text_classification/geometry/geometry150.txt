@@ -1,0 +1,3 @@
+
+           Prove that there are no similar triangles in hyperbolic geometry.
+           

@@ -1,0 +1,1 @@
+Let G be a finite group and A,B  G a.. |A| + |B| > |G|. Prove that G = AB.

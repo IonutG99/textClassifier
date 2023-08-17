@@ -1,0 +1,1 @@
+Let n* and A = { 1,2,,n2}. Construct an isomorphism between the groups (P(A), ) and (M n(2), +).

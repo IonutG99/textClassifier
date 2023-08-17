@@ -1,0 +1,8 @@
+Letα>0 be a real number. Discuss the convergence of the series
+∞
+∑
+n=2/parenleftbig
+(2−√e)(2−3√e)···(2−n√e)/parenrightbigα.
+O. Furdui, Limits, Series, and Fractional Part Integrals: Problems in Mathematical
+Analysis , Problem Books in Mathematics, DOI 10.1007/978-1-4614-6762-5 3,
+© Springer Science+Business Media New York 2013139

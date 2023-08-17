@@ -1,0 +1,1 @@
+Let H be a subgroup of the additive group ( , +). Show that if  = H + , then H = .

@@ -1,0 +1,1 @@
+Given two numbers n and m. Find the minimum and maximum number of isolated nodes in an undirected graph with n nodes and m edges in which there is no edge from a node to itself and between any two different nodes there is at most an edge.

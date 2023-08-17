@@ -1,0 +1,7 @@
+Prove that the series
+∞
+∑
+n=1cos1cos22···cosnnand∞
+∑
+n=1sin1sin22···sinnn
+are absolutely convergent.

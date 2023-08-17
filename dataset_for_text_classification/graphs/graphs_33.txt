@@ -1,0 +1,1 @@
+Given an undirected graph with n vertices and a natural number k. Display the vertices in the graph that have degree equal to k.

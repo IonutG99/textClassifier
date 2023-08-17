@@ -1,0 +1,1 @@
+Determine f :    that admit primitives on , with the property that the set of primitives of f is a subgroup of the group of bijections of  (in relation to the composition of functions).

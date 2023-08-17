@@ -1,0 +1,12 @@
+Prove that
+∞
+∑
+n=0(−1)n/parenleftbigg1
+n+1−1
+n+2+1
+n+3−···/parenrightbigg2
+=ζ(2)
+4.
+3.3 Alternating Products
+What we know is not much. What we do not know is immense.
+Pierre-Simon de Laplace (1749–1827)

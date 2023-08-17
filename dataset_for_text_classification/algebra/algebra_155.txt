@@ -1,0 +1,1 @@
+Let G be a finite group and n* a.. (n, |G|) = 1. Prove that whatever x G there exists and is unique y G a.. yn = x. Let it be deduced from here that if y,z G and yn = zn, then y = z.

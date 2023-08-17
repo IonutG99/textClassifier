@@ -1,0 +1,1 @@
+Show that there is exactly one number \( x \) such that \( e^{-x} = x^3 - 9 \). Locate the number between consecutive integers.

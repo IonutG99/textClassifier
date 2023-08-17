@@ -1,0 +1,8 @@
+(a) Let kbe a positive integer. Prove that
+lim
+n→∞n2/integraldisplay1
+0xn
+1+xk+x2k+···+xnkdx=k∞
+∑
+m=01
+(1+km)2.

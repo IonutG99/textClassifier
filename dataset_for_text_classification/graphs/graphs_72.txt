@@ -1,0 +1,1 @@
+In a mall there are n shopping centers, numbered from 1 to n, connected to each other by one-way corridors. Determine, if any, a commercial center that can be reached from any other.

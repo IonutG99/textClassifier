@@ -1,0 +1,1 @@
+Determine a,b,c a.. G = {x | a cos x + b sin x + c = 0 } be a subgroup of the group ( , +).

@@ -1,0 +1,1 @@
+Two non-zero natural numbers n and m are read. Determine all strings with m elements from the set {1,2,..,n}, ordered strictly ascending, with the property that any two consecutive elements in the string have a smaller or equal difference with with 2.

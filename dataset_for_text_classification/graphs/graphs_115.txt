@@ -1,0 +1,1 @@
+A tree with n nodes is given, in which each edge has an associated natural number. The answer to Q questions of the form is required: if u and v are two nodes in the tree, what is the xor value of all the numbers associated with the edges located on the chain that joins u and v?

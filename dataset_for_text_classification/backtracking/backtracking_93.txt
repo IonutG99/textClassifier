@@ -1,0 +1,1 @@
+They come in crowds. Generate in lexicographical order the elements of the Cartesian product of the given sets.

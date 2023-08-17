@@ -1,0 +1,1 @@
+Determine the value of \(a \in \mathbb{R}\) for which \(f(x)\) is integrable on the interval \([-4, 4]\).

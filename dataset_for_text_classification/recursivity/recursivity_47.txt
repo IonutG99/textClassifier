@@ -1,0 +1,1 @@
+Santa Claus lives at the North Pole and prepares presents for the good children of Class X B, helped by several elves. Due to global warming, the ice is melting, forming more icebergs. Elves on other floes than Santa can no longer help him. To be able to wrap the presents, Santa Claus needs at least k elves. Help Santa determine how many icicles have at least k elves.

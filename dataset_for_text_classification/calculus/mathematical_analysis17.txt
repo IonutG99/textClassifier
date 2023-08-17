@@ -1,0 +1,5 @@
+Letk>1a n d p≥2 be integers and let (xn)n∈Nbe a sequence of positive
+numbers such that lim n→∞xn/p√n=L∈(0,∞). Calculate
+lim
+n→∞xn+xn+1+···+xkn
+nxn.

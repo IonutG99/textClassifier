@@ -1,0 +1,3 @@
+
+           Find the total surface area of a triangular prism with base side lengths 5 cm, 6 cm, and 8 cm and height 10 cm.
+           

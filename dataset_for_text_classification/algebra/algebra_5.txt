@@ -1,0 +1,1 @@
+Let A be a nonempty set and an associative algebraic operation on A with the property that there exists n* a.. xnyn = yx, for any x,y A. You would say that the given operation is commutative.

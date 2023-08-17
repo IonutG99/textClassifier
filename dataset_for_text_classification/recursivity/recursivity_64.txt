@@ -1,0 +1,1 @@
+Given a matrix with n rows and m columns and elements 0 or 1, which represents the map of a lake, where 0 means dry and 1 means water.

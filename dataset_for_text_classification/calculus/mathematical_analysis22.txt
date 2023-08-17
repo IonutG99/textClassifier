@@ -1,0 +1,9 @@
+Leta,b,a n d cbe nonnegative real numbers. Find the value of
+lim
+n→∞1
+n3n
+∑
+i=1n
+∑
+j=1ij/radicalbig
+i2+j2+ai+bj+c.

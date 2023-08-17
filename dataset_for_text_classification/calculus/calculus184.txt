@@ -1,0 +1,1 @@
+Examine the differentiability of the function \(f(x,y)\) at points other than the origin.

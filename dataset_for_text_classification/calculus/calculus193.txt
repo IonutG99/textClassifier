@@ -1,0 +1,5 @@
+
+           Determine the asymptotes of the function:
+           
+           $f:(-\infty,1)\cup(1,\infty)\to\mathbb{R}$, $f(x)=\frac{x^2-4}{x-2}$.
+           

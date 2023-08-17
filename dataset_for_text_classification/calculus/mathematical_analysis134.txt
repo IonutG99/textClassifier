@@ -1,0 +1,4 @@
+Calculate the double integral
+/integraldisplay1
+0/integraldisplay1
+0{x−y}dxdy.

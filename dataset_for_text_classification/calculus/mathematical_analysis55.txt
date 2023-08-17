@@ -1,0 +1,4 @@
+Leth:R→Rbe bounded and continuous, let xbe a ﬁxed real number, and
+letk≥2 be an even integer. Find the limit
+limn→∞k√n/integraldisplay∞
+−∞h(x+t)e−ntkdt.

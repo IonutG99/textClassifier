@@ -1,0 +1,1 @@
+In triangle ABC, angle A is 30 degrees and angle B is 60 degrees. If AB = 5 cm, find the length of BC.

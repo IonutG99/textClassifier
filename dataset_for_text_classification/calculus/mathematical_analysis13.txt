@@ -1,0 +1,19 @@
+Prove that
+limn→∞/parenleftBigg
+n+1/radicalBigg
+Γ/parenleftbigg1
+1/parenrightbigg
+Γ/parenleftbigg1
+2/parenrightbigg
+···Γ/parenleftbigg1
+n+1/parenrightbigg
+−n/radicalBigg
+Γ/parenleftbigg1
+1/parenrightbigg
+Γ/parenleftbigg1
+2/parenrightbigg
+···Γ/parenleftbigg1
+n/parenrightbigg/parenrightBigg
+=1
+e,
+where Γdenotes the Gamma function.

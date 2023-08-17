@@ -1,0 +1,1 @@
+A vector with n elements is given. On each element we can perform 2 types of operations: add it or subtract it by 1. At the end, each element must be a divisor of the next element. That is, v[i] divides v[i + 1], whatever 1 ≤ i &lt; n. Knowing that the last element cannot be changed, find the minimum number of operations for the vector to satisfy the given condition.

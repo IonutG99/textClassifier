@@ -1,0 +1,1 @@
+Examine the differentiability of the function \(f(x,y)\) over the entire \(\mathbb{R}^2\) domain.

@@ -1,0 +1,1 @@
+Tudor is very indecisive because he has been called to r festivals and his physical strength does not allow him to reach all of them. In the city where he lives there are m two-way streets and n intersections numbered from 1 to n. Festivals take place at r intersections. He starts from the junction number z.

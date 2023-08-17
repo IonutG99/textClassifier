@@ -1,0 +1,1 @@
+Let (G, ) be a group and H a proper subgroup of s. Show that the function f : GG , f(x) = HGxHx x\ ,1, has the property that it leads subgroups into subgroups, but it is not a group morphism.

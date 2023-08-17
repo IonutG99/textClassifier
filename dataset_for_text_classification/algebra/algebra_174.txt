@@ -1,0 +1,1 @@
+Let G 1, G 2 be two groups, f : G 1  G2 a morphism of groups. Prove that the following statements are equivalent: (i) f is an injective application; (ii) Ker(f) = {1}.

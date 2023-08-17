@@ -1,0 +1,1 @@
+Let n be a natural number, n  2, K a field, K  2 and D the set of diagonal matrices in GL n(K). (i) Argue that CG(D) = D. Deduce from here that Z(GL n(K)) = {aI n : aK}; (ii) Further assuming that n  3 or K  3 prove that CGLn(K) (D  SL n(K)) = D and deduce from this that Z(SL n(K)) = SL n(K)  Z(GL n(K)).

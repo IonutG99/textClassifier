@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes where each node has a numerical value associated with it. Determine the path from the root to a terminal node for which the sum of the values ​​associated with the nodes is maximal.

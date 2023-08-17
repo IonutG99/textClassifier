@@ -1,0 +1,8 @@
+Letm≥1 be an integer. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbiggm/braceleftbiggy
+x/bracerightbiggm
+dxdy=1−ζ(2)+ζ(3)+···+ζ(m+1)
+m+1.

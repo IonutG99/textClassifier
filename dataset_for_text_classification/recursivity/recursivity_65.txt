@@ -1,0 +1,1 @@
+Write a recursive C++ function that reads a string of natural values ​​from the keyboard and displays them in reverse order.

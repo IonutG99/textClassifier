@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes and a node k. Display, in ascending order, the nodes in the subtree rooted at k.

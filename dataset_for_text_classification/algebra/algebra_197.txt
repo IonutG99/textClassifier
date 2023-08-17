@@ -1,0 +1,1 @@
+Let G be a group for which f : G G, f(x) = x3 is a group morphism. Show that: (i) If f is an injective morphism, then (G, ) is abelian; (ii) If f is a surjective morphism, then (G, ) is abelian.

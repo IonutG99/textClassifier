@@ -1,0 +1,1 @@
+Gigel has a graph with n nodes and m edges, which is not connected. He wants to know the answer to two questions:

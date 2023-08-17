@@ -1,0 +1,8 @@
+Letk≥0b ea ni n t e g e r .P r o v et h a t
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbiggk
+dx=∞
+∑
+p=1ζ(p+1)−1/parenleftbigk+p
+p/parenrightbig.

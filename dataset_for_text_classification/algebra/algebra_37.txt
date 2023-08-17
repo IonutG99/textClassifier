@@ -1,0 +1,1 @@
+Let n be natural, n  2 given. Show that the set: G =  = = 2 , , ,:002nI ACyxyxAn is a group in relation to matrix multiplication. How many elements does group G have?

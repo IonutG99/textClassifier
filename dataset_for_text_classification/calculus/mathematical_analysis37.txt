@@ -1,0 +1,13 @@
+A Frullani limit.
+(a) Let f:[0,1]→Rbe a continuous function and let 0 <a<b≤1 be real
+numbers. Prove that
+/integraldisplay1
+0f(ax)−f(bx)
+xdx=f(0)lnb
+a−/integraldisplayb
+af(x)
+xdx.
+(b) Let f:[0,1]→(−1,1]be a continuous function. Find the limit
+limn→∞/integraldisplay1
+0fn(ax)−fn(bx)
+xdx.

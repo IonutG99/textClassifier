@@ -1,0 +1,2 @@
+The limit equals f(0)g(1/e).We need the following lemma.
+Lemma

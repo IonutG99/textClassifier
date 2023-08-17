@@ -1,0 +1,1 @@
+The map of a region is represented in a Cartesian coordinate system, and the coordinates of n cities, numbered from 1 to n, are known.

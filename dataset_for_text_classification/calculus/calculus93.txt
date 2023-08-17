@@ -1,0 +1,1 @@
+Evaluate the integral \(\int \sqrt{x^2 + 4x + 5} \, dx\).

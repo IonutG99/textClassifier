@@ -1,0 +1,1 @@
+Determine the matrices A Mn(), (n3), for which the set G(A) = {B Mn()| det(A+B)= det(A)+det(B)} is group with respect to the addition of matrices in M n().

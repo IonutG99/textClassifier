@@ -1,0 +1,10 @@
+Prove that
+∞
+∑
+n=1/parenleftbigg
+1+1
+2+···+1
+n−lnn−γ−1
+2n/parenrightbigg
+=1
+2(γ+1−ln(2π)).

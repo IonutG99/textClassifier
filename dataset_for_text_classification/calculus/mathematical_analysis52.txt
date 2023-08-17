@@ -1,0 +1,7 @@
+Letf:[0,1]→[0,1]be an increasing function which is differentiable at 1
+with f(1)=1a n d f/prime(1)/negationslash=0,and let gbe a bounded function on [0,1].F i n dt h e
+value of
+lim
+n→∞n/integraldisplay1
+0fn(x)g(xn)dx,
+assuming that the integral exists for each positive integer n.

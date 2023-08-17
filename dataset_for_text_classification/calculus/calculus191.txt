@@ -1,0 +1,5 @@
+
+           Identify the horizontal asymptotes of the function:
+           
+           $f:(0,\infty )\to\mathbb{R}$, $f(x)=\frac{2x^3-3x^2+1}{x^3+4x+1}$.
+           

@@ -1,0 +1,1 @@
+Let  be fixed and A = 0 cos sincos 0 1sin 1 0a aaa. (i) Calculate A3; (ii) For x  we define A x = I 3+ xA+21x2A2. Show that G = { A x | x} is an abelian group in relation to matrix multiplication; (iii) (G, )  (,+).

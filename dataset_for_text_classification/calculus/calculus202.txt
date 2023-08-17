@@ -1,0 +1,6 @@
+
+           Find the radius of convergence and the interval of convergence for the power series:
+           \[
+           \sum_{n=1}^\infty\frac{2^n}{n!}(x+1)^n.
+           \]
+           

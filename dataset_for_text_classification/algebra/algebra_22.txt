@@ -1,0 +1,1 @@
+Let A = dcbaM2() a.. a+d >2 and det (A) = 1. Prove that An  I2, for any n , n  1.

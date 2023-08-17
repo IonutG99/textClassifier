@@ -1,0 +1,1 @@
+For a series of very sophisticated activities, Gigel needs a special saw, made up of several teeth. A grade n saw consists of two grade n-1 saws with a tooth of size n in between. A grade 1 saw has a single tooth of size 1.

@@ -1,0 +1,1 @@
+In right triangle ABC, angle C is 90 degrees. If AB = 3 cm and AC = 4 cm, find the length of BC.

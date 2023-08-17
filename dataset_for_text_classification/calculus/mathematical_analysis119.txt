@@ -1,0 +1,16 @@
+Letk≥1a n dl e t m,pbe nonnegative integers such that m−p>−2a n d
+k−p>−1. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbiggkym
+xpdxdy
+=1
+m−p+2/parenleftBigg
+k!
+(m+1)!∞
+∑
+j=1(m+j)!
+(k+j)!(ζ(m+j+1)−1)+1
+k−p+1/parenrightBigg
+.

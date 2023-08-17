@@ -1,0 +1,1 @@
+A natural number n is read. Display, in lexicographical order, all the non-empty subsets of the set {1,2,..,n} for which the difference between any two elements is greater than 1.

@@ -1,0 +1,1 @@
+Consider we have   (,+) and T = {z * : | z| = 1}. Prove that: (i) T  (*,) and /  T ; (ii) */T  (+,) ; (iii) +  (*,) and */+  T ; (iv)   (,+) and /  (,+).

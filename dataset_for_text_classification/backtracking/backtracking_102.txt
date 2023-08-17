@@ -1,0 +1,1 @@
+There are dogs and cats in a yard. Generate in lexicographic order the strings consisting of n animals, which:

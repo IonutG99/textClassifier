@@ -1,0 +1,1 @@
+Let G be a group, H  G a.. H  Z(G). Prove that H <G.

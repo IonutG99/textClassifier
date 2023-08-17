@@ -1,0 +1,1 @@
+Write the recursive function IncDecRec that, given a natural number n as a parameter, returns the number obtained from n by decrementing each odd digit by 1 and increasing each even digit by 1.

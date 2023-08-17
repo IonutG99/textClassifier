@@ -1,0 +1,1 @@
+Write the complete definition of the recursive C++ subprogram P which receives a non-zero natural number (n≤100) by means of parameter n, and by means of parameter x a one-dimensional array with n integer components, of maximum six digits each.

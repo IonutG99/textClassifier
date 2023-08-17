@@ -1,0 +1,1 @@
+Let $a \in \mathbb{R}$. Prove that if $f$ and $g$ are differentiable functions with $f'(x) \leq g'(x)$ for every $x$ in some interval containing $a$, and if $f(a) = g(a)$, then $f(x) \leq g(x)$ for every $x$ in the interval such that $x \geq a$.

@@ -1,0 +1,1 @@
+Find the values of \( a\) such that the series \(\displaystyle \sum _{ n=1}^{\infty } \frac{{ n+1}}{{ n^{ a}+n+2}}\) diverges.

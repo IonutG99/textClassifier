@@ -1,0 +1,8 @@
+A Wolstenholme limit. Letsbe any positive real number. Prove that
+lim
+m→∞m
+∑
+k=1/parenleftbiggk
+m/parenrightbiggsm
+=es
+es−1.

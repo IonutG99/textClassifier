@@ -1,0 +1,1 @@
+A chessboard of size n x n contains on all squares one piece of one of the following colors: white, black, red, green or blue. There are no 3 consecutive pieces on the same line or column of the same color on the board. Find the highest score achieved in a single move.

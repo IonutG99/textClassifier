@@ -1,0 +1,1 @@
+Let $f(x) = 4\cos x - 7\sin x$. Then $f^{(87)}(0) =$

@@ -1,0 +1,1 @@
+Let be an undirected graph with N nodes and M edges that is NOT connected. Add a minimum number of edges to the graph so that it becomes connected. Let extract the number of newly added edges that are incident to node i, and max_extra the largest of the extra1, extra2,… , extraN values. The set of added edges must satisfy the condition that the value of max_extra is minimum.

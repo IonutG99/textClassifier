@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices, labeled from 1 to n, as well as a set A of vertices of the graph. Consider the set B consisting of the vertices of the graph that do not belong to A. Check whether the graph is bipartite over the partition formed by the sets A and B.

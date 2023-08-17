@@ -1,0 +1,1 @@
+Let the sequence S(x) be constructed as follows:

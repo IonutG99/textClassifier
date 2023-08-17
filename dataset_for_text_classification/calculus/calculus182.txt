@@ -1,0 +1,1 @@
+Determine the points in \(\mathbb{R}^2\) where the function \(f\) is differentiable.

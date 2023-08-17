@@ -1,0 +1,1 @@
+Let p  3 be an odd natural number. Construct a group (G, ) with p3 elements, where p > 2 is an odd number, with the property that for any x G, xp = 1.

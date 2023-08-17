@@ -1,0 +1,1 @@
+A tank of water in the shape of a cone is being filled at a constant rate of 3 cubic meters per minute. The tank has a height of 10 meters and a base radius of 4 meters. How fast is the water level rising when the water is 6 meters deep?

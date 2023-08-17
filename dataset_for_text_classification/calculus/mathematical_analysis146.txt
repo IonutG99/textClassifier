@@ -1,0 +1,7 @@
+Letnbe a positive integer. Prove that
+n−1
+∑
+k=1(−1)ksinnkπ
+n=1+(−1)n
+2n·n·cosnπ
+2.

@@ -1,0 +1,1 @@
+Let G be a group, H  G and x G a.. o(x) = n (n *). Prove that if xmH for any m * a.. (m, n) = 1, then x H. 3.17. Let G be a commutative group of order n. Show that the product of n elements of G is equal to the product of all elements of order at most 2. Applying this result to the multiplicative group ( p,) with p prime, prove p | (p-1)!+1. Notice. The consequence of the problem

@@ -1,0 +1,1 @@
+\lim_{{x \to \infty}} \left(\frac{{(2x^4 - 137)^5}}{{(x^2 + 429)^{10}}}\right) = \ldots

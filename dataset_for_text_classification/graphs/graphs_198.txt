@@ -1,0 +1,1 @@
+Marian is in the galaxy OJI-2020 and the year is 11235. In this galaxy there are N different planets and M two-way transport channels of type (x, y, t) that allow you to move from planet x to planet y (or vice versa) in t seconds.

@@ -1,0 +1,1 @@
+Given is the vector of fathers of a rooted tree with n nodes and a node k. Determine the path from the root of the tree to node k.

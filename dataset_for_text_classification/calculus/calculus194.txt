@@ -1,0 +1,5 @@
+
+           Find the vertical asymptotes of the function:
+           
+           $f:(0,\infty )\to\mathbb{R}$, $f(x)=\frac{2x}{\sqrt{x^2-9}}$.
+           

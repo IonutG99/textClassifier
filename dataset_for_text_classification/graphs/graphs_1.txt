@@ -1,0 +1,1 @@
+Given the n-1 edges of a tree with n nodes and a node k . Display the vector of fathers of the tree rooted in k.

@@ -1,0 +1,1 @@
+One reads a natural number n, then n distinct natural numbers. Display, in lexicographical order, the strings of the n values ​​with the property that any two adjacent values ​​are prime to each other.

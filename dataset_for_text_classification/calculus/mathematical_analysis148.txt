@@ -1,0 +1,7 @@
+Letβ≥0a n dl e t α>0. Prove that the series
+∞
+∑
+n=1nβ(cos1cos2 ···cosn)αand∞
+∑
+n=1nβ(sin1sin2 ···sinn)α
+are absolutely convergent.

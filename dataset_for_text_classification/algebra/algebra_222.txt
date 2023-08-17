@@ -1,0 +1,1 @@
+Let G be a group. Prove that if Z(G) = {1}, then Z(Aut(G)) = {1}.

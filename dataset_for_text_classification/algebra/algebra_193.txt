@@ -1,0 +1,1 @@
+Consider (G,o) and (+,) where G = (3, ) and xoy = xy3x3y+12, whatever x,y G. Show that: (i) (G, o) is an abelian group;

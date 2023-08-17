@@ -1,0 +1,15 @@
+(a) Let pandkbe nonnegative real numbers. Prove that
+lim
+n→∞n2/parenleftbigg/integraldisplay1
+0n/radicalBig
+(1+xn+k)(1+xn+p)dx−1/parenrightbigg
+=ζ(2).
+(b) More generally, if f:[0,1]→(0,∞)is a function such that (lnf(x))/xis
+integrable over [0,1],then
+lim
+n→∞n2/parenleftbigg/integraldisplay1
+0n/radicalBig
+f(xn+k)f(xn+p)dx−1/parenrightbigg
+=2/integraldisplay1
+0lnf(x)
+xdx.

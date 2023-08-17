@@ -1,0 +1,1 @@
+Determine whether a triangle with side lengths 5, 6, and 9 is a right triangle.

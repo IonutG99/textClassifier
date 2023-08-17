@@ -1,0 +1,22 @@
+Prove that
+∞
+∑
+k=1(−1)k−1k/parenleftbigg
+1+1
+2+···+1
+k−lnk−γ−1
+2k/parenrightbigg
+=−γ
+4−1
+4+3lnA−7
+12ln2.
+Catalan’s constant, G, is deﬁned by the series formula [ 43,p .5 3 ]
+G=∞
+∑
+n=0(−1)n
+(2n+1)2=1
+12−1
+32+1
+52−1
+72+···.
+(continued)

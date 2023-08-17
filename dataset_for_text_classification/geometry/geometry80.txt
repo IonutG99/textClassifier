@@ -1,0 +1,3 @@
+
+           In a regular hexagon with side length $8 \, \text{cm}$, find the apothem and the area.
+           

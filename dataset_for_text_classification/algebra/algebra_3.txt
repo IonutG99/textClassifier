@@ -1,0 +1,1 @@
+May M be a non-empty thank you. An associative algebraic operation is defined on M. Show that if M is finite and there exists aM a.. the function f: M  M , f(x) = axis is injective, then (M, ) is monoid.

@@ -1,0 +1,7 @@
+Letf:[0,π/2]→Rbe a continuous function. Find the value of
+lim
+n→∞1
+n/integraldisplayπ
+2
+0sin2nx
+sin2xf(x)dx.

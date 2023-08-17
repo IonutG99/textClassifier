@@ -1,0 +1,1 @@
+The equation of the line passing through the points $(-7, -3)$ and $(8, 2)$ is $ay = x + b$, where $a =$ and $b =$.

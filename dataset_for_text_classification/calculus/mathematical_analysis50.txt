@@ -1,0 +1,5 @@
+When is the limit equal to the supremum norm of f?
+(a) Let f:[0,1]→[0,∞)be a continuous function that attains its maximum either
+at 0 or at 1. Prove that
+limn→∞n/radicalBigg/integraldisplay1
+0f(x)f(x2)···f(xn)dx=||f||∞. (1.1)

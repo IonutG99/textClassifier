@@ -1,0 +1,1 @@
+Consider an integer N and a string of M non-zero decimal digits. Determine if the number N can be the result of a simple arithmetic expression (without parentheses), consisting exclusively of the digits of the read string and of the arithmetic operators designated for addition and subtraction operations (+, -).

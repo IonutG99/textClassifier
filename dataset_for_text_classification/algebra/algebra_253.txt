@@ -1,0 +1,1 @@
+Let G be a finite p-group with |G| = pm (m). Prove that there exist normal subgroups G 0,G1, ..., G m of G a.. 1 = G 0 < G 1 < < G m = = G and | G i | = pi for any 0  i  m.

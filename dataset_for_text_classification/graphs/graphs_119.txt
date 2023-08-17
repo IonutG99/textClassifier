@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices and three vertices p q r. Determine all elementary chains with ends in p and q that contain the vertex r.

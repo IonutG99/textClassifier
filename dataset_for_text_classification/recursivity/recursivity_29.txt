@@ -1,0 +1,1 @@
+Given an array with n elements, natural numbers. Replace each element in the array with the product of the number of digits and the first digit.

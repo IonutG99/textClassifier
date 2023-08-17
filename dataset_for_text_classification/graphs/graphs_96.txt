@@ -1,0 +1,1 @@
+Given a directed graph with n nodes. Determine how many strongly connected components of the graph are formed by a single node.

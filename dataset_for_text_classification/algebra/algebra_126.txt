@@ -1,0 +1,1 @@
+Let G be a finite commutative group a.. x2 = 1 for more than half of the elements of G. Prove that x2 = 1, whatever x G.

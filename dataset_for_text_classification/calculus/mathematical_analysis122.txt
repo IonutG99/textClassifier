@@ -1,0 +1,9 @@
+Letn>−1 be a real number. Prove that
+/integraldisplay1
+0/integraldisplay1
+0xnyn/braceleftbiggx
+y/bracerightbigg/braceleftbiggy
+x/bracerightbigg
+dxdy=1
+(n+1)2−ζ(n+2)
+(n+1)(n+2).

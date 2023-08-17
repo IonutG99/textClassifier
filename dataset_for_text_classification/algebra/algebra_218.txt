@@ -1,0 +1,1 @@
+. Define on (1,2)   an operation that gives this set a group structure isomorphic to the multiplicative group of strictly positive real numbers ((0, ),).

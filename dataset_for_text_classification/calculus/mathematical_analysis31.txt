@@ -1,0 +1,10 @@
+(a) Let f:[0,1]→Rbe a continuously differentiable function and let
+xn=f/parenleftbigg1
+n/parenrightbigg
++f/parenleftbigg2
+n/parenrightbigg
++···+f/parenleftbiggn−1
+n/parenrightbigg
+.
+Calculate lim n→∞(xn+1−xn).
+(b)Open problem. What is the limit when fis only continuous?

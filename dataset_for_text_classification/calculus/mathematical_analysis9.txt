@@ -1,0 +1,7 @@
+For positive integers n,l e tgn=1+1/2+···+1/n−lnn. Prove that
+lim
+n→∞/parenleftbigggγ
+n
+γgn/parenrightbigg2n
+=e
+γ.

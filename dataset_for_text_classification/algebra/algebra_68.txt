@@ -1,0 +1,1 @@
+Let G be a finite group and p a prime number that divides the order of G. Then the number of solutions of the equation xp = 1 is a multiple of p.

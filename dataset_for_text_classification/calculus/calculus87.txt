@@ -1,0 +1,1 @@
+Find the area enclosed by the curve \(y = e^x\), the x-axis, and the vertical lines \(x = 0\) and \(x = 2\).

@@ -1,0 +1,1 @@
+Let $f(x) = |2 - |x - 1|| - 1$ for every real number $x$. Then $f'(-2) = ...$, $f'(4) = ...$, $f'(0) = ...$, and $f'(2) = ...$.

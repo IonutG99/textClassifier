@@ -1,0 +1,1 @@
+One reads a natural number n, then n distinct natural numbers. Display, in lexicographical order, the permutations of the set formed by the n numbers read.

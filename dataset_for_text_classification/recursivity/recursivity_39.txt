@@ -1,0 +1,1 @@
+Write a recursive C++ function that determines the maximum digit and minimum digit of a natural number passed as a parameter. The function will return results via output parameters.

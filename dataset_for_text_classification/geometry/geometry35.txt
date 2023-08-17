@@ -1,0 +1,3 @@
+
+           Prove that the perpendicular from the center of a circle to a chord bisects the chord.
+           

@@ -1,0 +1,1 @@
+Prove that Un = {z* : zn =1} and T = {z *: |z| = 1} is a subgroup of the group ( *, ) (n).

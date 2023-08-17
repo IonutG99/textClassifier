@@ -1,0 +1,1 @@
+Given a vector t=(t[1], t[2], ..., t[n]) that stores natural numbers between 0 and n. Check whether or not t is a vector of fathers associated with a tree with root.

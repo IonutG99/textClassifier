@@ -1,0 +1,1 @@
+Let M = +b a aQbabab a,0 , ,0. (i) Show that (M,) is a group; (ii) Determine all matrices X M a.. X Xt = I 2 ; (iii) Does the equation Yt Y = I 2 have solutions in M ?

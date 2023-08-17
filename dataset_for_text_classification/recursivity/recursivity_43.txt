@@ -1,0 +1,1 @@
+Write a recursive C++ function that takes as parameters a natural number n and a digit c and returns the number obtained by removing from n all occurrences of c.

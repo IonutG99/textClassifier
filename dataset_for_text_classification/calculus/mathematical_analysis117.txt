@@ -1,0 +1,8 @@
+Letk≥1 be an integer. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbiggk/parenleftbiggy
+x/parenrightbiggk
+dxdy=1−ζ(2)+ζ(3)+···+ζ(k+1)
+2(k+1).

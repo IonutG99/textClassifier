@@ -1,0 +1,1 @@
+Let $f(x) = x \sin x$. Find constants $a$, $b$, $A$, and $B$ so that $(ax + b) \cos x + (Ax + B) \sin x$ is an antiderivative of $f(x)$. Answer: $a = $, $b = $, $A = $, and $B = $.

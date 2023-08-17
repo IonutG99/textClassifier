@@ -1,0 +1,1 @@
+Determine the number formed by the last p digits of a n.

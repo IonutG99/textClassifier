@@ -1,0 +1,9 @@
+A π/2product. Letp≥2b ea ni n t e g e r .P r o v et h a t
+∞
+∏
+n=1/parenleftbigg
+1+1
+⌊p√n⌋/parenrightbigg(−1)n−1
+=π
+2,
+where⌊a⌋denotes the greatest integer not exceeding a.

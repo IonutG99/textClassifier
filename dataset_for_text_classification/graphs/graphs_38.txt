@@ -1,0 +1,1 @@
+The list of edges of an undirected graph is given. For each connected component we call its smallest vertex representative of the connected component. Determine the representative of the connected component with the most vertices and how many nodes it contains.

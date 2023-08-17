@@ -1,0 +1,1 @@
+A natural number n and a permutation of the set M={1,2,..,n} are read. Display, in lexicographic order, all the permutations of the set M that do not contain adjacent elements that were also adjacent in the given permutation.

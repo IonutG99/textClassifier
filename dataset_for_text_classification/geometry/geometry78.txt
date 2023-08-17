@@ -1,0 +1,3 @@
+
+           In a trapezoid with bases measuring $5 \, \text{cm}$ and $9 \, \text{cm}$, find the length of a median.
+           

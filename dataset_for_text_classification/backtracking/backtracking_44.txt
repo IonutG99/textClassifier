@@ -1,0 +1,1 @@
+Given a nonzero natural number S. Find the number of ways to write S as a sum of distinct primes, as well as a way to write S as a sum of as many distinct primes as possible.

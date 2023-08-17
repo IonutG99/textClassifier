@@ -1,0 +1,8 @@
+A Glaisher–Kinkelin product. Prove that
+∞
+∏
+n=11
+e/parenleftbigg2n
+2n−1/parenrightbigg(4n−1)/2
+=A3
+27/12π1/4.

@@ -1,0 +1,1 @@
+Given a directed graph with n nodes. Determine if there is a Hamiltonian path.

@@ -1,0 +1,1 @@
+In the multiplicative monoid M 2() we consider the matrices: A = 011 0 and B =  1 11 0. Prove that a(A ) = 4, o(B) = 3 and o(AB) = .

@@ -1,0 +1,1 @@
+Give an example of a function defined on $[0, 1]$ which has no maximum and no minimum on the interval. Explain why the existence of such a function does not contradict the Extreme Value Theorem 5.1.5.

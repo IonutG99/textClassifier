@@ -1,0 +1,1 @@
+Show how to use the method of cross-sections to derive the formula for the volume of a sphere with radius \(r\).

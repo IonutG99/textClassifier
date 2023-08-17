@@ -1,0 +1,1 @@
+Prove that any generated finite subgroup of ( ,+) is cyclic (such a group is called locally cyclic).

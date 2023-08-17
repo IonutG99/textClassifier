@@ -1,0 +1,3 @@
+
+           Prove that if a line is tangent to a circle, then it is perpendicular to the radius drawn to the point of tangency.
+           

@@ -1,0 +1,1 @@
+Prove that if n  2, then the group Hom( n,) is null.

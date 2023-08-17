@@ -1,0 +1,21 @@
+(a) Let mandkbe positive real numbers. Prove that
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbiggk
+xmdx=k!
+(m+1)!∞
+∑
+j=1(m+j)!
+(k+j)!(ζ(m+j+1)−1).
+(b)A new integral formula for Euler’s constant. Ifm≥1i sa ni n t e g e r ,t h e n
+/integraldisplay1
+0xm/braceleftbigg1
+x/bracerightbiggm+1
+dx=Hm+1−γ−m+1
+∑
+j=2ζ(j)
+j,
+where Hm+1denotes the (m+1)th harmonic number.
+2.2 Double Integrals
+Nature laughs at the difﬁc ulties of integration.
+Pierre-Simon de Laplace (1749–1827)

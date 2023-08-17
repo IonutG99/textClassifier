@@ -1,0 +1,1 @@
+Let (G,+) be a finite abelian group with r elements and consider two fixed elements a and b from this group. For given natural numbers m and n,

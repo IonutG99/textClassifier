@@ -1,0 +1,1 @@
+Two natural numbers N and M are given. Consider a string of numbers of length N indexed from 0 to which values ​​must be assigned so as to respect M restrictions of the form:

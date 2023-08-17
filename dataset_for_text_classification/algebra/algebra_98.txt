@@ -1,0 +1,1 @@
+Let X = E2 be the Euclidean plane endowed with the usual distance function. We will denote by Tr(E2) = the set of translations of E2 and for a fixed point OE2, Rot(O,E2) = the set of rotations of E2 around O. Prove that: (i) Tr(E2)  Isom(E2), Rot(O,E2)  Isom(E2) ; (ii) For any f Izom(E2), there exists Rot(O,E2), Tr(E2) a.. f = o, with OE2.

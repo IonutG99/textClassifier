@@ -1,0 +1,1 @@
+On the territory of the Falkland islands, there are n Britons rated from 1 to n and m Argentines rated from 1 to m.

@@ -1,0 +1,1 @@
+A word consisting of at least two and at most ten distinct lowercase characters containing at least two vowels is read. Display in lexicographic order the anagrams of the word read that have the property that they start and end with a vowel.

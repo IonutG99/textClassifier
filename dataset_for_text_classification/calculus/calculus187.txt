@@ -1,0 +1,1 @@
+Determine the differentiability of the function \(f\) at every point in \(\mathbb{R}^2\) excluding \((0,0)\).

@@ -1,0 +1,1 @@
+Write a program that reads an odd natural value for n and then generates and displays in lexicographically ascending order all combinations of n lowercase letters that satisfy the following properties:

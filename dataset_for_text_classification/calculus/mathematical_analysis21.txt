@@ -1,0 +1,8 @@
+Leta,b,a n d cbe nonnegative real numbers. Find the value of
+lim
+n→∞n
+∑
+k=1√
+n2+kn+a√
+n2+kn+b·√
+n2+kn+c.

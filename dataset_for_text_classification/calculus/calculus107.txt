@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{1}{3} \cdot \frac{3}{10} \cdot \frac{5}{18} \cdot \ldots \cdot \frac{2n-1}{7n-4}\), for \(n \geq 1\).

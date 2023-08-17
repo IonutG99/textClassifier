@@ -1,0 +1,1 @@
+Let p be a prime number and Sn a cycle of length m (m  n). Prove that: (i) If p m, then p is a cycle of length m, having the same orbit as ; (ii) If p | m, then p is a product of p disjoint cycles of length m/p.

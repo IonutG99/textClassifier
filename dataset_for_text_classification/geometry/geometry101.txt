@@ -1,0 +1,3 @@
+
+           Dilate the triangle with vertices $A(1, 2)$, $B(3, 4)$, and $C(5, 1)$ by a scale factor of $2$ with respect to the origin.
+           

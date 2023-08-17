@@ -1,0 +1,1 @@
+Let G be a finite group, p a prime number, p  2 a.. p| |G|. Prove that there exists xG a.. o(x) = p (equivalent to there exists H  G a.. |H| = p). Notice. This result is due to Cauchy.

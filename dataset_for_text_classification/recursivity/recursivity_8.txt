@@ -1,0 +1,1 @@
+Write the recursive function FCrescRec which, receiving as a parameter a natural number n, returns 1 if its digits, starting with the units digit, are arranged in ascending order, or returns 0 if n has no digits in ascending order.

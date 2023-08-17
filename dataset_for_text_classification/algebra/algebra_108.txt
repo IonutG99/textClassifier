@@ -1,0 +1,1 @@
+Prove that if  is an r-cycle in S n , then r = e (r  n) and r is the smallest natural number with this property.

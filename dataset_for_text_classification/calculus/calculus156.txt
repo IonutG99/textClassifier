@@ -1,0 +1,1 @@
+Calculate the definite integral \(\int_{-3} f(x) \, dx\) for the function \(f(x)\).

@@ -1,0 +1,1 @@
+In a group (G,) consider the subsets: Hn = {xG | xn = 1}, n *. Show that: (i) H 2 is a subgroup of G  xy = yx for any x,y H2 ; (ii) If p is a prime number with the property that Hp has at most p elements, then H p = {1} or H p is a subgroup of G isomorphic to the group ( p ,+).

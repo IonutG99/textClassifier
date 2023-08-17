@@ -1,0 +1,8 @@
+Letp>1/2 be a real number. Calculate
+lim
+n→∞/parenleftBigg
+n
+∑
+k=11/parenleftbign
+k/parenrightbigp/parenrightBiggnp
+.

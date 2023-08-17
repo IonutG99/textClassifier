@@ -1,0 +1,4 @@
+Letnbe a positive integer and let kbe a natural number. Prove that
+/integraldisplay1
+0(x−x2)k{nx}dx=(k!)2
+2(2k+1)!.

@@ -1,0 +1,5 @@
+Letαbe a real number and let p>1. Find the value of
+limn→∞n
+∏
+k=1np+(α−1)kp−1
+np−kp−1.

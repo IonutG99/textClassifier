@@ -1,0 +1,1 @@
+Suppose that \(a < b\). Prove that \(\int_{a}^{b} (f(x) - c)^2 \, dx\) is smallest when \(c\) is the average value of \(f\) over the interval \([a, b]\).

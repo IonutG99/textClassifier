@@ -1,0 +1,1 @@
+A natural number n is given. Determine, in lexicographic order, all the ways to write n as a sum of natural numbers ordered in ascending order so that the difference between two consecutive terms of the sum is at least 2.

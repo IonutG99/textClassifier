@@ -1,0 +1,1 @@
+A rope of length \(l\) feet that weighs \(\sigma\) lbs/ft is lying on the ground. What is the work done in lifting the rope so that it hangs from a beam \(2l\) feet high? Explain clearly how to solve this problem in two different ways.

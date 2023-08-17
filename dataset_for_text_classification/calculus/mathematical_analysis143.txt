@@ -1,0 +1,54 @@
+A power integral. Letn≥3a n d m≥1 be integers. Calculate, in closed
+form, the integral
+/integraldisplay1
+0···/integraldisplay1
+0/braceleftbigg1
+x1+x2+···+xn/bracerightbiggm
+dx1···dxn.
+2.5 Hints
+To myself I am only a child playing on the beach, while vast
+oceans of truth lie undiscovered before me.
+Sir Isaac Newton (1642–1727)
+2.5.1 Single Integrals
+It is not certain that everything is uncertain.
+Blaise Pascal (1642–1662)
+2.1.Make the substitution 1 /x=t.
+2.3.Make the substitution 1 /x=tand the integral reduces to the calculation of the
+series ∑∞
+k=1/parenleftbig
+3k2ln(k+1)/k+3/2−3k−1/(k+1)/parenrightbig
+.Then, calculate the nth partial
+sum of the series by using the deﬁnition of Glaisher–Kinkelin constant.
+2.5.and2.6.Make the substitution k/x=t.
+2.7.Make the substitution x=1/yk.
+2.8.Calculate the integral by using the substitution x=kk/yk.
+2.9.Make the substitution x=1/(kkyk).
+2.10.Make the substitution x=1/tand show the integral reduces to the calculation
+of the series 2 ∑∞
+k=1/parenleftbig
+klnk
+k+1+klnk+2
+k+1+1
+k+2/parenrightbig
+.
+2.13.Make the substitution 1 /x=yand observe that if yis a positive real number,
+which is not an integer, one has {−y}=1−{y}.
+2.14.,2.15.,a n d 2.17.Make the substitution x=1/y.
+2.18.Substitute n/x=tand apply Stolz–Ces `aro lemma (the 0 /0 case).
+2.19.Make the substitution n/x=tand prove that xn=/integraltext1
+0{n/x}ndxveriﬁes the
+inequalities
+n
+n+1/parenleftBigg
+π2
+6−n
+∑
+k=11
+k2/parenrightBigg
+<xn<n
+n+1/parenleftBigg
+π2
+6−n−1
+∑
+k=11
+k2/parenrightBigg

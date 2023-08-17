@@ -1,0 +1,1 @@
+The equation of the line passing through the point $(4, 2)$ and perpendicular to the line $x + 2y = 1$ is $ax + by + 1 = 0$, where $a =$ and $b =$.

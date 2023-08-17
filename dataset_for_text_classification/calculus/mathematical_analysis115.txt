@@ -1,0 +1,9 @@
+Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbigg2
+dxdy=−1
+3−γ
+2+ln(2π)
+2.

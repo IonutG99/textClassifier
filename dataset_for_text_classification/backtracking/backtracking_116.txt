@@ -1,0 +1,1 @@
+Let λ be a permutation of degree N and let K be a nonzero natural number. Display all solutions of the equation xK=&amp;#x3BB;" role="presentation" style="position: relative;">xK=λxK=λ{x}^{K}=λ in lexicographic order.

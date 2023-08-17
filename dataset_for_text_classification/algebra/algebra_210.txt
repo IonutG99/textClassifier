@@ -1,0 +1,1 @@
+Let G be a group with the property that the applications f(x) = x4 and g(x) = x8 are automorphisms of G. Show that G is abelian.

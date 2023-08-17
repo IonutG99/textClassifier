@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n nodes and m edges and a string of q nodes. Determine for each node x in the string the number of nodes in the connected component of which x is a part.

@@ -1,0 +1,5 @@
+Letaandbbe real numbers and let cbe a positive number. Find the value of
+lim
+n→∞/integraldisplayb
+adx
+c+sin2x·sin2(x+1)···sin2(x+n).

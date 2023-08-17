@@ -1,0 +1,1 @@
+Two natural numbers n and m are read. List in lexicographical order all words that consist of n letters C and m letters P with the property that there is no letter P sandwiched between two letters C.

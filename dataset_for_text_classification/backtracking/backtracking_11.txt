@@ -1,0 +1,1 @@
+Given a chessboard consisting of n lines and m columns, defining n*m zones, some of which are free, others containing obstacles. In the coordinate area 1 1 is a knight that can move on the board in an L, like in chess, without leaving the board, without passing through areas containing obstacles, and without passing through the same area twice.

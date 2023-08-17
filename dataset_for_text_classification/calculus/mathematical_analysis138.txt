@@ -1,0 +1,8 @@
+Letkandmbe positive real numbers. Calculate
+/integraldisplay1
+0/integraldisplay1
+0/braceleftBigg/parenleftbiggx
+y/parenrightbiggk
+−/parenleftbiggy
+x/parenrightbiggk/bracerightBigg
+xmymdxdy.

@@ -1,0 +1,1 @@
+Given two similar triangles, if the ratio of their corresponding side lengths is 4:7, find the ratio of their perimeters.

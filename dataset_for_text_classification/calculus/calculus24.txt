@@ -1,0 +1,1 @@
+Let $a \in \mathbb{R}$ be a constant and let $f(x) = a - x$ for all $x \in \mathbb{R}$. Show that $f \circ f = I$ (where $I$ is the identity function on $\mathbb{R}$: $I(x) = x$ for all $x$).

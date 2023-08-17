@@ -1,0 +1,5 @@
+
+           Locate the oblique asymptotes of the function:
+           
+           $f:(-\infty,0)\cup(0,\infty)\to\mathbb{R}$, $f(x)=\frac{x^2-2x+1}{x^2-3}$.
+           

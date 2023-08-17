@@ -1,0 +1,1 @@
+Consider a graph with N nodes numbered from 1 to N and M operations of three types:

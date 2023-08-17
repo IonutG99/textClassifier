@@ -1,0 +1,5 @@
+Find the value of
+∞
+∑
+k=2ζ(k)−1
+k+1.

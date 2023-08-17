@@ -1,0 +1,1 @@
+Let G be a group with the property that there exists n*a.. (xy)k = xkyk, for k = n, n+1, n+2, whatever x,y G. Prove that G is commutative.

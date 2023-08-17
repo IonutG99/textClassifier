@@ -1,0 +1,1 @@
+Let $f(x) = \sqrt{8 - x}$. Show how to use the definition of derivative to find $f'(-1)$.

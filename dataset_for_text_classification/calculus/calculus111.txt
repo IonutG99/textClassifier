@@ -1,0 +1,1 @@
+Study the monotony and increase of the sequence \(x_n = \frac{5}{14} \cdot \frac{7}{25} \cdot \frac{9}{38} \cdot \ldots \cdot \frac{2n+3}{13n+18}\), for \(n \geq 1\).

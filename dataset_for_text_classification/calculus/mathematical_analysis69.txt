@@ -1,0 +1,8 @@
+A Fejer limit. Letf∈L1[0,1]and let g:[0,1]→Rbe a continuous
+function. Prove that
+lim
+n→∞/integraldisplay1
+0f(x)g({nx})dx=/integraldisplay1
+0f(x)dx/integraldisplay1
+0g(x)dx,
+where{a}=a−⌊a⌋denotes the fractional part of a.

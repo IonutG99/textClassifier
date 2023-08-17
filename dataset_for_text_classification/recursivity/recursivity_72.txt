@@ -1,0 +1,1 @@
+A matrix with n rows and m columns is given, consisting of 2 types of characters: '$' and '.'. All '.' characters must be covered. with 1x2 or 2x1 pieces. If coverage can be achieved in a unique way, the completed matrix will be displayed, otherwise the message "later" will be displayed.

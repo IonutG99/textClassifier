@@ -1,0 +1,1 @@
+A string consisting of n natural numbers is given. The sum of the elements of any substring of the given string is calculated. Find out how many of the sums obtained are terms of the Fibonacci sequence.

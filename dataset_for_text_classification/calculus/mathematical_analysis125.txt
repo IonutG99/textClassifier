@@ -1,0 +1,16 @@
+Letm,k≥1 be two integers. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx
+y/bracerightbiggm/braceleftbiggy
+x/bracerightbiggk
+dxdy=k!
+2(m+1)!∞
+∑
+p=1(m+p)!
+(k+p)!(ζ(m+p+1)−1)
++m!
+2(k+1)!∞
+∑
+p=1(k+p)!
+(m+p)!(ζ(k+p+1)−1).

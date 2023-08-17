@@ -1,0 +1,1 @@
+Let M = {dcba | a,b,c,d  and a + b = c + d }. Prove that M together with matrix multiplication is monoid and then highlight the units of the monoid M.

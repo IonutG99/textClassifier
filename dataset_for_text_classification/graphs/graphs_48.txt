@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n nodes, labeled from 1 to n, m edges and a number k. All nodes labeled with multiples of k are removed from this graph. Determine how many edges the obtained subgraph will have.

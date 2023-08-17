@@ -1,0 +1,1 @@
+Suppose $y = f(x)$ is the equation of a curve which always lies between the parabola $x^2 = y - 1$ and the hyperbola $yx + y - 1 = 0$. Then $\lim_{{x \to \ldots}} f(x) = \ldots$

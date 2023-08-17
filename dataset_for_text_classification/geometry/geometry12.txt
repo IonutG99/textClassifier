@@ -1,0 +1,1 @@
+Prove that the diagonals of a rhombus are perpendicular bisectors of each other.

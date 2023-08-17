@@ -1,0 +1,9 @@
+An iterated exponential limit. Letn≥1 be a natural number and let
+fn(x)=xx···x
+,
+where the number of x’s in the deﬁnition of fnisn. For example,
+f1(x)=x,f2(x)=xx,f3(x)=xxx,....
+Calculate the limit
+lim
+x→1fn(x)−fn−1(x)
+(1−x)n.

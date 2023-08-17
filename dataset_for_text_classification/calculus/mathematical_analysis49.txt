@@ -1,0 +1,13 @@
+Letf:[0,∞)→(0,∞)be positive and monotone decreasing such that for all
+nonnegative integers n,
+/integraldisplay∞
+0xnf(x)dx<∞,
+and let F(x)=/integraltext∞
+xf(t)dt.Then
+lim
+n→∞n/integraltext∞
+0xnf(x)dx/integraltext∞
+0xn+1f(x)dx=lim
+x→∞f(x)
+F(x),
+provided that the right-hand side limit exists.

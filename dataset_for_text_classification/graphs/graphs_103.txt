@@ -1,0 +1,1 @@
+Consider a directed graph with n vertices, numbered from 1 to n, and m edges. We define the minimum distance between two nodes x and y as the minimum number of arcs of an elementary road that joins x with y.

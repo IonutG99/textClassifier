@@ -1,0 +1,1 @@
+We say that the group (G, ) has the property g(n) if it contains at least n+1 elements and whatever x 1, x2,,x n G \ {1} there exists x n+1 G a.i. x1x2x n = xnn1+. Show that: (i) If (G,) has the property g(n), then, for any x G, there exists yG a.. x = yn; (ii) The group ( *+, ) has the property g(n); (iii) (*+, )  (*,).

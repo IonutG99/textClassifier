@@ -1,0 +1,1 @@
+Let $f(x) = \frac{1}{1 + \left(\frac{1}{1 + \frac{1}{x}}\right)}$. Then:a) $f\left(\frac{1}{2}\right) =$ 

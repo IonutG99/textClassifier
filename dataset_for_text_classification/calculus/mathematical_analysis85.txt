@@ -1,0 +1,5 @@
+A de la Vall ´ee Poussin integral. Calculate
+/integraldisplay1
+0/braceleftbigg1
+x/bracerightbigg
+dx.

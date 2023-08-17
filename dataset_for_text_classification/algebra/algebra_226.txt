@@ -1,0 +1,1 @@
+Prove that if a group has a finite number of subgroups, then it is also finite.

@@ -1,0 +1,1 @@
+Let (G, ) be a finite group and fAut(G). Prove that f has a single fixed point if and only if the function F : G  G, F(x) = x-1 f(x) is bijective.

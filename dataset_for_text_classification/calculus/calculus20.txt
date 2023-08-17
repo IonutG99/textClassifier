@@ -1,0 +1,1 @@
+Let $g(x) = 3x - 2$. Find a function $f$ such that $(f \circ g)(x) = 18x^2 - 36x + 19$.

@@ -1,0 +1,1 @@
+Determine the endomorphisms of the group ( ,+) integrable on [-b,b], where b >0 is a fixed real number.

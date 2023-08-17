@@ -1,0 +1,5 @@
+Prove that
+∞
+∑
+n=1Hn
+n2=2ζ(3).

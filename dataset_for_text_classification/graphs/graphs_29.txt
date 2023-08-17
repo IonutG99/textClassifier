@@ -1,0 +1,1 @@
+The list of edges of an undirected graph is given. Determine the number of edges that can be removed from the graph so that the number of connected components of the graph does not change.

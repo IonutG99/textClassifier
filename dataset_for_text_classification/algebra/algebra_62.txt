@@ -1,0 +1,1 @@
+Let G be a group and A,B,C G a.. A B, AC = BC and AC = BC. Prove that A = B (where AC = {ac | a A and cC}).

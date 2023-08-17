@@ -1,0 +1,3 @@
+
+           In a square with side length $6 \, \text{cm}$, find the length of the diagonal.
+           

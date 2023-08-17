@@ -1,0 +1,1 @@
+Let G = (0, ) \{1} and aG, *. We define the algebraic operation on G: xoy = xyaloga and denote by G a, = (G, o). Show that: (i) G a, is an abelian group; (ii) If bG, * then the groups G a, and G b, are isomorphic.

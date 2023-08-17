@@ -1,0 +1,1 @@
+Write a recursive C++ function that determines the sum of the digits of a natural number n passed as a parameter and returns the result via an output parameter.

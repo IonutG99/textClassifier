@@ -1,0 +1,1 @@
+Let G be a group with the property that G is written as the union of three different subgroups of G, two of which have two elements each. Show that G is isomorphic to the Klein group.

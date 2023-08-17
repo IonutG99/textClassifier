@@ -1,0 +1,11 @@
+Integrals to series. Letα>0a n dl e t p≥1 be an integer. Prove that
+∞
+∑
+n=1αn−1
+(α+p)(2α+p)···(nα+p)=e/integraldisplay1
+0xp−1+αe−xαdx
+and∞
+∑
+n=1(−1)n−1αn−1
+(α+p)(2α+p)···(nα+p)=e−1/integraldisplay1
+0xp−1+αexαdx.

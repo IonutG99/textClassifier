@@ -1,0 +1,1 @@
+Let (G, ) be a doublet consisting of a set and an associative algebraic operation. Show that if any a,b,c G there exists xG a.. axb = c, then (G, ) is a group.

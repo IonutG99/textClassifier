@@ -1,0 +1,1 @@
+Let S be a semigroup. Show that there exists a monoid M and an injective morphism of semigroups f : S  M.

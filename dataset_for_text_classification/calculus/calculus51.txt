@@ -1,0 +1,1 @@
+Let $f(x) = x^2 \cos(x)$. Then $(ax^2 + bx + c) \sin(x) + (Ax^2 + Bx + C) \cos(x)$ is an antiderivative of $f(x)$ if $a = $, $b = $, $c = $, $A = $, $B = $, and $C = $.

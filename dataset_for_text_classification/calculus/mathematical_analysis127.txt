@@ -1,0 +1,10 @@
+A multiple integral in t erms of Stieltjes constants. Letm≥1b ea n
+integer. Prove that
+/integraldisplay1
+0···/integraldisplay1
+0/braceleftbigg1
+x1x2···xm/bracerightbigg
+dx1dx2···dxm=1−m−1
+∑
+k=0γk
+k!.

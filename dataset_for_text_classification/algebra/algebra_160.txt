@@ -1,0 +1,1 @@
+Let G be a group a.. there exists A G finite and nonempty with the property that G \ A is a subgroup of G. (i) Show that G is finite and |G|  2|A| ; (ii) If |A| is prime, then |G| = 2|A| or |G| = |A| + 1.

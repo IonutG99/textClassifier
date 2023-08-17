@@ -1,0 +1,27 @@
+(a) Let fandgbe two continuous functions on [0,1]. Prove that
+lim
+n→∞/integraldisplay1
+0f/parenleftBig/braceleftBign
+x/bracerightBig/parenrightBig
+g(x)dx=/integraldisplay1
+0f(x)dx/integraldisplay1
+0g(x)dx,
+where{a}=a−⌊a⌋denotes the fractional part of a.
+(b)A special case. Letf:[0,1]→Rbe a continuous function. Prove that
+lim
+n→∞n/parenleftbigg/integraldisplay1
+0f/parenleftBig/braceleftBign
+x/bracerightBig/parenrightBig
+dx−/integraldisplay1
+0f(x)dx/parenrightbigg
+=1
+2/integraldisplay1
+0f(x)dx−/integraldisplay1
+0xf(x)dx.
+2The problem is motivated by the following limit of Traian Lalescu (see [ 82])
+lim
+n→∞/parenleftBig
+n+1/radicalbig
+(n+1)!−n√
+n!/parenrightBig
+=1/e.

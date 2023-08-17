@@ -1,0 +1,1 @@
+Let p be a prime number. Prove that x Sn is a solution of the equation xp = e  x is a product of disjoint cycles of length p in S n.

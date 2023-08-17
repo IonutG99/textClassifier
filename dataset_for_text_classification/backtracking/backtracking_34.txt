@@ -1,0 +1,1 @@
+A natural number n and an interval [a,b] are given. Determine, in lexicographical order, all the ways to write n as a sum of natural numbers in the interval [a,b].

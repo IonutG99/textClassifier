@@ -1,0 +1,1 @@
+An acyclic directed graph (ie, no circuits) is given. The length of an elementary path is given by the number of arcs. Determine the maximum length of an elementary path in this directed acyclic graph.

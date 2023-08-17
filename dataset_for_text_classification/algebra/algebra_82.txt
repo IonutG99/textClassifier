@@ -1,0 +1,1 @@
+Let (G, ) be a group, n , n3 and H 1, H 2,,H n subgroups of G a.. : 1) iniH1=U = G 2) H i injiiH=1U . Show that for any x G, there exists k*, k  (n-1) ! a.i. xkiniH1=I .

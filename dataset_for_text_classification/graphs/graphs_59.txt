@@ -1,0 +1,1 @@
+Given a directed graph with n nodes and a node p. Let show all nodes q of the graph, different from p, with the property that there is at least one path from p to q and the minimum path length is even.

@@ -1,0 +1,1 @@
+Let G be a group and K  G. Let it be proved that C G(K) = {1}  Z(H) = {1}, whatever H a.. K  H  G.

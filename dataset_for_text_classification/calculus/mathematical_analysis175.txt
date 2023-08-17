@@ -1,0 +1,5 @@
+Letk≥2b ea ni n t e g e r .F i n dt h es u m
+∞
+∑
+n=1(−1)n
+n!(n+k).

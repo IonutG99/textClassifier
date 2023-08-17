@@ -1,0 +1,11 @@
+Letn,m≥1 be integers. Prove that
+/braceleftBign
+m/bracerightBig
+=n
+m−1
+mn
+∑
+k=1m−1
+∑
+l=0e2πikl/m,
+where{a}denotes the fractional part of a.

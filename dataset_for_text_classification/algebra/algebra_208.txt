@@ -1,0 +1,1 @@
+Let G be a finite group and f:G G a group morphism that has no nontrivial fixed points (ie f(x) = x  x = 1) and fof = 1 G. Prove that G is commutative .

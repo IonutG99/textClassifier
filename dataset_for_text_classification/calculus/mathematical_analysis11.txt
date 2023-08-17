@@ -1,0 +1,7 @@
+Letαbe a positive real number. Calculate
+lim
+n→∞n
+∑
+k=1/parenleftbiggk
+n/parenrightbiggαk
+.

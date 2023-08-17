@@ -1,0 +1,2 @@
+If(xn)n≥1is a sequence which converges to zero and lim n→∞nk(xn−xn+1)=
+l∈[−∞,∞],with k>1, then lim n→∞nk−1xn=l/(k−1).

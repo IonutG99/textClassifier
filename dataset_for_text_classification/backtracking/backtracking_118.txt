@@ -1,0 +1,1 @@
+Write a program that, for a non-zero natural number n, finds the number of sequences of non-zero natural numbers a1, a2, a3,..., an, such that a1 * a2 * a3 *...* an = a1 + a2 + a3 +...+ year and a1 ≥ a2 ≥ a3 ≥...≥ year.

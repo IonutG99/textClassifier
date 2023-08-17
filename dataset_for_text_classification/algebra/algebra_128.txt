@@ -1,0 +1,1 @@
+Let G be a group and x G an element of finite order. Prove that: o(xn) | o(x), whatever n .

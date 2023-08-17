@@ -1,0 +1,7 @@
+Evaluating an integral limit. Letf:[a,b]→[0,1]be an increasing function
+which is differentiable at bwith f(b)=1a n d f/prime(b)/negationslash=0,and let gbe a bounded
+function on [a,b]with lim x→b−g(x)=L. Find the value of
+lim
+n→∞n/integraldisplayb
+afn(x)g(x)dx,
+assuming that the integral exists for each positive integer n.

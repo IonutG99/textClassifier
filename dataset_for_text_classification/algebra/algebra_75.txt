@@ -1,0 +1,1 @@
+For a finite group G we denote by s(G) the number of its subgroups. Show that: (i) For any real number a > 0 there exist finite groups G a.. aGsG<)( ; (ii) For any real number a > 0 there are finite groups G a.. aGsG>)(.

@@ -1,0 +1,1 @@
+Generate all strictly increasing strings of n nonzero natural numbers at most equal to S and with the property that whatever a and b are two numbers from such a string a-b divides a+b.

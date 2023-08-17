@@ -1,0 +1,21 @@
+Leta>1 be a real number and let kbe a positive number. Prove that
+lim
+x→∞xk
+lnx∞
+∑
+n=01
+an+xk=k
+lna
+and
+lim
+x→∞lnlnx/parenleftBigg
+xk
+lnx∞
+∑
+n=01
+an+xk−k
+lna/parenrightBigg
+=0.
+The Riemann zeta function, ζ,is a function of a complex variable deﬁned, for
+ℜ(z)>1, by ζ(z)=∑∞
+n=11/nz.

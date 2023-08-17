@@ -1,0 +1,1 @@
+Prove that if M   is a stable part relative to the addition and multiplication operations of complex numbers and   M  , then M =  or M = .

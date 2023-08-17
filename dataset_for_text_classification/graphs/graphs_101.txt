@@ -1,0 +1,1 @@
+A directed graph with n vertices and m arcs is given by the list of arcs. An unnecessary spring is a spring with the property of having its extremities in different hard connected components. Show the number of unnecessary arcs and what they are.

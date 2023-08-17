@@ -1,0 +1,1 @@
+Show that for \(0 < x < y\), the inequality \(\frac{\ln y}{x} < y - \frac{x}{x}\) holds.

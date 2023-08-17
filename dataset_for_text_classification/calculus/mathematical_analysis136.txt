@@ -1,0 +1,9 @@
+Letk>0 be a real number. Prove that
+/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggk
+x−y/bracerightbigg/braceleftbigg1
+x/bracerightbigg/braceleftbigg1
+y/bracerightbigg
+dxdy=1
+2(1−γ)2.

@@ -1,0 +1,1 @@
+Let G be a finite group with n elements. Prove that xn =1, for any x G. Let it be deduced from here that if a,n* a.. (a,n) = 1, then n | a(n)-1. Notice. The consequence of this result is due to Euler

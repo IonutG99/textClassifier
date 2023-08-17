@@ -1,0 +1,1 @@
+Evaluate the integral \(\int \frac{1}{\sqrt{1 - x^2}} \, dx\).

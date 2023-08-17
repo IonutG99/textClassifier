@@ -1,0 +1,1 @@
+Let (G,) be a group, f,g : G  G endomorphisms and H  G a proper subgroup. If f = g on G \ H, then f = g on G.

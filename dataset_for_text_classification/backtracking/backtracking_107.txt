@@ -1,0 +1,1 @@
+Let n be a nonzero natural number, the set A={1,2,3,...,n} and a number m, 1 ≤ m ≤ n. Determine all disjoint partitions of the set A, consisting of subsets with exactly m elements.

@@ -1,0 +1,1 @@
+Definition. A point $a$ in the domain of a function $f$ is a stationary point of $f$ if $f'(a) = 0$. It is a critical point of $f$ if it is either a stationary point of $f$ or if it is a point where the derivative of $f$ does not exist.

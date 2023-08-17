@@ -1,0 +1,6 @@
+The behavior of a remarkable geometric mean. Calculate
+limn→∞n/radicalBig/parenleftbign
+1/parenrightbig/parenleftbign2/parenrightbig
+···/parenleftbign
+n/parenrightbig
+en/2n−1/2.

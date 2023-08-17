@@ -1,0 +1,1 @@
+Determine all subsets with m elements of the set of divisors of a given natural number.

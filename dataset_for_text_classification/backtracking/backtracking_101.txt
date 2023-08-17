@@ -1,0 +1,1 @@
+In a yard there are c dogs and p cats. Generate in lexicographic order the strings formed with all the animals, which:

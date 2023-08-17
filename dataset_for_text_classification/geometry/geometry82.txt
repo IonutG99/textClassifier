@@ -1,0 +1,3 @@
+
+           In a concave quadrilateral with interior angles measuring $70^\circ$, $110^\circ$, $130^\circ$, and $50^\circ$, find the measure of the exterior angle at the vertex with the $130^\circ$ interior angle.
+           

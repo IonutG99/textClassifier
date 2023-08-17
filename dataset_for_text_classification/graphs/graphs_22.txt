@@ -1,0 +1,1 @@
+A directed graph is given in which the arcs have associated costs (non-zero natural numbers). Determine how many arcs (x,y) in the graph have a cost equal to the cost of the minimum cost path from x to y.

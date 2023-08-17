@@ -1,0 +1,8 @@
+Letk>0 be a real number. Find
+/integraldisplay1
+0/integraldisplay1
+0/braceleftBigg/parenleftbigg1
+x/parenrightbiggk
+−/parenleftbigg1
+y/parenrightbiggk/bracerightBigg
+dxdy.

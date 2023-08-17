@@ -1,0 +1,3 @@
+
+           In a square with diagonal $10 \, \text{cm}$, find the length of a side.
+           

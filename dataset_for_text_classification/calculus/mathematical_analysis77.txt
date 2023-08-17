@@ -1,0 +1,10 @@
+Are the limits equal to 1/4?Calculate
+limn→∞n/radicalBigg/integraldisplay1
+0xn(n+1)
+2(1−x)(1−x2)···(1−xn)dx
+and
+lim
+n→∞n/radicalBigg/integraldisplay1
+0x1+1
+2+···+1
+n(1−x)(1−√x)···(1−n√x)dx.

@@ -1,0 +1,1 @@
+Let M = (1, ) and an algebraic operation on M, o: MM  M, defined as follows: x o y = xy + ax + by + c (a,b,c ). Determine a,b,c knowing that (M,o) is a group and show that (M,o) is isomorphic to (,+).

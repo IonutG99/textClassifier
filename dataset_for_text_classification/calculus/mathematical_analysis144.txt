@@ -1,0 +1,58 @@
+The ﬁrst solution. The integral equals 1 /2. We have
+I=/integraldisplay1
+0/parenleftbigg/integraldisplayx
+0{x−y}dy+/integraldisplay1
+x{x−y}dy/parenrightbigg
+dx.
+We note that when 0 ≤y≤x,t h e n0≤x−y≤1,and hence {x−y}=x−y,a n dw h e n
+x≤y≤1, then−1≤x−y≤0, and hence, {x−y}=x−y−⌊x−y⌋=x−y+1.
+It follows that
+I=/integraldisplay1
+0/parenleftbigg/integraldisplayx
+0(x−y)dy+/integraldisplay1
+x(x−y+1)dy/parenrightbigg
+dx=1
+2.
+The second solution. By symmetry,
+I=/integraldisplay1
+0/integraldisplay1
+0{x−y}dxdy=/integraldisplay1
+0/integraldisplay1
+0{y−x}dxdy.
+Hence,
+I=1
+2(I+I)=1
+2/integraltext1
+0/integraltext1
+0({x−y}+{y−x})dxdy(2.12)=1
+2/integraltext1
+0/integraltext1
+0dxdy=1
+2,
+because the set on which the inte grand is 0 is a set of measure 0.
+2.51.We have, based on symmetry, that
+I=/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggx−y
+x+y/bracerightbigg
+dxdy=/integraldisplay1
+0/integraldisplay1
+0/braceleftbiggy−x
+x+y/bracerightbigg
+dxdy.
+Thus,
+I=1
+2(I+I)=1
+2/integraldisplay1
+0/integraldisplay1
+0/parenleftbigg/braceleftbiggx−y
+x+y/bracerightbigg
++/braceleftbiggy−x
+x+y/bracerightbigg/parenrightbigg
+dxdy(2.12)=1
+2/integraldisplay1
+0/integraldisplay1
+0dxdy=1
+2,
+because the set on which the inte grand is 0 is a set of measure 0.
+2.52.Use symmetry and identity ( 2.12) and Problem

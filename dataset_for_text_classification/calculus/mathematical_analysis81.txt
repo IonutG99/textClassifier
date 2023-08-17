@@ -1,0 +1,21 @@
+Letα,β,a n d pbe positive real numbers and let f:[0,1]→Rbe an integrable
+function which is continuous at 1. Calculate
+lim
+n→∞nα/integraldisplay1
+0/parenleftBigg
+∞
+∑
+k=nxk
+kp/parenrightBiggβ
+f(x)dx.
+1.5 Hints
+A hint is a word, or a paragraph, usually intended to help the
+reader to ﬁnd a solution. The hint itself is not necessarily acondensed solution of the problem; it may just point to what Iregard as the heart of the matter.
+Paul R. Halmos (1916–2006)
+1.5.1 Miscellaneous Limits
+Constants don’t vary—unless they are parameters.
+Anon.
+1.1.1/(n+nα)≤1/(n+kα)≤1/(n+1)for 1≤k≤n.
+1.2.Observe that 1 /2+2/3+···+n/(n+1)=n+1−γn+1−ln(n+1),where
+γn+1=1+1/2+···+1/(n+1)−ln(n+1), and study the behavior of the logarithm
+of the sequence in question.

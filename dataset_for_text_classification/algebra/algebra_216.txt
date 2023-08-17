@@ -1,0 +1,1 @@
+Prove that the only group morphism from the group (,+) to the symmetric group (S n,o) is the null one (n *).

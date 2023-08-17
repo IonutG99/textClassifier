@@ -1,0 +1,11 @@
+The limit is a log integral. Letf:[0,1]→(0,∞)be a function such that
+(lnf(x))/xis integrable over [0,1]and let g:[0,1]→Rbe an integrable function
+which is continuous at 1. Prove that
+lim
+n→∞n2/parenleftbigg/integraldisplay1
+0n/radicalbig
+f(xn)g(x)dx−/integraldisplay1
+0g(x)dx/parenrightbigg
+=g(1)/integraldisplay1
+0lnf(x)
+xdx.

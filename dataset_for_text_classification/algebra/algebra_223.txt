@@ -1,0 +1,1 @@
+Determine all groups that admit a single automorphism.

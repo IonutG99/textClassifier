@@ -1,0 +1,1 @@
+A directed graph with n vertices and m arcs is given by the list of arcs and a natural number k. Display the number of vertices of the connected hard component where vertex k is.

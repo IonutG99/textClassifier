@@ -1,0 +1,1 @@
+Find the values \(a, b \in \mathbb{R}\), \(b \neq 0\) such that the following equality holds:\[ \lim_{{n \to \infty}} \left(a + \frac{n}{b(n^2 + 2n + 1)}\right)^{n+1} = \frac{1}{e} \]

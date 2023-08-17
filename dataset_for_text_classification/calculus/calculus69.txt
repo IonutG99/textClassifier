@@ -1,0 +1,1 @@
+Show that the equation $e^x + x = 0$ has exactly one solution. Locate this solution between consecutive integers.

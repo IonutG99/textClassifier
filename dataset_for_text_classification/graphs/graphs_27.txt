@@ -1,0 +1,1 @@
+The list of edges of an undirected graph is given. Determine the minimum number of edges that must be added for the graph to become connected, and a set of such edges.

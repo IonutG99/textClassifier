@@ -1,0 +1,1 @@
+Show that in an abelian group G there is an element whose order is equal to the c.m.m.d.c of the orders of all elements x  1 of G.

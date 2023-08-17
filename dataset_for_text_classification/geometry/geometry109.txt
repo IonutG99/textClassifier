@@ -1,0 +1,3 @@
+
+           Dilate the point $P(2, 3)$ by a scale factor of $3$ with respect to the origin.
+           

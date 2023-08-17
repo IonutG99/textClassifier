@@ -1,0 +1,4 @@
+
+Determine the asymptotes of the function:
+
+$f:(1,\infty )\to\mathbb{R}$, $f(x)=\frac{x+2\ln x}{x^2-x+\ln x}$.

@@ -1,0 +1,1 @@
+Given a matrix with n rows and m columns and elements 0 or 1, representing the map of a planet, where 1 means dry and 0 means water. Two 1 elements that are adjacent on a row or column (not diagonally) are part of the same continent.

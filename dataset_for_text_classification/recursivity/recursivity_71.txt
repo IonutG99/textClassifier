@@ -1,0 +1,1 @@
+Write the complete definition of the multiple C++ recursive subroutine that takes 3 parameters: a, which receives a one-dimensional array of at most 100 natural numbers less than 1000, n, the actual number of elements in the array, and k, a natural number.

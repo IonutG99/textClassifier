@@ -1,0 +1,1 @@
+Let G be a group, x G a.. o(x) = n 1n2 with n 1,n2*, (n 1,n2)=1. Prove that the elements y,z G a. exist and are uniquely determined. x = yz = zy and o(y) = n 1, o(z) = n 2.

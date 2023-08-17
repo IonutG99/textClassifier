@@ -1,0 +1,1 @@
+A natural number n is given. Let us generate a square matrix of order 3n, with elements from the set {0, 1}, according to the Sierpinski carpet model.

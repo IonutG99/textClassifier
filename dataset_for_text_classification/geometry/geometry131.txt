@@ -1,0 +1,3 @@
+
+           Find the lateral surface area of a cylinder with radius 4 cm and height 10 cm.
+           

@@ -1,0 +1,7 @@
+Letk≥2 be an integer. Prove that
+/integraldisplay1
+0/braceleftbigg1
+k√x/bracerightbigg
+dx=k
+k−1−ζ(k),
+where ζdenotes the Riemann zeta function.

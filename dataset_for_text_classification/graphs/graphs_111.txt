@@ -1,0 +1,1 @@
+Given the list of edges of an undirected graph with n vertices and two vertices p q. Determine all elementary chains with ends p and q.

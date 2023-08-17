@@ -1,0 +1,1 @@
+Given a set with n elements, natural numbers. List in lexicographic order all permutations of the given set where the primes are fixed points (do not change position).

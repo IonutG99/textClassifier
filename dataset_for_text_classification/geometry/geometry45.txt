@@ -1,0 +1,3 @@
+
+           Prove that the angles in the same segment of a circle are equal to each other.
+           

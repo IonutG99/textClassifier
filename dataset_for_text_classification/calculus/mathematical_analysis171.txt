@@ -1,0 +1,6 @@
+Letabe a real number such that |a|<2. Prove that
+∞
+∑
+n=2an(n−ζ(2)−ζ(3)−···− ζ(n)) = a/parenleftbiggψ(2−a)+γ
+1−a−1/parenrightbigg
+.

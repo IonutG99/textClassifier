@@ -1,0 +1,3 @@
+
+           In a circle with radius $7 \, \text{cm}$, find the length of a chord that subtends an angle of $150^\circ$ at the center of the circle.
+           

@@ -1,0 +1,1 @@
+Suppose that $g$ has derivatives of all orders, that $g(0) = g'(0) = g''(0) = 0$, that $g'''(0) = 27$, and that there is a deleted neighborhood $U$ of 0 such that $g^{(n)}(x) \neq 0$ whenever $x \in U$.

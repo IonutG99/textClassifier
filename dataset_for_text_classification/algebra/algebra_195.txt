@@ -1,0 +1,1 @@
+Let S = { A M2() | A + I 2 is invertible }. On S we define it as follows: A oB = A + B + AB. Show that (S, o) is a group isomorphic to the group of matrices of order 2 with real, invertible elements.

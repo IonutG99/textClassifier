@@ -1,0 +1,10 @@
+Calculate
+lim
+n→∞1
+n/parenleftBigg
+n
+1
+2+2
+3+···+n
+n+1/parenrightBiggn
+.

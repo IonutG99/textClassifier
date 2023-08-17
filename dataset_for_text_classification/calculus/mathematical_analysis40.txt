@@ -1,0 +1,8 @@
+Letf:[0,1]→Rbe an integrable function which is continuous at 1 and let
+k≥1. Find the value of
+lim
+n→∞1
+nk/integraldisplay1
+0/parenleftBig
+x+2kx2+3kx3+···+nkxn/parenrightBig
+f(x)dx.

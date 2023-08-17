@@ -1,0 +1,1 @@
+Let (G, ) be a commutative group with unit element 1 and m, n *. Show that: HmHn = H [m,n], where we denoted H n = {x  G | xn = 1}, H mHn = {xy | x  Hm, y  Hn}, and [m,n] = c.m.m.m.c (m,n).

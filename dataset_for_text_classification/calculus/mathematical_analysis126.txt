@@ -1,0 +1,17 @@
+1. Let a>0 be a real number and let kbe a positive integer. Prove that
+/integraldisplaya+k
+a{x}dx=k
+2.
+2. Let n≥1b ea ni n t e g e ra n dl e t a1,..., anbe positive integers. Calculate
+/integraldisplaya1
+0···/integraldisplayan
+0{k(x1+x2+···+xn)}dx1dx2···dxn.
+The Stieltjes constants, γm,are the special constants deﬁned by
+γm=lim
+n→∞/parenleftBigg
+n
+∑
+k=1(lnk)m
+k−(lnn)m+1
+m+1/parenrightBigg
+.

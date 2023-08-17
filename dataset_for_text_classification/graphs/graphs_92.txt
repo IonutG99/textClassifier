@@ -1,0 +1,1 @@
+Given is the list of edges of an undirected graph with n vertices and vertex p. Determine all nodes q of the graph with the property that the minimum length of a chain from q to p is L.
